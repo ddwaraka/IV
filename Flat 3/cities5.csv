@@ -1,0 +1,767 @@
+year,ori,dest,crash_city,crash_country,lat,lon,death,airline
+1954,Churchchrist,Paraparaumu,Paraparaumu,New Zealand,-40.900557,174.885971,3,New Zealand National Airways
+1957,Paraparaumu,Timaru,Christchurch,New Zealand,-40.900557,174.885971,4,Straits Air Freight Express
+1949,Auckland,Wellington,Near Waikanae,New Zealand,-40.900557,174.885971,15,New Zealand National Airways
+1963,Auckland,Whenuapai,Mt. Ngatamahinerua,New Zealand,-40.900557,174.885971,23,New Zealand National Airways
+1959,Mar del Plata,Bahia Blanca,Off Mar del Plata,Aregntina,-38.416097,-63.616672,10,Aerolineas Argentinas
+1950,Mar del Plata,Buenos,Santiago del Estado,Argentina,-38.416097,-63.616672,17,Aerolineas Argentinas
+1966,Rio Gallegos,Buenos Aires,Puertos Lobos,Argentina,-38.416097,-63.616672,1,Aerovias Halcon
+1964,Rosario,Buenos Aires,Zarate,Argentina,-38.416097,-63.616672,28,Aerolineas Litoral Argentina
+1951,Ushuaia,Buenos Aires,Rio Grande,Argentina,-38.416097,-63.616672,11,Aerolineas Argentinas
+1961,Buenos Aires,Comodoro,Near Azul,Argentina,-38.416097,-63.616672,67,Aerolineas Argentinas
+1954,Mendoza,Cordoba,Sierra del Vilgo,Argentina,-38.416097,-63.616672,25,Aerolineas Argentinas
+1961,Salta,Cordoba,Buenos Aires,Argentina,-38.416097,-63.616672,24,Transcontinental
+1960,Buenos Aires,Lima,San Andres de Giles,Argentina,-38.416097,-63.616672,31,Military - Argentine Air Force
+1957,Buenos Aires,Mar Del Plata,Near Buenos Aires,Argentina,-38.416097,-63.616672,17,Fuerza Aérea Argentina
+1959,Buenos Aires,Mar del Plata,Off Mar del Plata,Argentina,-38.416097,-63.616672,51,Austral Lineas Aeras (Argentina)
+1956,Buenos Aires,Rio Cuarto,Rio Cuarto,Argentina,-38.416097,-63.616672,18,Aerolineas Argentinas
+1957,Buenos Aires,Rosario,Buenos Aires,Argentina,-38.416097,-63.616672,9,Aerolineas Argentinas
+1957,Buenos Aires,San Carlos,Bolivar,Argentina,-38.416097,-63.616672,61,Aerolineas Argentinas
+1960,Buenos Aires,Santiago,El Sosneado,Argentina,-38.416097,-63.616672,10,Transamerican Air Transport
+1950,Belgrad,Paula,Near Zagreb,Yugoslavia,-36.7810028,-73.11038,10,JAT Yugoslav Airlines
+1951,Belgrad,Skopje,Skopje,Yugoslavia,-36.7810028,-73.11038,12,JAT Yugoslav Airlines
+1965,Santiago,Buenos Aires,San Jose Volcano,Chile,-35.675147,-71.542969,87,LAN
+1959,"Arica, Colombia","Puerto Suarez, Bolilvia",Belen,Chile,-35.675147,-71.542969,5,Southern Cross Airways
+1961,Temuco,Santiago,Llico,Chile,-35.675147,-71.542969,24,LAN
+1961,Sydney,Canberra,Sydney,NSW,-33.864174,151.2052868,15,Ansett ANA
+1960,Asuncion,Buenos Aires,Near Salto,Uruguay,-32.522779,-55.765835,31,Aerolineas Argentinas
+1957,San Pablo,Porto Alegre,Montevideo,Uruguay,-32.522779,-55.765835,1,REAL
+1951,Port Elizabeth,Durbin,East Griqualand,South Africa,-30.559482,22.937506,17,South African Airways
+1967,Port Elizabeth,East London,Off East London,South Africa,-30.559482,22.937506,25,South African Airways
+1962,Grahamtown,Queentown,Near Seymour,South Africa,-30.559482,22.937506,2,South African Airways
+1960,Darwin,Baucau,Off Bathurst Island,Australia,-25.274398,133.775136,9,Transportes Aéreos de Timor
+1949,Coolangatta,Brisbane,Coolangatta,Australia,-25.274398,133.775136,16,Queensland Airlines
+1949,Guildford,Darwin,Near Guildford,Australia,-25.274398,133.775136,18,MaRoberston-Miller Airlines
+1966,Mount Isa,Longreach,Winton,Australia,-25.274398,133.775136,24,Ansett ANA
+1950,Guildford,Melbourne,York,Australia,-25.274398,133.775136,29,Ansett ANA
+1955,Sao Paulo,Asuncion,Near Asuncion,Paraguay,-23.442503,-58.443832,16,Panair do Brasil
+1968,Windhoek,Luanda,Near Windhoek,South Africa (Namibia),-22.95764,18.49041,123,South African Airways
+1968,Saint Denis,Paris,Near Saint Denis,Reunion,-21.115141,55.536384,19,Military - French Air Force
+1960,Rockhampton,MacKay,Off Mackay,Qld. Australia,-20.9175738,142.7027956,29,Trans Australia Airlines
+1955,Salisbury,Lusaka,Salisbury,Zimbabwe,-19.015438,29.154857,1,Central African Airways
+1958,Johannesberg,Salisbury,Salisbury,Zimbabwe,-19.015438,29.154857,3,Union Aeromaritime de Transport
+1950,Antananarivo,Tamatave,Near Tamatave,Madagascar,-18.766947,46.869107,14,Societe Transatlantique Aerienne
+1966,Riberalta,Cochabamba,Benito,Bolivia,-16.290154,-63.588653,3,Lloyd Aéreo Boliviano
+1950,Valle grande,Cochabamba,Near Vacas,Bolivia,-16.290154,-63.588653,32,Military - Bolivian Air Force
+1960,Laguna de Huana,Costa,Laguna de Huana-Costa,Boliva,-16.290154,-63.588653,59,Lloyd Aereo Boliviano
+1963,Arica,La Paz,Near Charana,Bolivia,-16.290154,-63.588653,41,Lloyd Aereo Boliviano
+1958,San Borja,La Paz,La Paz,Bolivia,-16.290154,-63.588653,3,TAM (Bolivia)
+1958,Tipuani,La Paz,Near La Paz,Bolivia,-16.290154,-63.588653,11,TAM (Bolivia)
+1964,Tipuani,La Paz,Tripuani,Bolivia,-16.290154,-63.588653,17,Aerolineas Abaroa
+1957,Cochabamba,Oruro,Near Sayari,Bolivia,-16.290154,-63.588653,19,Lloyd Aereo Boliviano
+1951,Cochabamba,Rio de Janeiro,Cochabamba,Bolivia,-16.290154,-63.588653,7,Loide Aéreo Nacional
+1962,Caranavi,Rurrenabaque,Near Alcoche,Bolivia,-16.290154,-63.588653,4,Aerolineas Abaroa
+1953,Camiri,Suere,Potosi,Bolivia,-16.290154,-63.588653,28,Lloyd Aereo Boliviano
+1958,Fortin Campero,Tarija,Villa Montes,Bolivia,-16.290154,-63.588653,20,TAM (Bolivia)
+1960,La Paz,Tipuani,Near Tipuani,Bolivia,-16.290154,-63.588653,6,TAM (Bolivia)
+1951,Maceio,Aracaju,Aracaju,Brazil,-14.235004,-51.92528,33,Loide Aereo Nacional
+1952,Sao Paulo,Bauru,Sao Paulo,Brazil,-14.235004,-51.92528,5,VASP
+1961,Rio de Janerio,Belem,Near Natal,Brazil,-14.235004,-51.92528,23,Military - Brazilian Air Force
+1955,Sao Paulo,Belem,Sao Paulo,Brazil,-14.235004,-51.92528,26,Cruzeiro Do Sud
+1954,Governador Valadares,Belo Horizonte,Cipo Mountain,Brazil,-14.235004,-51.92528,19,Transportes Aereos Nacionales
+1962,Rio de Janeiro,Brasilia,Near Brasilia,Brazil,-14.235004,-51.92528,1,Varig
+1952,Rio de Janeiro,Buenos Aires,Off Rio de Janeiro,Brazil,-14.235004,-51.92528,1,Pan American World Airways
+1967,Belem,Cachimbo,Near Coari,Brazil,-14.235004,-51.92528,20,Military - Brazilian Air Force
+1955,Rio de Janeiro,Caravelas,Caparao Mountain,Brazil,-14.235004,-51.92528,13,Cruzeiro
+1958,Florianopolis,Curitiba,Curitiba,Brazil,-14.235004,-51.92528,19,Cruzeiro
+1967,Sao Paulo,Curitiba,Near Curitiba,Brazil,-14.235004,-51.92528,21,Sadia
+1958,Rio de Janerio,Fortaleza,Rio de Janeiro,Brazil,-14.235004,-51.92528,5,Loide Aéreo Nacional
+1952,Rio Verde,Goiania,Palmeira de Goias,Brazil,-14.235004,-51.92528,24,Transportes Areos Nacionales
+1952,Rio de Janeiro,Guiana,Uberlandia,Brazil,-14.235004,-51.92528,8,Panair do Brasil
+1961,Lisbon,Ilha do Sal,Near Recife,Brazil,-14.235004,-51.92528,45,Panair do Brasil
+1949,"Sao Palo, Brazil","Jacarezinho, Panama",Taquaracucu,Brazil,-14.235004,-51.92528,20,REAL
+1962,Rio de Janeiro,Lisbon,Rio de Janerio,Brazil,-14.235004,-51.92528,15,Panair do Brazil
+1962,Belem,Manaus,Near Manaus,Brazil,-14.235004,-51.92528,50,Panair do Brasil
+1960,Cuiaba,Manaus,Cachimbo,Brazil,-14.235004,-51.92528,15,REAL
+1952,Rio de Janeiro,New York City,Near Carolina,Brazil,-14.235004,-51.92528,50,Pan American World Airways
+1956,Belem,Parintins,Parintins,Brazil,-14.235004,-51.92528,3,Panair do Brasil
+1963,Carazinbo,Passo Fundo,Passo Fundo,Brazil,-14.235004,-51.92528,15,Varig
+1950,Rio de Janeiro,Porte Algegre,Porte Alegre,Brazil,-14.235004,-51.92528,50,Panair do Brasil
+1949,Florianpolis,Porto Alegre,Near Florianpolis,Brazil,-14.235004,-51.92528,27,Military - Brazilian Air Force
+1949,Sao Paulo,Porto Alegre,Jaquirana,Brazil,-14.235004,-51.92528,5,Varig
+1952,Sao Paulo,Porto Alegre,San Fransisco do Paula,Brazil,-14.235004,-51.92528,14,REAL
+1954,Sao Paulo,Porto Alegre,Sao Paulo,Brazil,-14.235004,-51.92528,3,Varig
+1965,Mato Grosso,Porto Velho,Near Cuiaba,Brazil,-14.235004,-51.92528,13,Paraense Transportes Aéreos
+1951,Santa Cruz de Rio Prado,Presidente Prudent,Rancharia,Brazil,-14.235004,-51.92528,6,VASP
+1960,Belo Horizonte,Rio de Janeiro,Rio de Janeiro,Brazil,-14.235004,-51.92528,54,REAL
+1960,Campos,Rio de Janeiro,Rio de Janeiro,Brazil,-14.235004,-51.92528,61,REAL / Military - U.S. Navy
+1959,Hamburg,Rio de Janeiro,Rio de Janeiro,Brazil,-14.235004,-51.92528,36,Lufthansa
+1959,Sao Paulo,Rio de Janeiro,Sao Paulo,Brazil,-14.235004,-51.92528,20,VASP
+1962,Sao Paulo,Rio de Janeiro,Paraibuna,Brazil,-14.235004,-51.92528,26,VASP / Private
+1963,Sao Paulo,Rio de Janeiro,Sao Paulo,Brazil,-14.235004,-51.92528,37,Cruzeiro
+1964,Vitoria,Rio de Janeiro,Pico da Caledonia,Brazil,-14.235004,-51.92528,39,VASP
+1950,Victoria,Salvador,Near Iheus,Brazil,-14.235004,-51.92528,13,Aerovias Brasil
+1949,Porto Alegre,Sao Borja,Near Pelotas,Brazil,-14.235004,-51.92528,12,Viacao Aerea Gaucha S.A.
+1958,Rio de Janeiro,Sao Paulo,Rio de Janeiro,Brazil,-14.235004,-51.92528,21,VASP
+1959,Rio de Janeiro,Sao Paulo,Rid de Janeiro,Brazil,-14.235004,-51.92528,33,VASP
+1957,Rio de Janerio,Sao Paulo,Anchieta Island,Brazil,-14.235004,-51.92528,26,REAL
+1961,Sao Paulo,Trinidad,Campinas,Brazil,-14.235004,-51.92528,52,Aerolineas Argentinas
+1962,Rio de Janerio,Vitoria,Vitoria,Brazil,-14.235004,-51.92528,23,Cruzeiro
+1961,Leopoldville,Ndola,Ndola,Zambia,-13.133897,27.849332,16,United Nations Organization
+1950,Nova Lisboa,Lobito,Near Bocoio,Angola,-11.202692,17.873887,9,DTA Angola Airlines
+1954,Pucallpa,Lima,Jirishanga,Cerro de Pasco,-10.6776695,-76.2612763,24,TAM (Brazil)
+1959,Talara,Arica,Moro,Peru,-9.189967,-75.015152,8,Lineas Aéreas Interpolar
+1955,Lima,Cuzco,Pico Oiriruma-Vinac,Peru,-9.189967,-75.015152,19,Faucett
+1966,Lima,Cuzco,Tomas,Peru,-9.189967,-75.015152,49,LANSA
+1949,Tingo Maria,Huanuco,Near Huanuco,Peru,-9.189967,-75.015152,16,Faucett
+1959,Bogota,Lima,Cerros Baco,Peru,-9.189967,-75.015152,14,AVIANCA
+1964,Buenos Aires,Lima,Near Lima,Peru,-9.189967,-75.015152,46,Fuerza Aérea Argentina
+1949,Cuzco,Lima,Near Cuzco,Peru,-9.189967,-75.015152,22,TAM (Peru)
+1962,Porto Alegre,Lima,Lima,Peru,-9.189967,-75.015152,97,Varig
+1962,Huanuco,Pucallpa,Near Tino Maria,Peru,-9.189967,-75.015152,18,Faucett
+1959,Lima,Pucallpa,Near Toumavista,Peru,-9.189967,-75.015152,12,Transportes Aereos Peruanas
+1950,Maldorado,Quincemil,Cuzco,Peru,-9.189967,-75.015152,9,Faucett
+1967,Huanuco,Tingo Maria,Carpich Huanuco Mt.,Peru,-9.189967,-75.015152,72,Faucett
+1953,Nairobi,Dar,Mtara,Tanganyika,-6.2555679,29.5107708,13,Central African Airways
+1949,Leopoldville,Elizabethville,Leopoldville,Zaire,-4.038333,21.758664,5,Sabena
+1949,Mers Nueva,Ambato,Salasaca,Ecuador,-1.831239,-78.183406,34,Shell Co of Ecuador
+1958,Quito,Esmeraldas,Quito,Ecuador,-1.831239,-78.183406,3,Transportes Aereos Orientales
+1950,Quito,Guayaquil,Chimborcza,Ecuador,-1.831239,-78.183406,15,AVIANCA
+1965,Coca,Pastaza,Near Pastaza,Ecuador,-1.831239,-78.183406,9,TAO
+1960,Bogota,Quito,Near Quito,Ecuador,-1.831239,-78.183406,18,Military - U.S. Air Force
+1958,Guayaquil,Quito,Mt. Illiniza,Ecuador,-1.831239,-78.183406,32,AREA
+1960,Guayaquil,Quito,Near Quito,Ecuador,-1.831239,-78.183406,37,AREA
+1961,Surabaya,Balikpapan,Off Surabaya,Indonesia,-0.789275,113.921327,26,Garuda Indonesia Airlines
+1961,Jakarta,Bandung,Mt. Burangrang,Indonesia,-0.789275,113.921327,21,Garuda Indonesia Airlines
+1957,Mokmer,Manila,Near Biak,Indonesia,-0.789275,113.921327,58,KLM Royal Dutch Airlines
+1967,Jakarta,Menado via Surabaya,Menado,Indonesia,-0.789275,113.921327,22,Garuda Indonesia Airlines
+1955,Dar,es,Mt. Kilimanjaro,Kenya,-0.023559,37.906193,20,East African Airways
+1954,Australia,London,Kallang Airport,Singapore,1.352083,103.819836,33,British Overseas Airways
+1955,Hong Kong,Jakarta,Off Great Natuna Island,Sarawak,1.5532783,110.3592127,19,Air India
+1951,Douala,Niamey,Near Mt. Cameroun,Buea,4.1481842,9.245302,29,Air France
+1950,"Changi, Singapore",Kota Baru,Kampong Jenera,Malaysia,4.210484,101.975766,12,Military - Royal Air Force
+1962,Bogota,Araracuara,Near Villavicencio,Colombia,4.570868,-74.297333,31,Military - Colombian Air Force
+1954,Medellin,Armenia,Manizales,Colombia,4.570868,-74.297333,21,AVIANCA
+1962,Bucaramanga,Barrancabermeja,Barranca Bermeja,Colombia,4.570868,-74.297333,24,Taxader Airlines
+1966,Bogota,Barranquilla,Bogota,Colombia,4.570868,-74.297333,2,Avianca
+1962,Manizales,Bogota,Municipio de Marulanda,Colombia,4.570868,-74.297333,2,Avianca
+1966,Miami,Bogota,Bogota,Colombia,4.570868,-74.297333,17,Aerocondor de Colombia
+1964,Pereira,Bogota,Bogota,Colombia,4.570868,-74.297333,28,Taxi Aereo de Santander
+1962,Berranca Bermeja,Bucaramanga,Berranca Bermeja,Colombia,4.570868,-74.297333,20,Taxader Airlines
+1965,Bogota,Bucaramanga,Bucaramanga,Colombia,4.570868,-74.297333,19,AVIANCA
+1965,Bogota,Bucaramanga,Sugar Loaf Mountain,Colombia,4.570868,-74.297333,28,AVIANCA
+1966,Bogota,Cali,Cascubel River,Colombia,4.570868,-74.297333,29,AVIANCA
+1956,Buenaventura,Cali,El Rucio Mountain,Colombia,4.570868,-74.297333,36,Empresa Aviacion del Pacifico
+1955,Condoto,Cali,Trujillo,Colombia,4.570868,-74.297333,8,AVIANCA
+1957,Condoto,Cali,El Soldado,Colombia,4.570868,-74.297333,15,AVIANCA
+1959,San Andres Island,Cartagena,Off Cartagena,Colombia,4.570868,-74.297333,45,Sociedad Aeronautica Medellin
+1966,Bogata,Crespo,Off Cartagena,Colombia,4.570868,-74.297333,56,AVIANCA
+1949,Bogota,Ibague,Near Bogota,Colombia,4.570868,-74.297333,32,SAETA
+1950,Popayan,Ipiales,Near Pasto,Colombia,4.570868,-74.297333,25,LANSA
+1950,"Kingston, Jamacia","Maracaibo, Venezuela",Near Fonseca,Colombia,4.570868,-74.297333,15,New Tribes Mission
+1956,Bogota,Medellin,Caqueta,Colombia,4.570868,-74.297333,14,AIDA
+1964,Condoto,Medellin,Near Condoto,Colombia,4.570868,-74.297333,2,AVIANCA
+1960,Miami,Medellin,Bogota,Colombia,4.570868,-74.297333,37,Lloyd Aereo Colombiano
+1960,San Andres,Medellin,Cordoba,Colombia,4.570868,-74.297333,25,SAMSA
+1962,Bahia Solano,Quibdo,Serrania del Baudo,Colombia,4.570868,-74.297333,40,AVISPA
+1965,Neiva,San Vicente del Caguan,Near Boqueron,Colombia,4.570868,-74.297333,30,Aerolineas TAO
+1960,Aracacuara,Villavicencio,El Refugio,Colombia,4.570868,-74.297333,6,Agencia Interamericana de Aviada
+1950,Kwajzalein,Tokyo,Kwajalein,Marshall Islands,6.0683017,171.989379,26,Military - U.S. Navy
+1957,Maiquetia,Barinas,Niquitao,Venezuela,6.42375,-66.58973,8,Avensa
+1960,Maiquetia,Calabozo,Near Calabozo,Venezuela,6.42375,-66.58973,13,Linea Aeropostal Venezolana
+1950,Merida,Caracas,Valera,Venezuela,6.42375,-66.58973,31,Avensa
+1968,New York City,Caracas,Near Caracas,Venezuela,6.42375,-66.58973,51,Pan American World Airways
+1959,Merida,Lagunillas,Near Merida,Venezuela,6.42375,-66.58973,4,Linea Expresa Bolivar
+1956,New York City,Maiquetia,Caracas,Venezuela,6.42375,-66.58973,25,Linea Aeropostal Venezolana
+1961,San Antonio,Maiquetia,Near Caracas,Venezuela,6.42375,-66.58973,12,Linea Aeropostal Venezolana
+1951,Johannesburg,Accra,Near Sanoyea,Liberia,6.428055,-9.429499,40,Pan American World Airways
+1967,Rome,Monrovia,Monrovia,Liberia,6.428055,-9.429499,51,Varig
+1955,Douala,Fort Lamy,Fort Lamy,Cameroon,7.369722,12.354722,3,Union Aéromaritime de Transport
+1963,Douala,Lagos,Near Buca,Cameroon,7.369722,12.354722,55,Air Afrique
+1962,Douala,Lisboa,Douala,Cameroon,7.369722,12.354722,111,Caledonian Airways
+1965,Panama City,Miami,Panama City,Panama,8.537981,-80.782127,7,Rutas Internacionales Peruanes
+1955,Enugu,Calabar,Near Calabar,Nigeria,9.081999,8.675277,13,West African Airways
+1961,Tripoli,Kano,Near Kano,Nigeria,9.081999,8.675277,1,Continentale Deutsche Luftreederei
+1968,Brussels,Lagos,Near Lagos,Nigeria,9.081999,8.675277,7,Sabena
+1956,Kano,Tripoli,Kano,Nigeria,9.081999,8.675277,32,British Overseas Airways
+1964,"Dublin, Ireland",Addis Ababa,Addis Ababa,Ethiopia,9.145,40.489673,1,Interocean
+1961,Addis Ababa,Asmara,Near Sendafar,Ethiopia,9.145,40.489673,5,Ethiopian Airlines
+1960,Bulchi,Jimma,Near Jima,Ethiopia,9.145,40.489673,1,Ethiopian Airlines
+1962,Tippi,Jimma,Near Tippi,Ethiopia,9.145,40.489673,5,Ethiopian Airlines
+1953,Palmar Sur,San Isidoro,San Ramon Mtns.,Costa Rica,9.748917,-83.753428,11,LACSA
+1962,Porlamar,Cumana,Portlamar,Margarita Island,10.9970723,-63.9113296,23,Avensa
+1960,Niamey,Khartoum,Jebel Marra,Sudan,12.862807,30.217636,12,Balair
+1952,Juba,Wadi Halfa,Kosti,Sudan,12.862807,30.217636,2,Phoenix Airlines
+1960,Siuna,Bonanza,Siuna,Nicaragua,12.865416,-85.207229,2,Lanica
+1956,Tocumen,Guatemala City,Puerto Somoza,Nicaragua,12.865416,-85.207229,25,Aerovias Guest
+1957,San Carlos,Managua,Ometepe Island,Nicaragua,12.865416,-85.207229,16,Lanica
+1959,Las Mercedes,Tegucigalpa,Managua,Nicaragua,12.865416,-85.207229,15,TACA
+1965,Cebu,Bacolod,Near La Carlota,Phillipines,12.879721,121.774017,11,Filipinas Orient Airways
+1950,Naha AB,Clark AB,Near Baguio,Philippines,12.879721,121.774017,38,Military - U.S. Air Force
+1965,Hong Kong,Da Nang,Near Libacao,Philippines,12.879721,121.774017,37,Military - Philippine Air Force
+1960,Cebu,Davao,Cebu City,Philippines,12.879721,121.774017,28,Philippine Air Lines
+1963,Cotabato,Davao,Near Davao City,Philippines,12.879721,121.774017,27,Philippine Air Lines
+1968,Manila,Lapu Lapu,Off Panay Island,Philippines,12.879721,121.774017,14,Air Manila
+1965,Manila,Legazpi,Legaspi,Philippines,12.879721,121.774017,2,Air Manila
+1967,Bacolod,Mactan,Bacolod,Philippines,12.879721,121.774017,21,Philippine Air Lines
+1967,Manila,Mactan,Mactan,Philippines,12.879721,121.774017,12,Philippine Air Lines
+1964,Cotabato,Malabang,Marawi,Philippines,12.879721,121.774017,31,Philippine Air Lines
+1957,Cebu,Manila,Near Cebu,Philippines,12.879721,121.774017,24,Military - Philippine Air Force
+1950,Iloilo,Manila,Iloilo,Philippines,12.879721,121.774017,4,Philippine Air Lines
+1960,Iloilo,Manila,Manila,Philippines,12.879721,121.774017,33,Philippine Air Lines
+1964,Kalibo,Manila,Near Kaliba,Philippines,12.879721,121.774017,1,Fleming Airways System Transport
+1960,Okinawa,Manila,Off Manila,Philippines,12.879721,121.774017,1,Northwest Orient Airlines
+1965,Manila,Naga,Libmanan,Philippines,12.879721,121.774017,10,Fairways
+1957,Ozamis City,Pagadian,Ozamis City,Philippines,12.879721,121.774017,2,Philippine Air Lines
+1966,Mamburao,San Jose,Sagalyan,Philippines,12.879721,121.774017,24,Philippine Air Lines
+1958,San Francisco,Singapore,Manila,Philippines,12.879721,121.774017,1,Pan American World Airways
+1965,Manila,Tacloban,Near Manila,Philippines,12.879721,121.774017,1,Philippine Air Lines
+1964,Siocon,Zamboanga,Sibuco Point,Philippines,12.879721,121.774017,11,Philippine Air Lines
+1960,Guam,Wake Island,Agana,Guam,13.444304,144.793731,80,World Airways
+1967,Siagon,Cam Ranh Bay AB,Near Phan Rang,South Vietnam,14.058324,108.277199,25,Military - U.S. Navy
+1953,Hue,Da Nang,Off Da Nang,Vietnam,14.058324,108.277199,8,Aigle Azur
+1962,Hue,Da Nang,Near Tourane,South Vietnam,14.058324,108.277199,27,Air Vietnam (South Vietnam)
+1968,Saigon,Da Nang,Near Ban Me Thuot,South Vietnam,14.058324,108.277199,23,Military - U.S. Air Force
+1968,Hue,Khe Sanh,Near Khe Sanh,South Vietnam,14.058324,108.277199,49,Military - U.S. Air Force
+1966,Saigon,Korat AB,Near Siagon,South Vietnam,14.058324,108.277199,25,Military - U.S. Air Force
+1953,Hanoi,Na San,NW of Hanoi,Vietnam,14.058324,108.277199,30,Aigle Azur
+1967,An Khe,Tan Son Nhut,An Khe,South Vietnam,14.058324,108.277199,35,Military - U.S. Air Force
+1950,Hue,Tourane,Saigon,Vietnam,14.058324,108.277199,4,Societe Indochinoise de Transport Aeriens
+1965,Pleiku,Tuy Hoa,Near Tuy Hoa,South Vietnam,14.058324,108.277199,85,Military - U.S. Air Force
+1962,Bratislava,Brno,Brno,Czechoslovakia,14.4803708,121.0390178,11,Ceskoslovenske Aerolinie
+1956,Bratislava,Kosice,Torysa,Czechoslovakia,14.4803708,121.0390178,22,Ceskoslovenske Aerolinie
+1968,Praha,Kosice,Near Prague,Czechoslovakia,14.4803708,121.0390178,11,Ceskoslovenske Aerolinie
+1954,Praha,Moravska,Prague,Czechoslovakia,14.4803708,121.0390178,15,Ceskoslovenske Aerolinie
+1950,Ostrava,Prague,Near Prague,Czechoslovakia,14.4803708,121.0390178,5,Ceskoslovenske Aerolinie
+1966,Bratislava,Praha,Near Bratislava,Czechoslovakia,14.4803708,121.0390178,82,Transportno Aviatsionno Bulgaro-Soviet Obshchestvo
+1960,Paris,Dakar,Off Dakar,Senegal,14.497401,-14.452362,63,Air France
+1959,San Salvador,Miami,Near Tegucigalpa,Honduras,15.199999,-86.241905,3,Pan American World Airways
+1953,San Pedro,San Andres,San Andres,Honduras,15.199999,-86.241905,3,TACA
+1967,San Pedro Sula,Tegucigalpa,Tegucigalpa,Honduras,15.199999,-86.241905,4,Sahsa Airlines
+1952,Fort Lamy,Beirut,Lake Chad,Chad,15.454166,18.732207,5,Union Aeromaritime de Transport
+1959,Copan,Nuovo Octopeque,Mt. Pena Blanca,Guatemala,15.783471,-90.230759,5,Sahsa Airlines
+1956,Kano,Tripoli,Guatemala City,Guatemala,15.783471,-90.230759,30,Aviateca
+1962,Hong Kong,Bangkok,Near Bangkok,Thailand,15.870032,100.992541,26,United Arab Airlines
+1967,Bangkok,Chiang Mai,Chiang Mai,Thailand,15.870032,100.992541,4,Thai Airways
+1964,Khoke Kathiam,Vaong Nong,Near Vaong Nong,Thailand,15.870032,100.992541,28,Military - Royal Thai Air Force
+1962,Paris,Pointe,Basse-Terre,Guadaloupe,16.2572222,-94.0869444,112,Air France
+1968,Caracas,Pointe a Pitre,Basse-Terre,Guadeloupe,16.265,-61.551,63,Air France
+1965,Fort de France,"Saint Johns, Antigua",Montserrat,Antigua,17.0746557,-61.8175207,30,Pan American World Airways
+1960,Miami,Montigo Bay,Montego Bay,Jamacia,18.109581,-77.297508,37,AVIANCA
+1949,San Juan,Miami,San Juan,Puerto Rico,18.220833,-66.590149,53,Strato Freight
+1952,San Juan,New York City,North of San Juan,Puerto Rico,18.220833,-66.590149,52,Pan American World Airways
+1968,Lagos,Port Harcourt,Port Harcourt,Biafra,19.2927634,-99.1446375,57,Pan African Airlines
+1962,Travis AFB,Honolulu,Western PacifiOcean,Philippine Sea,19.4914108,132.5509603,107,Flying Tiger Line
+1962,Bangkok,Bombay,Near Junnar,Maharashtra,19.7514798,75.7138884,94,Alitalia
+1963,Bangkok,Bombay,Off Bandra,Maharashtra,19.7514798,75.7138884,63,United Arab Airlines
+1967,Vientiane,Luang Prabang,Near Luang Prabang,Laos,19.85627,102.495496,18,Taiwan Aviation
+1967,Vientiane,Luang Prabang,Near Luang Prabang,Laos,19.85627,102.495496,16,Vehu Akat
+1954,Luang Prabang,Nam Tha,Near Luang Pragang,Laos,19.85627,102.495496,28,Air Laos
+1954,Red River delta,Saigon,Near Pakse,Laos,19.85627,102.495496,47,Air Vietnam (South Vietnam)
+1968,Vientiane,Sayaboury,Ban Napa,Laos,19.85627,102.495496,37,Royal Air Lao
+1957,San Fransisco,Honolulu,900 miles E of Honolulu,Hawaii,19.8967662,-155.5827818,44,Pan American World Airways
+1962,Honolulu,"Nadi, Fiji",Honolulu,Hawaii,19.8967662,-155.5827818,27,Canadian PacifiAir Lines
+1959,Dum Dum,Agartala,Near Silchar,India,20.593684,78.96288,24,Indian Airlines
+1953,Delh,Ahmedabad,New Delhi,India,20.593684,78.96288,18,Air India
+1959,Mohanbari,Along,Sagone,India,20.593684,78.96288,6,Kalinga Airlines
+1956,Asansol,Bagdogra,Indapur,India,20.593684,78.96288,3,National Air Operators
+1949,Delhi,Bombay,Near Bombay,India,20.593684,78.96288,45,KLM Royal Dutch Airlines
+1953,Delhi,Dacca,Kalasahar,India,20.593684,78.96288,16,Orient Airways
+1966,Calcutta,Delhi,Delh,India,20.593684,78.96288,2,Indian Airlines
+1952,Madras,Delhi,Delhi,India,20.593684,78.96288,9,Deccan Airways
+1955,Nagpur,Delhi,Nagpur,India,20.593684,78.96288,10,Indian Airlines
+1966,Srinngar,Jammu,Srinagar,India,20.593684,78.96288,37,Indian Airlines
+1968,Bangkok,Karachi,Calcutta,India,20.593684,78.96288,6,Pan American World Airways
+1958,Dehli,Karachi,New Delhi,India,20.593684,78.96288,21,Pakistan International Airlines
+1963,Madras,Nagpur,Near Patti,India,20.593684,78.96288,18,Indian Airlines
+1963,Amritsar,Srinagar,Sama,India,20.593684,78.96288,29,Indian Airlines
+1950,Delhi,Sringagar,Near Patharkot,India,20.593684,78.96288,22,Indian National Airlines
+1951,Bangalore,Trivandrum,Bangalore,India,20.593684,78.96288,22,Air India
+1952,Tripoli,Kano,Near Atar,Mauritania,21.00789,-10.940835,1,British Overseas Airways
+1962,Santiago de Cuba,Havana,Santiago de Cuba,Cuba,21.521757,-77.781167,22,Cubana de Aviacion
+1958,Miami,Varadero,Nipe Bay,Cuba,21.521757,-77.781167,17,Cubana de Aviacion
+1955,Meiktila,Lanywa,Meikitila,Myanmar,21.916221,95.955974,9,Union of Burma Airways
+1956,Rangoon,Mandalay,Thazi,Burma,21.916221,95.955974,12,Union of Burma Airways
+1963,Rangoon,Putao,Yunnan,Burma,21.916221,95.955974,20,Union of Burma Airways
+1951,Bangkok,Hong Kong,Cape d'Arguilar,Hong Kong,22.396428,114.109497,16,Siamese Airways
+1949,"Manila, Philippines",Hong Kong,Braemar Resevoir,Hong Kong,22.396428,114.109497,23,Cathay PacifiAirways
+1967,Seoul,Hong Kong,Kai Tak,Hong Kong,22.396428,114.109497,24,Thai International
+1953,Calcutta,Delhi,Near Jalalogori,West Bengal,22.9867569,87.8549755,43,British Overseas Airways
+1953,Sharjah,Bahrain,Sharjah,United Arab Emirates,23.424076,53.847818,1,Orient Airways
+1968,Tijuana,"Black Warrior Lagoon, Baja",Ensenada,Mexico,23.634501,-102.552784,12,Exportada De Sal S.A.
+1953,Monterrey,Falcon Dam,Near Monterrey,Mexico,23.634501,-102.552784,21,Aerovias Contreras
+1955,Puerto Vallarta,Guadalajara,Mascota,Mexico,23.634501,-102.552784,26,Mexicana
+1959,Mexicale,Guaymas,Puerto Kino,Mexico,23.634501,-102.552784,26,Tigres Voladores
+1953,Campeche,Mérida,Chablekal,Mexico,23.634501,-102.552784,1,Transportes Aéreos Mexicanos
+1967,La Paz,Mazatlan,Near La Paz,Mexico,23.634501,-102.552784,3,Aeronaves de Mexico
+1949,Mexico City,Merida,Orizaba,Mexico,23.634501,-102.552784,17,Mexicana
+1959,Mexico City,Merida,Poza Rica,Mexico,23.634501,-102.552784,1,Mexicana
+1968,Aguascalientes,Mexico City,Near Mexico City,Mexico,23.634501,-102.552784,18,Aerovias Rojas
+1958,Guadalajara,Mexico City,Near Guadalajara,Mexico,23.634501,-102.552784,45,Aeronaves de Mexico
+1967,Havana,Mexico City,Near Mexico City,Mexico,23.634501,-102.552784,10,Cubana de Aviacion
+1960,Tapachula,Mexico City,Near Juchetipec,Mexico,23.634501,-102.552784,8,Mexicana
+1949,Tapacula,Mexico City,Mt. Popocatepetl,Mexico,23.634501,-102.552784,24,Mexicana
+1954,Mazatlan,Monterey,Monterrey,Mexico,23.634501,-102.552784,18,Aeronaves de Mexico
+1955,Acapulco,Oaxaca,Oaxaca,Mexico,23.634501,-102.552784,22,Lineas Areas Unidas
+1968,Reynosa,Tampico,Near Ciudad Vitoria,Mexico,23.634501,-102.552784,26,Servicios Aéreos Especiales
+1951,Mexico City,Villahermossa,Cerro Blanco,Mexico,23.634501,-102.552784,8,Aero Transportes
+1951,Hong Kong,"Iwakuni, Japan",Near An tung,Taiwan,23.69781,120.960515,16,Military -Royal Air Force
+1964,Taichung,Tainan,Taichung,Taiwan,23.69781,120.960515,57,Civil Air Transport
+1968,Hong Kong,Taipei,Linkuo,Taiwan,23.69781,120.960515,21,Civil Air Transport
+1967,Nejran,Jeddah,Khamis Mushait,Saudi Arabia,23.885942,45.079162,16,Saudi Arabian Airlines
+1964,"Freeport, Grand Bahamas","West Palm Beach, FL",Freeport,Bahamas,25.03428,-77.39628,4,Private air taxi
+1960,"Atsugi, Japan","Subi Point, Philippines",Off Naha,Okinawa,26.2124013,127.6809317,29,Military - U.S. Marine Corps
+1958,Wadi Halfa,Benina,Benghazi,Libya,26.3351,17.228331,36,Central African Airways
+1949,Khartoum,Castel Benito,Castel Benito,Libya,26.3351,17.228331,1,Skyways of London
+1968,Libya,England,Got el Afraq,Libya,26.3351,17.228331,11,Military - Royal Air Force
+1955,Rome,Tripoli,Idris,Libya,26.3351,17.228331,15,British Overseas Airways
+1963,Cairo,Alexandria,Near Ayayda,Egypt,26.820553,30.802498,34,United Arab Airlines
+1968,Cairo,Beirut,Zifta,Egypt,26.820553,30.802498,4,United Arab Airlines
+1962,"Cairo, Egypt","Beirut, Lebanon",Near Cairo,Egypt,26.820553,30.802498,3,United Arab Airlines
+1951,Ankara,Cairo,Cairo,Egypt,26.820553,30.802498,5,Devlet Hava Yollari
+1958,Athens,Cairo,Menzalah Lake,Egypt,26.820553,30.802498,8,Misrair
+1966,Nicosia,Cairo,Cairo,Egypt,26.820553,30.802498,30,United Arab Airlines
+1961,Rome,Cairo,Cairo,Egypt,26.820553,30.802498,20,KLM Royal Dutch Airlines
+1968,Cairo,Damascus,Off Port Said,Egypt,26.820553,30.802498,40,United Arab Airlines
+1965,Karachi,Dhahran,Cairo,Egypt,26.820553,30.802498,119,Pakistan International Airlines
+1963,Cairo,Luxor,Cairo,Egypt,26.820553,30.802498,6,Misrair
+1956,Saigon,Paris,Near Cairo,Egypt,26.820553,30.802498,52,Transport Aerien Intercontinentaux (France)
+1950,Cairo,Rome,Near Wadi Natrun,Egypt,26.820553,30.802498,55,Trans World Airlines
+1965,Cairo,Yamen,Cairo,Egypt,26.820553,30.802498,30,Military - Soviet Air Force
+1968,Ft. Lauderdale,Bahama Island,Ft. Lauderdale,Florida,27.6648274,-81.5157535,4,Red Aircraft Service - Air Taxi
+1963,Miami,Chicago,Near Miami,Florida,27.6648274,-81.5157535,43,Northwest Orient Airlines
+1951,Miami,Havana,Key West,Florida,27.6648274,-81.5157535,43,Cubana de Aviacion / Military - US Navy
+1964,Gainsville,Jacksonville,Gainsville,Florida,27.6648274,-81.5157535,10,South Central Airlines
+1955,Miami,Jacksonville,Jacksonville,Florida,27.6648274,-81.5157535,17,Eastern Air Lines
+1955,"Mobile, AL","Macon, GA",Off Pensacola,Florida,27.6648274,-81.5157535,2,Aaxico Airlines
+1953,Whitting NAS,Norfolk NB,Near Milton,Florida,27.6648274,-81.5157535,44,Military - U.S. Navy
+1958,Algier,Colomb,SW of Algiers,Algeria,28.033886,1.659626,15,Air France
+1950,Algiers,Gao,Tunbukta,Algeria,28.033886,1.659626,26,Cie Air Transport
+1961,"Fort Lamy, Chad","Marseilles, France",Stah,Algeria,28.033886,1.659626,78,Air France
+1967,Algiers,Tamanrasset,Tamanrasset,Algeria,28.033886,1.659626,35,Air Algerie
+1965,Tenerife,"Manchester, England",Tenerife,Canary Islands,28.2915637,-16.6291304,32,Spantax
+1958,Simra,Kathmandu,Near Kathmandu,Nepal,28.394857,84.124008,20,Indian Airlines
+1962,Katmandu,New Deli,Near Kathmandu,Nepal,28.394857,84.124008,10,Royal Nepal Airlines
+1964,Mexico City,New Orleans,Lake Pontchartrain,New Orleans,29.9510658,-90.0715323,58,Eastern Air Lines
+1962,Kabul,"Amritsar, India",Near Lahore,Pakistan,30.375321,69.345116,1,Indian Airlines
+1949,Agartala,Calcutta,Comilla,Pakistan,30.375321,69.345116,7,Bharat Airways
+1965,Peshawar,Chitral,Lowery Pass,Pakistan,30.375321,69.345116,22,Pakistan International Airlines
+1956,Gilgit,Islamabad,Jalkot,Pakistan,30.375321,69.345116,3,Pakistan International Airlines
+1952,Khewra,Peshawar,Near Khewra,West Pakistan,30.375321,69.345116,18,Military - Pakistan Air Force
+1953,Karachi,Rangoon,Karachi,Pakistan,30.375321,69.345116,11,Canadian PacifiAir Lines
+1965,Rawalpindi,Skardu,Near Patian,Pakistan,30.375321,69.345116,4,Pakistan International Airlines
+1949,Bermuda,Kingston,AtlantiOcean,off Bermuda,30.4530328,-87.1784952,20,British South American Airways
+1967,Los Angeles,Cincinnati,Cincinnati International Airport,Covington/Hebron,30.4754702,-90.1009108,70,Trans World Airlines
+1965,New York City,Cincinnati,Cincinnati Airport,near Covington,30.4754702,-90.1009108,58,American Airlines
+1955,Cincinnati,Cleveland,Greater Cincinnati Airport,Covington,30.4754702,-90.1009108,15,Trans World Airlines / Castleton Inc.
+1959,Jerusalem,Dobouk,Dabouk,Jordan,30.585164,36.238414,10,Air Jordan
+1951,Butterworth,Kota Bharu,Mt. Bukit,Besar,30.8829209,-1.8318334,10,Air Carriers
+1967,New Orleans AP,New Orleans AP,New Orleans,Louisiana,30.9842977,-91.9623327,6,Delta Air Lines
+1950,Casablanca,Algiers,Casablanca,Morocco,31.791702,-7.09262,4,Air Atlas
+1950,Paris,Dakar,Casablanca,Morocco,31.791702,-7.09262,22,Aigle Azur
+1958,Lisbon,Leopoldville,Near Casablanca,Morocco,31.791702,-7.09262,61,Sabena
+1961,Paris,Rabat,Near Rabat,Morrocco,31.791702,-7.09262,77,Air France
+1961,Zurich,Rabat,Casablanca,Morocco,31.791702,-7.09262,72,Ceskoslovenske Aerolinie
+1965,Malaga,Tangiers,Off Tangiers,Morocco,31.791702,-7.09262,50,Iberia Airlines
+1959,Houston,Dallas,Buffalo,Texas,31.9685988,-99.9018131,34,Braniff Airlines
+1968,Houston,Dallas,Near Dawson,Texas,31.9685988,-99.9018131,85,Braniff Airlines
+1959,"Abilene, TX","Forth Worth, TX",Abilene,Texas,31.9685988,-99.9018131,2,Aaxico Airlines
+1949,New York City,Mexico City,Dallas,Texas,31.9685988,-99.9018131,28,American Airlines
+1959,"Pueblo, CO","San Antoonio, TX",Kerrville,Texas,31.9685988,-99.9018131,3,General Airways
+1953,Dallas,Shreveport,Near Marshall,Texas,31.9685988,-99.9018131,19,Delta Air Lines
+1959,"Orlando, FL","Atlanta, GA",Alma,Georgia,32.1656221,-82.9000751,2,Riddle Airlines
+1952,Madrid,Azores,Off Bermuda-Kindley Field,Bermuda,32.3078,-64.7505,37,Cubana de Aviacion
+1953,Miami,Orlando,Off Mobile,Alabama,32.3182314,-86.902298,46,National Airlines
+1955,Newark,Chicago,Springfield,Mississippi,32.3546679,-89.3985283,13,American Airlines
+1963,Tehran,Beirut,Near Karai,Iran,32.427908,53.688046,4,Middle East Airlines
+1952,Abadan,Tehran,Tehran,Iran,32.427908,53.688046,27,Iran Air
+1967,Shiraz,TerhanI,Near Mamuniyeh,Iran,32.427908,53.688046,23,Military - Imperial Iranian Air Force
+1957,"Tehran, Iran","Istanbul, Turkey",Jirkouk,Iraq,33.223191,43.679291,1,Air France
+1957,Beirut,Kuwait City,Beirut,Lebanon,33.854721,35.862285,27,Lebanese International Airways
+1959,Beirut,Tehran,Beirut,Lebanon,33.854721,35.862285,24,Ariana Afghan Airlines
+1963,Kawait,Kabul,Gazni,Afghanistan,33.93911,67.709953,3,Trans Mediterranean Airways
+1951,Oakland,Albuquerque,Near Tucumcari,Arazona,34.0489281,-111.0937311,1,Transocean Air Lines
+1956,Los Angeles,Chicago / Los Angeles,Grand Canyon,Arizona,34.0489281,-111.0937311,128,United Air Lines / Trans World Airlines
+1951,New York,Williams AFB,Near Phoenix,Arizona,34.0489281,-111.0937311,28,Military - U.S. Air Force
+1967,Training,Montreal,Ottawa,Ontario,34.0633443,-117.6508876,3,Air Canada
+1951,Santa Maria,Santa Barbara,Refugio Pass,near Santa Barbara,34.4208305,-119.6981901,22,Southwest Airways
+1955,Albuquerque,Sante Fe,Albuquerque,New Mexico,34.5199402,-105.8700901,16,Trans World Airlines
+1965,Beirut,Amman,Near Damascus,Syria,34.802075,38.996815,54,Alia Royal Jordanian Airlines
+1966,Monterey,Ardmore,Near Ardmore,Oklahoma,35.0077519,-97.092877,83,American Flyers Airline
+1957,Joplin,Owasso,Owasso,Oklahoma,35.0077519,-97.092877,1,American Airlines
+1967,Bombay,Cairo,Near Nicosia,Cyprus,35.126413,33.429859,126,Globe Air
+1966,Tokyo,Hong Kong,Near Gotemba City,Mt. Fuji,35.3605555,138.7277777,124,British Overseas Airways
+1963,Kansas City,Dyersburg,Camden,Tennesee,35.5174913,-86.5804473,4,Private
+1959,Nashville,Knoxville,Mt. Holston,Tennessee,35.5174913,-86.5804473,10,Southeast Airlines
+1964,Batesville,Nashville,Near Nashville,Tennesee,35.5174913,-86.5804473,2,Private
+1964,Philidelphia,Washington,Parrottsville,Tennesee,35.5174913,-86.5804473,39,United Air Lines
+1953,Tachikawa AB,Kimpo AB,Tachikawa AFB,Tokyo,35.6894875,139.6917064,129,Military - U.S. Air Force
+1960,"Cincinnati, OH","Hickory, NC",Hickory,North Carolina,35.7595731,-79.0192997,4,Piedmont Airlines / Private
+1960,New York,Miami,Wilmington/Bolivia,North Carolina,35.7595731,-79.0192997,34,National Airlines
+1967,Ashville,Roanoke,Near Hendersonville,North Carolina,35.7595731,-79.0192997,82,Piedmont Airlines / Private
+1949,Chengdu,Hoikow,Near Hoikow,China,35.86166,104.195397,17,Civil Air Transport
+1954,Singapore,Hong Kong,Off Hainan Island,China,35.86166,104.195397,10,Cathay PacifiAirways
+1967,Hong Kong,Saigon,Hong Kong,China,35.86166,104.195397,1,Cathay PacifiAirways
+1951,"Pakse, Laos","Saigon, Vietnam",Thudamot,China,35.86166,104.195397,3,Air Outre-Mer
+1967,Yoido AB,Taegu,Seoul,South Korea,35.907757,127.766922,15,Military - Republiof South Korea Air Force
+1957,Kimpo AB,"Tokyo, Japan",Kimpo Air Base,South Korea,35.907757,127.766922,22,Military - U.S. Air Force
+1956,Malta,London,Near Zurrieg,Malta,35.937496,14.375416,50,Scottish Airlines
+1954,Military exercise,,Off Gozo,Malta,35.937496,14.375416,10,Military - Royal Air Force
+1955,Yaounde,Douala,Kupe Mountains,Cameroons,35.970029,-78.8159016,12,Union des Transportes Aeriens
+1954,Misawa,Chitose,Off Hokkaido,Japan,36.204824,138.252924,35,Military - U.S. Air Force
+1950,Philippines,Japan,Near Atsugi,Japan,36.204824,138.252924,35,Military - U.S. Air Force
+1950,Ashiya AB,Kimpo AB,Near Kyushu Island,Japan,36.204824,138.252924,23,Military - U.S. Air Force
+1966,Osaka,Matsuyama,Off Matsuyama,Japan,36.204824,138.252924,50,All Nippon Airways
+1958,Tokyo,Nagoya,Sakiya Saugye,Japan,36.204824,138.252924,33,All Nippon Airways
+1960,Tokyo,Nagoya,Near Tokyo,Japan,36.204824,138.252924,3,All Nippon Airways
+1964,Kagoshima,Oita,Oita,Japan,36.204824,138.252924,20,Fuji Airlines
+1952,Tokyo,Osaka,Mihara Volcano,Japan,36.204824,138.252924,37,Japan Air Lines
+1966,Chitose,Tokyo,Tokyo Bay,Japan,36.204824,138.252924,133,All Nippon Airways
+1966,Hong Kong,Tokyo,Near Tokyo,Japan,36.204824,138.252924,64,Canadian PacifiAir Lines
+1965,Osaka,Tokyo,Mt. Nakanoone,Japan,36.204824,138.252924,2,Zen Nippon
+1958,Los Angeles,New York City,Near Sloan,10 miles SW of Las Vegas,36.2305656,-115.2609711,49,United Air Lines / Military - U.S. Air Force
+1956,El Toro MAS,Alameda NAS,Near Niles,California,36.778261,-119.4179324,40,Military - U.S. Marine Corps
+1949,Albuquerque,Burbank,Chatsworth,California,36.778261,-119.4179324,35,Standard Airlines
+1962,Chicago,Burbank,Burbank,California,36.778261,-119.4179324,5,Flying Tiger Line
+1965,Palm Springs,Burbank,Near Palm Springs,California,36.778261,-119.4179324,8,Paul Kelly Flying Service Inc.
+1951,Boston,Hartford,Decoto,California,36.778261,-119.4179324,50,United Air Lines
+1965,San Francisco,Hawaii,San Francisco,California,36.778261,-119.4179324,0,Pan American World Airways
+1965,El Toro,Honolulu,Near Santa Ana,California,36.778261,-119.4179324,85,Military - U.S. Air Force
+1953,Sydney,Honolulu,Near Half Moon Bay,California,36.778261,-119.4179324,19,British Commonwealth PacifiAirlines
+1968,Anaheim,LAX,Paramount,California,36.778261,-119.4179324,23,Los Angeles Airways
+1958,Long Beach,McGuire AFB,Norwalk,California,36.778261,-119.4179324,47,Military - U.S. Air Force / Military - U.S. Navy
+1964,San Francisco,New York,Near San Francisco,California,36.778261,-119.4179324,3,Flying Tiger Line
+1949,Burbank,Oakland,Vallejo,California,36.778261,-119.4179324,9,Arrow Airlines
+1955,Burbank,Oakland,Burbank,California,36.778261,-119.4179324,3,Currey Air Transport
+1953,Roswell,Oakland,Alvarado,California,36.778261,-119.4179324,35,Transocean Air Lines
+1959,Los Angeles,Oxnard,Santa Maria,California,36.778261,-119.4179324,1,PacifiAir Lines
+1952,"Kansas City, MO",Phoenix,Near Whittier,California,36.778261,-119.4179324,29,North Continental Airlines (Robin Airlines)
+1953,Los Angeles,San Francisco,San Francisco Bay,California,36.778261,-119.4179324,8,Western Airlines
+1968,Tokyo,San Francisco,San Francisco,California,36.778261,-119.4179324,0,Japan Air Lines
+1964,Stockton,San Fransisco,San Ramon,California,36.778261,-119.4179324,44,PacifiAir Lines
+1968,Los Angeles,Santa Ana,Santa Ana,California,36.778261,-119.4179324,9,Cable Commuter
+1957,Santa Monica,Santa Monica,Near Sunland,California,36.778261,-119.4179324,5,Douglas Aircraft
+1959,"Burbank, CA","Seattle, WA",Panther Peak,California,36.778261,-119.4179324,2,California Air Freight
+1964,Palma de Mallorca,Port Etienne,Near Trevelez,Granada,37.1773363,-3.5985571,80,Union des Transportes Aeriens
+1959,Washington DC,"Charlottsville, VA",Waynesborough,Virginia,37.4315734,-78.6568942,26,Piedmont Airlines
+1961,Baltimore,Columbia SC,Near Richmond,Virginia,37.4315734,-78.6568942,77,Imperial Airways
+1960,Washington D.C.,Norfolk,Charles City,Virginia,37.4315734,-78.6568942,50,Capital Airlines
+1964,New York City,Richmond,Richmond,Virginia,37.4315734,-78.6568942,0,Eastern Air Lines
+1949,Boston,Washington D.C.,Arlington,Virginia,37.4315734,-78.6568942,55,Eastern Air Lines / Military - Bolivian Air Force
+1964,"Martinsville, Virginia","Wilmington, Delaware",Martinsville,Virginia,37.4315734,-78.6568942,5,Commercial Air Taxi
+1961,Azores,"Argentia,Newfoundland",Off Argentia,Azores,37.7412488,-25.6755944,23,Military - U.S. Air Force
+1954,"Lajes, Azores",Bermuda,Terceira Island,Azores,37.7412488,-25.6755944,30,AVIANCA
+1950,Bermuda,England,Lagens Air Force Base,Azores,37.7412488,-25.6755944,16,Military - U.S. Air Force
+1949,Paris,Santa Maria,San Miguel Island,Azores,37.7412488,-25.6755944,48,Air France
+1953,Philadelphia,Louisville,Louisville,Kentucky,37.8393332,-84.2700179,25,Resort Airlines
+1960,Chicago,Miami,Near Cannelton,10 mile SE of Tell City,37.9552982,-86.7671449,63,Northwest Orient Airlines
+1962,Chicago,"Kansas City, MO",Near Unionville,Missouri,37.9642529,-91.8318334,45,Continental Airlines
+1965,Los Angeles,"Kansas City, MO",Kansas City,Missouri,37.9642529,-91.8318334,0,Continental Airlines
+1963,"Midland, TX","Kansas City, MO",Kansas City,Missouri,37.9642529,-91.8318334,8,Continental Airlines
+1968,"Peoria, IL","St. Louis, MO",St. Louis,Missouri,37.9642529,-91.8318334,2,Ozark Air Lines / Private
+1955,"Springfield, IL","St. Louis, MO",Fort Leonard Wood,Missouri,37.9642529,-91.8318334,30,American Airlines
+1959,Pittsburg,Charleston,Charleston,West Virginia,38.5976262,-80.4549026,2,Capital Airlines
+1951,Godman AFB,"Charleston, WV",Near Charleston,West Virginia,38.5976262,-80.4549026,21,Military - U.S. Air Force
+1968,Cincinnati,"Charlston, WV",Charleston,West Virginia,38.5976262,-80.4549026,35,Piedmont Airlines
+1964,"San Jose, CA",Lake Tahoe,Near Zephyr Cove,Nevada,38.8026097,-116.419389,85,Paradise Airlines
+1964,Phoenix,Las Vegas,Las Vegas,Nevada,38.8026097,-116.419389,29,Bonanza Airlines
+1968,Buckley ANGB,Seattle NAS,Near Copper Canyon,Nevada,38.8026097,-116.419389,19,Military - U.S. Marine Corps
+1949,Seattle,Chicago,Seattle,Washington,38.9071923,-77.0368707,2,Air Transport Associates
+1953,Spokane,Ellenburgh,Selleck,Washington,38.9071923,-77.0368707,7,Miami Airlines
+1962,Ellsworth AFB,Fairchild AFB,Near Milan,Washington,38.9071923,-77.0368707,44,Military - U.S. Air Force
+1949,Seattle,New Haven,Seattle,Washington,38.9071923,-77.0368707,14,Seattle Air Charter
+1955,Seattle,Newark,Seattle,Washingon,38.9071923,-77.0368707,28,Peninsular
+1965,"Seattle, WA","Ogden, UT",Near Seattle,Washington,38.9071923,-77.0368707,5,Aaxico Airlines
+1956,Seattle,Portland,Seattle,Washington,38.9071923,-77.0368707,5,Northwest Orient Airlines
+1957,Fairbanks,Seattle,Blyn,Washington,38.9071923,-77.0368707,5,Alaska Airlines
+1951,Minneapolis,Seattle,Near Reardon,Washington,38.9071923,-77.0368707,10,Northwest Orient Airlines
+1953,San Francisco,Seattle,Issaquah,Washington,38.9071923,-77.0368707,7,Flying Tiger Line
+1953,"Monterey, CA","Tacoma, WA",Vail,Washington,38.9071923,-77.0368707,21,Regina Cargo Airlines
+1949,New Port News,Washington D.C.,Washington,D.C.,38.9071923,-77.0368707,6,Capital Airlines
+1962,Ankara,Adana,Mt. Medetsiz,Turkey,38.963745,35.243322,11,Turkish Airlines (THY)
+1961,Adana,Ankara,Ankara,Turkey,38.963745,35.243322,28,Turkish Airlines (THY)
+1960,Istanbul,Ankara,Ankara,Turkey,38.963745,35.243322,42,Scandinavian Airlines (SAS)
+1964,Istanbul,Ankara,Near Ankara,Turkey,38.963745,35.243322,3,Turkish Airlines (THY)
+1963,Nicosia,Ankara,Ankara,Turkey,38.963745,35.243322,17,Middle East Airlines / Military - Turkish Air ForceC-47
+1959,"Ankara, Turkey",Bahrain,Van,Turkey,38.963745,35.243322,12,Air Charter
+1953,Rome,Beirut,Off Fethiye Point,Turkey,38.963745,35.243322,4,Air France
+1954,Bandirma,Canakkale,Lapseki,Turkey,38.963745,35.243322,4,Devlet Hava Yollari
+1954,Adana,Istanbul,Adana,Turkey,38.963745,35.243322,25,Devlet Hava Yollari
+1961,Ankara,Nicosia,Ankara,Turkey,38.963745,35.243322,27,British European Airways
+1953,Ankara,Van,Ankara,Turkey,38.963745,35.243322,5,Devlet Hava Yollari
+1959,New York City,Atlanta,Chase,Maryland,39.0457549,-76.6412712,31,Capital Airlines
+1958,Pittsburgh,Baltimore,Brunswick,Maryland,39.0457549,-76.6412712,11,Capital Airlines / Military - Air National Guard
+1963,Washington,Baltimore,Elkton,Maryland,39.0457549,-76.6412712,81,Pan American World Airways
+1949,"Raleigh, NC","Boston, MA",Brandywine,Maryland,39.0457549,-76.6412712,2,Coastal Cargo
+1954,Patuxent River NAS,"Kenitra, Morocco",Off Ocean City,Maryland,39.0457549,-76.6412712,42,Military - U.S. Navy
+1954,Oklahoma,"Long Island, NY",Near Lothian,Maryland,39.0457549,-76.6412712,18,Military - U.S. Air Force
+1962,Newark,Washington D.C.,Ellicott,Maryland,39.0457549,-76.6412712,18,United Air Lines
+1949,Kavallo,Athens,Malahasa Attica,Greece,39.074208,21.824312,22,Tech - Aeronautical Explotiation
+1960,"Heraklion, Greece","Cairo, Egypt",Off Heraklion,Greece,39.074208,21.824312,3,Don Everall Aviation
+1966,Beirut,Frankfurt,Athens,Greece,39.074208,21.824312,5,Trans Mediterranean Airways
+1967,Athens,Nicosia,Off Rhodes,Greece,39.074208,21.824312,66,British European Airways
+1959,Athens,Thessaloniki,Athens,Greece,39.074208,21.824312,18,OlympiAirways
+1965,Salt Lake,Albuquerque,Salt Lake City,Utah,39.3209801,-111.0937311,13,Edde Airlines
+1960,"Rapid City, South Dakota","Ogden, UT",Plain City,Utah,39.3209801,-111.0937311,2,Capitol Airways
+1965,Denver,Salt Lake City,Salt Lake City,Utah,39.3209801,-111.0937311,43,United Air Lines
+1961,Rome,Lisbon,Near Lisbon,Portugal,39.399872,-8.224454,61,KLM Royal Dutch Airlines
+1961,Omaha,Denver,Denver,Colorado,39.5500507,-105.7820674,17,United Air Lines
+1963,Lowery AFB,Ogden Hill AFB,Near Nederland,Colorado,39.5500507,-105.7820674,3,Zantop Air Transport
+1955,Denver,Portland,Longmont,Colorado,39.5500507,-105.7820674,44,United Air Lines
+1967,"Denver, CO","Scottsbluff, NE",Denver,Colorado,39.5500507,-105.7820674,2,Frontier Airlines
+1956,New York City,Caracas,Asbury Park,New Jersey,40.0583238,-74.4056612,74,Linea Aeropostal Venezolana
+1956,McGuire AFB,Harmon AFB,Near Brows Mills,New Jersey,40.0583238,-74.4056612,46,Military - U.S. Air Force
+1952,Buffalo,Newark,Elizabeth,New Jersey,40.0583238,-74.4056612,23,American Airlines
+1951,Fort Smith,Newark,Elizabeth,New Jersey,40.0583238,-74.4056612,56,Miami Airlines
+1949,New York City,Wilmington,Chesterfield,New Jersey,40.0583238,-74.4056612,16,Eastern Air Lines / Military - USN
+1953,Cagliari,Rome,Sinnai,Sardinia,40.1208752,9.0128926,19,Linee Aeree Italiane
+1951,Cleveland,Fort Wayne,Fort Wayne,Indiana,40.2671941,-86.1349019,11,United Air Lines
+1966,"Detroit, MI","Kansas City, MO",Near Columbia City,Indiana,40.2671941,-86.1349019,3,Zantop Air Transport
+1957,Santiago de Compostella,Madrid,Barajas,Madrid,40.4167754,-3.7037902,37,Aviaco
+1949,Philadelphia,Cleveland,Akron,Ohio,40.4172871,-82.907123,3,Harrington's Inc
+1967,Pittsburgh,Dayton,Urbana,Ohio,40.4172871,-82.907123,26,Trans World Airlines / Private
+1960,Toledo,"Kansas City, MO",Toledo,Ohio,40.4172871,-82.907123,22,ArctiPacific
+1967,Cincinnati,Los Angeles,Cincinnati,Ohio,40.4172871,-82.907123,1,Trans World Airlines
+1967,Colombus,Toledo,Near Marseille,Ohio,40.4172871,-82.907123,38,Lake Central Airlines
+1958,Zaragoza,Barcelona,Off Castell de Fels,Spain,40.463667,-3.74922,16,Aviaco
+1964,Palma de Mallorca,Ibiza,Off Palma de Mallorca,Spain,40.463667,-3.74922,1,TASSA
+1959,Barcelona,London,Near Barcelona,Spain,40.463667,-3.74922,32,Transair
+1959,Barcelona,Madrid,Valdemeca,Spain,40.463667,-3.74922,28,Iberia Airlines
+1953,Bilbao,Madrid,Mt. Somosierra,Spain,40.463667,-3.74922,23,Aviaco
+1957,Tanger,Madrid,Madrid,Spain,40.463667,-3.74922,21,Iberia Airlines
+1958,Vigo,Madrid,Guadarrama Mountains,Spain,40.463667,-3.74922,21,Aviaco
+1959,Palma de Mallorca,Mahon,Mahon,Spain,40.463667,-3.74922,1,Aviaco
+1951,Perpignan,Oran,Off Ialas Baeares,Spain,40.463667,-3.74922,39,Societe Alpes Provence
+1957,Barcelona,Palma de Mallorca,Near Palma de Mallorca,Spain,40.463667,-3.74922,4,Aviaco
+1962,Barcelona,Valencia,Near Camona,Spain,40.463667,-3.74922,18,Iberia Airlines
+1959,Palma de Mallorca,Wien,Mallorca,Spain,40.463667,-3.74922,5,Austria-Flugdienst
+1960,Cairo,Bunia,Bunia,Belgian Congo,40.5835034,-80.5895705,35,Sobelair SA (Belgium)
+1951,Salt Lake City,Denver,Rocky Mountain Nat. Park,near Ft. Collins,40.5852602,-105.084423,50,United Air Lines
+1955,"Kansas City, MO",Chicago,Chicago,Illinois,40.6331249,-89.3985283,22,Braniff Airlines
+1968,Minneapolis,Chicago,Chicago,Illinois,40.6331249,-89.3985283,27,North Central Airlines
+1961,Chicago,Las Vegas,Near Hinsdale,Illinois,40.6331249,-89.3985283,78,Trans World Airlines
+1959,Chicago,Los Angeles,Chicago,Illinois,40.6331249,-89.3985283,3,Trans World Airlines
+1961,Chicago,Tampa,Chicago,Illinois,40.6331249,-89.3985283,37,Northwest Orient Airlines
+1951,Pittsburgh,Buffalo,Near Little Valley,New York,40.7127837,-74.0059413,26,Continental Charters
+1953,Boston,Hartford,Albany,New York,40.7127837,-74.0059413,28,American Airlines
+1962,New York City,Los Angeles,Jamaica Bay,New York,40.7127837,-74.0059413,95,American Airlines
+1957,New York City,Miami,New York,New York,40.7127837,-74.0059413,21,Northeast Airlines
+1962,Charlotte,New York City,New York,New York,40.7127837,-74.0059413,25,Eastern Air Lines
+1959,Chicago,New York City,La Guardia Airport,New York,40.7127837,-74.0059413,65,American Airlines
+1954,Rome,New York City,New York,New York,40.7127837,-74.0059413,26,Linee Aeree Italiane
+1960,Chicago,New York City / Columbus,Staten Island / Brooklyn,New York,40.7127837,-74.0059413,128,United Air Lines / Trans World Airlines
+1965,Boston,Newark,Carmel,New York,40.7127837,-74.0059413,4,Trans World Airlines / Eastern Air Lines
+1963,Idlewild,Newark,Jamaica,New York,40.7127837,-74.0059413,6,New York Airways
+1963,Rochester,Newark,Rochester,New York,40.7127837,-74.0059413,7,Mohawk Airlines
+1950,"Utica, NY","Newark, NJ",Utica,New York,40.7127837,-74.0059413,16,Robinson Airlines
+1965,New York City,Richmond VA,Off Jones Beach,New York,40.7127837,-74.0059413,84,Eastern Air Lines
+1953,New York City,San Juan,New York City,New York,40.7127837,-74.0059413,2,Eastern Air Lines
+1968,Detroit,Erie,Bradford,Pennsylvania,41.2033216,-77.1945247,20,Allegheny Airlines
+1956,Pittsburgh,Newark,Pittsburgh,Pennsylvania,41.2033216,-77.1945247,22,Trans World Airlines
+1951,Newark,Philadelphia,Philadelphia,Pennsylvania,41.2033216,-77.1945247,7,National Airlines
+1954,Newark,Tacoma,Pittsburgh,Pennsylvania,41.2033216,-77.1945247,10,Johnson Flying Service
+1967,Elmira,Washington DC,Blossburg,Pennsylvania,41.2033216,-77.1945247,34,Mohawk Airlines
+1959,Harrisburg,Willamsport,Willamsport,Pennsylvania,41.2033216,-77.1945247,25,Allegheny Airlines
+1959,Kabul,Tashkent,Near Tashkent,Uzbekistan,41.377491,64.585262,29,Aeroflot
+1961,New York,Mexico City,New York,New York (Idlewild),41.436705,-74.032629,4,Aeronaves de Mexico
+1966,"Kansas City, MO",Omaha,Near Falls City,Nebraska,41.4925374,-99.9018131,42,Braniff Airlines
+1967,Palma de Mallorca,Manchester,Stockport,Cheshire,41.5083668,-72.9106202,72,British Midland Airways
+1962,Washington D.C.,"Providence, RI",Windsor Locks,Connecticut,41.6032207,-73.087749,1,Allegheny Airlines
+1953,"New York, NY","Winsor Locks, CT",Windsor Locks,Connecticut,41.6032207,-73.087749,2,Slick Airways
+1949,Batavia,Amsterdam,Off Bari,Italy,41.87194,12.56738,33,KLM Royal Dutch Airlines
+1964,Rome,Athens,Rome,Italy,41.87194,12.56738,50,Trans World Airlines
+1958,Rome,Belgrade,Near Roccatamburo di Poggiodomo,Italy,41.87194,12.56738,8,Yemen Airlines
+1967,Venezia,Belluno,Mt Visenti,Italy,41.87194,12.56738,4,Aeralpi
+1954,Rome,Cairo,Off Stromboli,Italy,41.87194,12.56738,21,British Overseas Airways
+1960,Rome,Genoa,Elba,Italy,41.87194,12.56738,11,Itavia
+1954,Rome,London,Off Elba,Italy,41.87194,12.56738,35,British Overseas Airways
+1952,Blackbushe,Malta,Off Trapani,Italy,41.87194,12.56738,7,Airwork
+1952,Nice,Malta,Near Burgio,Italy,41.87194,12.56738,31,Hunting Air Travel
+1966,Brussels,Milan,Near Milan,Italy,41.87194,12.56738,4,Belgian International Air Services
+1956,Rome,Milan,Mt. Giner,Italy,41.87194,12.56738,21,Linee Aeree Italiane
+1968,Rome,Milan,Near Milan,Italy,41.87194,12.56738,13,Aitalia
+1958,London,Napoli,Anzio,Italy,41.87194,12.56738,31,British European Airways
+1964,Rome,Napoli,Mt. Vesuvius,Italy,41.87194,12.56738,45,Alitalia
+1963,Geneva,Nice,Monte Matto,Italy,41.87194,12.56738,18,Saudi Arabian Royal Flight
+1960,Frankfort,Rimini,Near Rimini,Italy,41.87194,12.56738,1,Deutsche Flugdienst
+1955,Brussels,Rome,Rome,Italy,41.87194,12.56738,29,Sabena
+1960,Geneva,Rome,Off Elba,Italy,41.87194,12.56738,21,United Arab Airlines
+1962,Khartoum,Rome,Rome,Italy,41.87194,12.56738,5,Societa Aerea Mediterranea
+1951,Paris,Rome,Near Civitavecchia,Italy,41.87194,12.56738,14,Alitalia
+1963,Pescara,Rome,Near Sora,Italy,41.87194,12.56738,11,Itavia
+1949,Barcelona,Torino,Superga,Italy,41.87194,12.56738,31,Avio Linee Italiane
+1955,Newark,Des Moines,Des Moines,Iowa,41.8780025,-93.097702,0,United Air Lines
+1959,Mason City,Fargo,Mason City,Iowa,41.8780025,-93.097702,4,Dwyer Flying Service - Private Charter
+1954,Memphis,Minneapolis,Near Mason City,Iowa,41.8780025,-93.097702,12,Braniff Airlines
+1951,"Kansas City, MO","Omaha, NB",Sioux City,Iowa,41.8780025,-93.097702,16,Mid Continent Airlines
+1965,New York City,Chicago,Lake Michigan,near Chicago,41.8781136,-87.6297982,30,United Air Lines
+1962,Bastia,Ajaccio,Monte Renosa,Corsica,42.0396042,9.0128926,25,Air Nautic
+1950,New York City,Minneapolis,Lake Michigan,18 NNW of Benton Harbor,42.1419891,-86.4479575,58,Northwest Orient Airlines
+1958,Westover AFB,London,Near Chicopee Falls,Massachusetts,42.4072107,-71.3824374,15,Military - U.S. Air Force
+1958,New York City,Nantucket,Nantucket,Massachusett,42.4072107,-71.3824374,24,Northeast Airlines
+1957,Martha's Vineyard,New Bedford,New Bedford,Massachusett,42.4072107,-71.3824374,12,Northeast Airlines
+1960,Boston,Philadelphia,Boston,Massachusett,42.4072107,-71.3824374,62,Eastern Air Lines
+1964,Washington D.C.,"Southhampton, MA",Southhampton,Massachusetts,42.4072107,-71.3824374,2,Private - Air Taxi
+1964,New York,Winsor Locks,Boston,Massachutes,42.4072107,-71.3824374,3,Slick Airways - Cargo
+1955,Wien,Tel Aviv,Near Petrich,Bulgaria,42.733883,25.48583,58,El Al
+1952,Sofia,Varna,Near Sofia,Bugaria,42.733883,25.48583,18,TABSO
+1954,London,Glasgow,Prestwick,Ayrshire,43.0391346,-94.8327618,28,British Overseas Airways
+1950,"Chico, CA","Billings, WY",Near Moran Junction,Wyoming,43.0759678,-107.2902839,21,New Tribes Mission
+1954,Salt Lake City,Cedar City,Wright,Wyoming,43.0759678,-107.2902839,9,Western Airlines
+1949,Las Vegas,Denver,Cheyenne,Wyoming,43.0759678,-107.2902839,4,Slick Airways
+1955,Denver,Salt Lake City,Near Centennial,Wyoming,43.0759678,-107.2902839,66,United Air Lines
+1967,Malaga,London,Fernhurst,Sussex,43.1338972,-88.2220372,37,Iberia Airlines
+1954,"Laconia, NH","Berlin, NH",Berlin,New Hampshire,43.1938516,-71.5723953,2,Northeast Airlines
+1968,"Boston, MA","Montpelier, VT",Hanover,New Hampshire,43.1938516,-71.5723953,32,Northeast Airlines
+1967,"Cleveland, OH",Madison WI,Near Madison,Wisconsin,43.7844397,-88.7878678,7,Private
+1966,Eugene,Portland,Near Wemme,Oregon,43.8041334,-120.5542012,18,West Coast Airlines
+1953,Boeing Field,Cheyenne,Fish Haven,Idaho,44.0682019,-114.7420408,40,Associated Air Transport
+1964,Detroit,Akron,Detroit,Michigan,44.3148443,-85.6023643,4,Commercial Air Taxi
+1964,Cleveland,Detroit,Detroit,Michigan,44.3148443,-85.6023643,4,Zantop Air Transport
+1958,New York,Detroit,Freeland,Michigan,44.3148443,-85.6023643,47,Capital Airlines
+1956,Chicago,Montreal,Near Flat Rock,Michigan,44.3148443,-85.6023643,1,Trans Canada Air Lines
+1959,Milan,Paris,Near Varese,Lombardia,45.4790671,9.8452433,68,Trans World Airlines
+1966,Bombay,Beirut,Mont Blanc,French Alps,45.8326492,6.8527504,117,Air India
+1963,Munchen,Constanta,Bekkessamson,Romainia,45.943161,24.96676,31,Tarom
+1966,Brasov,Mamia,Near Sibiu,Romania,45.943161,24.96676,24,Tarom
+1954,"Blackbushe, UK","Beogard, Serbia",Near Maribor,Slovenia,46.151241,14.995463,1,Sabena
+1966,Luton,Ljubljana,Near Ljubljana,Slovenia,46.151241,14.995463,98,Britannia Airways
+1959,Bordeaux,Bamako,Bordeaux,France,46.227638,2.213749,53,T.A. Intercontinentaux (France)
+1951,Frankfort,Bordeaux,Puy-de-Dôme,France,46.227638,2.213749,36,Military - U. S. Air Force
+1951,Bordeaux,Bovingdon,Bordeaux,France,46.227638,2.213749,2,Hunting Air Travel
+1950,Bombay,Cairo,Mont Blanc,France,46.227638,2.213749,48,Air India
+1963,"Marseilles, France","Dhah, Saudi Arabia",Near Marseilles,France,46.227638,2.213749,6,Aeronaves de Panama
+1954,"Tripoli, Libya","Hahn, W Germany",Near St. Etienne de Tinee,France,46.227638,2.213749,20,Military - U.S. Air Force
+1963,Lille,Lyon,Lyon,France,46.227638,2.213749,20,Air Inter
+1949,Paris,Lyons,Chaleyssin,France,46.227638,2.213749,5,Air France
+1968,Ajaccio,Nice,Off Cap d'Antibes,France,46.227638,2.213749,95,Air France
+1953,Paris,Nice,Near Barcelonnette,France,46.227638,2.213749,42,Air France
+1962,Frankfurt,Paris,Le Bourget,France,46.227638,2.213749,21,Malev Hungarian Airlines
+1952,Nice,Paris,Nice,France,46.227638,2.213749,38,Air France
+1950,Rome,Paris,Mt. Tete de L'Obiou,France,46.227638,2.213749,52,Curtiss-Reid Flying Services Ltd. (Canada)
+1956,Rome,Paris,Paris,France,46.227638,2.213749,34,Linee Aeree Italiane
+1957,Tunis,Paris,Paris,France,46.227638,2.213749,2,Air France
+1950,Casablanca,Perpignan,Ruig Piner,France,46.227638,2.213749,5,Air Atlas
+1961,London,Perpignan,Mt. Canigou,France,46.227638,2.213749,34,Derby Aviation
+1963,London,Perpignan,Perpignan,France,46.227638,2.213749,40,Air Nautic
+1950,Rochester Minn.,Minneapolis,Minneapolis,Minnesota,46.729553,-94.6858998,13,Northwest Orient Airlines
+1956,Eglisau,Prague,Near Eglisau,Switzerland,46.818188,8.227512,23,Ceskoslovenske Aerolinie
+1951,Zurich,Rome,Zurich,Switzerland,46.818188,8.227512,6,El Al
+1950,Helena,Butte,Butte,Montana,46.8796822,-110.3625658,21,Northwest Orient Airlines
+1952,Great Falls,"Denver, Colorado",Shepard,Montana,46.8796822,-110.3625658,9,Military - U.S. Air Force
+1964,Billings,Miles City,Miles City,Montana,46.8796822,-110.3625658,5,Frontier Airlines
+1960,Spokane,Missoula,Near Missoula,Montana,46.8796822,-110.3625658,12,Northwest Orient Airlines
+1963,Zurich,Geneva,Durrenasch,Aargau,47.3876664,8.2554295,80,Swissair
+1964,London,Innsbruck,Near Innsbruck,Austria,47.516231,14.550072,83,British Eagle International Airlines
+1955,Beograd,Wien,Near Wien,Austria,47.516231,14.550072,7,JAT Yugoslav Airlines
+1968,Perth,Port Hedland,Port Hedland,WA,47.7510741,-120.7401386,26,MaRobertson-Miller Airlines
+1960,Cairo,Moscow,Kiev,Ukraine,48.379433,31.16558,35,Aeroflot
+1962,Paris,New York City,Villeneuve-le-Roi,Val-de-Marne,48.7931426,2.4740337,130,Air France
+1959,Ankara,Istanbul,Gatwick,Surrey,49.1044302,-122.801094,14,Turkish Airlines (THY)
+1961,Cherboug,Les Prevosts,Les Prevosts,Guernsey,49.465691,-2.585278,2,Bristol 170 Freighter 31M
+1961,New York City,Brussels,Near Brussels,Belgium,50.503887,4.469936,72,Sabena
+1965,Lille,Wroclaw,Jeuk,Belgium,50.503887,4.469936,4,LOT Polish Airlines
+1957,Blackbushe,Tripoli,Blackbushe,Hants,51.0576948,-1.3080629,34,Eagle Aviation
+1966,Frankfurt,Berlin,Near Dallgow,Germany,51.165691,10.451526,3,Pan American Airways
+1966,Frankfurt,Bremen,Bremen,Germany,51.165691,10.451526,46,Lufthansa
+1953,Frankfurt,Brussels,Frankfurt,Germany,51.165691,10.451526,44,Sabena
+1952,Rome,Frankfort,Frankfurt,Germany,51.165691,10.451526,44,KLM Royal Dutch Airlines
+1967,"Manchester, England","Frankfurt, Germany",Frankfurt,Germany,51.165691,10.451526,2,Air Ferry
+1968,London,Innsbruck,Pfaffenhofen,Germany,51.165691,10.451526,48,British Eagle International Airlines
+1958,Munich,Manchester,Munich,Germany,51.165691,10.451526,23,British European Airways
+1956,Wien,Munchen,Grub,Germany,51.165691,10.451526,3,JAT Yugoslav Airlines
+1961,Prague,Zurich,Russelbach,East Germany,51.165691,10.451526,52,Ceskoslovenske Aerolinie
+1960,Munich,"Northolt AB, England",Munich,West Germany,51.2562128,7.1507636,20,Military - U.S. Air Force
+1950,Llandow,Dublin,Llandow Airport,Cardiff,51.481581,-3.17909,80,Fairflight Ltd.
+1968,London,Zurich,Heathrow Airport,London,51.5073509,-0.1277583,5,British Overseas Airways
+1962,Berlin,Warsaw,Warsaw,Poland,51.919438,19.145136,33,LOT Polish Airlines
+1952,Northolt,Dublin,Com Edno,Wales,52.1306607,-3.7837117,23,Aer Lingus
+1953,Amsterdam,Paris,Amsterdam,Netherlands,52.132633,5.291266,0,KLM Royal Dutch Airlines
+1962,"Southend, England","Rotterdam, The Netherlands",Rotterdam,The Netherlands,52.132633,5.291266,1,Carvair ATL-98
+1949,London,Glasgow,Near Coventry,Warks,52.2671353,-1.4675216,14,British European Airways / Military - British
+1956,Tripoli,Blackbushe,Blackbushe,England,52.3555177,-1.1743197,5,Britavia
+1956,Liverpool,Glasgow,Largs,England,52.3555177,-1.1743197,1,Starways
+1950,London,Glasgow,London,England,52.3555177,-1.1743197,28,British European Airways
+1957,Southhampton,Lisbona,Chessell Down Hants,England,52.3555177,-1.1743197,43,Aquilla Airways
+1965,Edinburgh,London,London,England,52.3555177,-1.1743197,36,British European Airways
+1954,Geneva,London,Off Folkestone,England,52.3555177,-1.1743197,3,Swissair
+1957,Malta,London,Stansted,England,52.3555177,-1.1743197,4,Scottish Airlines
+1950,Paris,London,London Heathrow,England,52.3555177,-1.1743197,28,British European Airways
+1968,"Deauville, France","London, England",London,England,52.3555177,-1.1743197,6,BKS Air Transport
+1956,London,Malta,London,England,52.3555177,-1.1743197,2,Scottish Airlines
+1957,Amsterdam,Manchester,Manchester,England,52.3555177,-1.1743197,20,British European Airways
+1949,Belfast,Manchester,Oldham,England,52.3555177,-1.1743197,24,British European Airways
+1956,RAF Lakenheath,McGuire AFB,Off Land's End,England,52.3555177,-1.1743197,59,Military - U.S. Navy
+1962,"Jersey, Channel Islands","Portsmouth, England",Near Portsmouth,England,52.3555177,-1.1743197,12,East Anglian Flying Services
+1954,Bovingdon AF,Thorney Island,Near Aldbury,England,52.3555177,-1.1743197,16,Military -Royal Air Force
+1949,Montreal,Comeau Bay,Sault-aux-Cochons,PQ,52.9399159,-73.5491361,23,Canadian PacifiAir Lines
+1952,St. Johns,Goose Bay,Near Gaspe,Quebec,52.9399159,-73.5491361,4,Maritime Central Airways
+1959,Montreal,Hall Lake,St. Cleophas,Quebec,52.9399159,-73.5491361,5,Wheeler Airlines
+1966,Montreal,Kuujjuaq,Montreal,Quebec,52.9399159,-73.5491361,2,Nordair
+1957,Reykjavík,Montreal,Near Issoudun,Quebec,52.9399159,-73.5491361,79,Maritime Central Airways
+1967,Gander,Havana,Near Gander,Newfoundland,53.1355091,-57.6604364,37,Ceskoslovenske Aerolinie
+1960,"Dover, Delaware","Mildenhall, England",Stephenville,Newfoundland,53.1355091,-57.6604364,9,Military - U.S. Air Force
+1953,Azores,Rapid City AFB,Random Island,Newfoundland,53.1355091,-57.6604364,23,Military - U.S. Air Force
+1957,London,Belfast,Belfast,Ireland,53.41291,-8.24389,7,British European Airways
+1967,Glasgow,Dublin,Dublin,Ireland,53.41291,-8.24389,2,Aer Turas
+1961,Shannon,Gander,Shannon,Ireland,53.41291,-8.24389,83,President Airlines
+1968,Cork,London,Off Wexford Harbor,Ireland,53.41291,-8.24389,61,Aer Lingus
+1954,Shannon,New York City,Foynes,Ireland,53.41291,-8.24389,28,KLM Royal Dutch Airlines
+1960,Shannon,New York City,Shannon,Ireland,53.41291,-8.24389,34,Alitalia
+1949,Rome,Shannon,Off Lurga Point,Ireland,53.41291,-8.24389,8,Transocean Air Lines
+1958,Amsterdam,Shannon,North AtlantiOcean,100 miles W of Galway Bay,53.424657,-7.9653644,99,KLM Royal Dutch Airlines
+1952,Tokyo,Elmendorf AFB,Off Sandspit,BC,53.7266683,-127.6476206,36,Northwest Orient Airlines
+1950,Vancouver,Penticton,Penticton,British Columbia,53.7266683,-127.6476206,2,Canadian PacifiAir Lines
+1953,"Sandpit, BC","Prince Rupert, BC",Prince Rupert,BC,53.7266683,-127.6476206,2,Canadian PacifiAir Lines
+1956,Vancouver,Toronto,Near Chilliwack,British Columbia,53.7266683,-127.6476206,62,Trans Canada Air Lines
+1951,Kildala,Vancouver,Mt. Benson,BC,53.7266683,-127.6476206,23,Queen Charlotte Airlines
+1957,Port Hardy,Vancouver,Port Hardy,BC,53.7266683,-127.6476206,14,Queen Charlotte Airlines
+1965,Vancouver,Whitehorse,Dog Creek,British Columbia,53.7266683,-127.6476206,52,Canadian PacifiAir Lines
+1949,Churchhill,Winnipeg,Near Bigstone Lake,Manitoba,53.7608608,-98.8138763,21,Military - Royal Canadian Air Force
+1958,Isle of Man,Manchester,Horwich,Lancs,53.7632254,-2.7044052,35,Silver City Airways
+1962,Khabarovk,Petropavlovsk,Near Khabarovsk,USSR,54.1478418,25.2991586,86,Aeroflot
+1953,Northolt,Belfast,Belfast,Northern Ireland,54.7877149,-6.4923145,27,British European Airways
+1963,McChord AFB,Elmendorf AFB,PacifiOcean,116 miles WSW of Annette Island,55.1209294,-131.4855123,101,Northwest Orient Airlines
+1965,Paris,"Jersey , Channel Islands",Jersey,UK,55.378051,-3.435973,26,British United Airways
+1958,"Patuxent River, NAS","Argentia,NAS",Placentia Bay,Canada,56.130366,-106.346771,11,Military - U.S. Navy
+1953,"Lajes, Azores",Gander,Off Newfoundland,Canada,56.130366,-106.346771,39,Lancashire Aircraft Corporation (Skyways)
+1956,Knob Lake,Oreway,Oreway,Canada,56.130366,-106.346771,4,Quebecair
+1965,Halifax,Sidney NS,Musquodoboit,Canada,56.130366,-106.346771,8,Eastern Provincial Airways
+1963,Montreal,Toronto,Ste. Therese de Blainville,Canada,56.130366,-106.346771,118,Trans Canada Air Lines
+1968,Honolulu,Vancouver,Vancouver,Canada,56.130366,-106.346771,1,Canadian PacifiAir Lines
+1955,"Edmonton, AB","Yellowknife, NT",Near Thorhild,Canada,56.130366,-106.346771,2,PacifiWestern Airlines
+1949,RAF Scampton,Keflavik,Near Succoth Glen,Lochgoilhead,56.170641,-4.900365,20,Military - U.S. Air Force
+1949,Paris,Copenhagen,Off Copenhagen,Denmark,56.26392,9.501785,27,Scandinavian Airlines (SAS)
+1957,Riga,Copenhagen,Copenhagen,Denmark,56.26392,9.501785,23,Aeroflot
+1954,Shannon,Amsterdam,Near Dutch Coast,North Sea,56.511018,3.515625,21,KLM Royal Dutch Airlines
+1967,Riga,Liepaja,Liepaja,Latvia,56.879635,24.603189,44,Aeroflot
+1961,Old Harbor,Kaguyak,Old Harbor,Kodiak Island,57.4912463,-153.495022,1,Kodiak Airways
+1950,Karlstad,Stockholm,Karlstad,Sweden,60.128161,18.643501,10,Svenska Aero
+1963,Turku,Mariehamn,Mariehamn,Aaland Island,60.2929495,20.1004159,22,Finnair
+1952,"Amsterdam, Netherlands","Jarsberg, Norway",Near Skien,Norway,60.472024,8.468946,11,Fred Olsen Flyveselskap
+1949,Brussels,Oslo,Near Oslo,Norway,60.472024,8.468946,34,Aero Holland
+1963,Copenhagen,Oslo,Oslo,Norway,60.472024,8.468946,12,Icelandair
+1956,Trondheim,Oslo,Hommelfjell,Norway,60.472024,8.468946,2,Braathens
+1961,London,Sola,Sola,Norway,60.472024,8.468946,39,Cunard Eagle Airways
+1966,Moscow,Brazzaville,Moscow,Russia,61.52401,105.318756,21,Aeroflot
+1963,Moscow,Irkutsk,Near Irkutsk,Russia,61.52401,105.318756,35,Aeroflot
+1954,Peking,Irkutsk,Irkutsk,Russia,61.52401,105.318756,17,Aeroflot
+1958,Peking,Moscow,Near Kanash,Russia,61.52401,105.318756,80,Aeroflot
+1963,Tallinn,Moscow,Near Leningrad,Russia,61.52401,105.318756,0,Aeroflot
+1957,Warsaw,Moscow,Near Moscow,Russia,61.52401,105.318756,9,LOT Polish Airlines
+1960,Warsaw,Moscow,Moscow,Russia,61.52401,105.318756,31,Austrian Airlines
+1955,Starllingrad,Moscow.,Near Voronezh,Russia,61.52401,105.318756,25,Aeroflot
+1968,Krasnoyarsk,Petropavlovsk,Near Bratsk,Russia,61.52401,105.318756,82,Aeroflot
+1968,Kaunas,Ryazan / Moscow,Yuhnov,Russia,61.52401,105.318756,120,Military Soviet Air Force - Aeroflot
+1962,Lvov,Sochi,Near Adler,Russia,61.52401,105.318756,81,Aeroflot
+1964,Krasnoyarsk,Yuzhno,Island of Sakhalin,Russia,61.52401,105.318756,87,Aeroflot
+1961,Kokkola,Vaasa,Koivulahti,Finland,61.92411,25.748151,25,Finnair
+1962,"Cold Bay, AK","Adak, AK",Adak,Alaska,64.2008413,-149.4936733,1,Flying Tiger Line
+1960,Cordova,Anchorage,Mt. Gilbert,Alaska,64.2008413,-149.4936733,14,PacifiNorthern Airlines
+1949,Homer,Anchorage,Homer,Alaska,64.2008413,-149.4936733,5,Alaska Airlines
+1968,San Francisco,Anchorage,Elmendorf Air Force Base,Alaska,64.2008413,-149.4936733,3,Pan American World Airways
+1959,Juneau,Annette Island,Ketchikan,Alaska,64.2008413,-149.4936733,3,California Aircraft
+1952,Elmendorf AFB,Big Delta,Near Summit,Alaska,64.2008413,-149.4936733,19,Military - U.S. Air Force
+1959,Shemya,Cold Bay,Great Sitkin Island,Alaska,64.2008413,-149.4936733,16,Reeve Aleutian Airlines
+1954,McGrath,Colorado Creek,Near McGrath,Alaska,64.2008413,-149.4936733,2,Alaska Airlines
+1951,Umiat,Fairbanks,Near Fairbanks,Alaska,64.2008413,-149.4936733,4,Transocean Air Lines
+1956,Vancouver,Hong Kong,Cold Bay,Alaska,64.2008413,-149.4936733,15,Canadian PacifiAir Lines
+1968,Anchorage,Iliamna,Pedro Bay,Alaska,64.2008413,-149.4936733,39,Wien Consolidated Airlines
+1952,Elemndorf AFB,Kodiak NAS,Near Anchorage,Alaska,64.2008413,-149.4936733,20,Military - U.S. Air Force
+1968,Fairbanks,Prudhoe Bay,Prudhoe Bay,Alaska,64.2008413,-149.4936733,2,Interior Airways
+1956,Anchorage,Seward,Skilak Lake,Alaska,64.2008413,-149.4936733,6,Cordova Airlines
+1961,Seattle,Shemya AFB,Shemya,Alaska,64.2008413,-149.4936733,6,Alaska Airlines
+1951,Vancouver,Tokyo,Near Sitka,Alaska,64.2008413,-149.4936733,37,Canadian PacifiAir Lines
+1950,Elmendorf,"Great Falls, MT",Near Snag,Yukon Territory,64.2823274,-135,44,Military - U.S. Air Force
+1951,Vestmannaeyar Island,Reykjavík,Off Hafnarfjorour,Iceland,64.963051,-19.020835,20,Icelandair
+1962,Sondre Stromfjord,Godthab,Godthaab,Greenland,71.706936,-42.604303,15,East Provincial Airways

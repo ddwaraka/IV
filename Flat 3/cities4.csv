@@ -1,0 +1,370 @@
+year,ori,dest,crash_city,crash_country,lat,lon,airline,death
+1946,Hobart,Melbourne,Off Hobart,Tasmania,-42.881903,147.323814,Australian National Airways,25
+1934,Launceston,Melbourne,Bass Strait,Australia,-40.0914903,145.9663909,Holyman Airways,11
+1938,Adelaide,Melbourne,Mt. Dandenong,Australia,-37.831048,145.3617543,Australian National Airways,18
+1940,Melbourne,Canberra,Near Canberra,Australia,-35.282,149.128684,Military - Royal Australian Air Force,10
+1947,Test flight,No Record Found,Moron,Argentina,-34.6558611,-58.6167212,Flota AÃ©rea Mercante Argentina,2
+1947,Buenos Aires,Natal,Natal,Argentina,-34.6462173,-58.4290238,Flota AÃ©rea Mercante Argentina,5
+1934,Buenos Aires,Santiago,Junin,Argentina,-34.5885499,-60.949554,Panagra,5
+1936,"Natal, Brazil","Bathhurst, Gambia",South AtlantiOcean,No Record Found,-33.72434,-15.996094,Deutsche Lufthansa,4
+1946,"Bathrust,",Argentina,Bathurst,Gambia,-33.4176529,149.5810314,British South American Airways,24
+1937,"Las Palmas, Canary Islands","Bathhurst, Gambia",Bathurst,Gambia,-33.4176529,149.5810314,Deutsche Lufthansa,4
+1932,"Santiago, Chile","Mendosa, Argentina",Mount El Plomo,near Vitacura,-33.4035551,-70.5688043,Panagra,9
+1937,Mendosa,Cordoba,San Luis,Argentina,-33.3017267,-66.3377522,Pan American Grace Airways,3
+1933,"Mendoza, Argentina","Santiago, Chili",Near Mendoza,Argentina,-32.8894587,-68.8458386,Pan American Grace Airways,2
+1937,Brisbane,Sidney,McPherson Ranges,Queensland,-28.3333333,153,Airlines of Australia,5
+1947,Buenos Aires,Santiago,Andes,Argentina,-27.7882061,-64.2739241,British South American Airways,11
+1938,Guanabara,Victoria,Guanabara,Brazil,-26.3204885,-48.8255373,Syndicato Condor,9
+1945,"Chabau, India","Karachi, Pakistan",Himalayas,No Record Found,-24.791488,-65.4499197,Military - U.S. Army,44
+1941,Porto Alegre,Rio de Janera,Near Sao Paulo,Brazil,-23.5505199,-46.6333094,Panair do Brasil,8
+1946,London,Buenos Aires.,Near Rio de Janeiro,Brazil,-22.9068467,-43.1728965,FAMA (Argentina),21
+1939,Miami,Rio de Janerio,Rio de Janerio,Brazil,-22.9068467,-43.1728965,Pan American World Airways,14
+1940,Rio de Janeiro,Sao Paulo,Rio de Janeiro,Brazil,-22.9068467,-43.1728965,No Record Found,18
+1946,Belo Horizonte,Rio de Janerio,Rio Doce,Brazil,-20.2448181,-42.896324,Panair do Brasil,25
+1943,Townsville,Brisbane,Off Townsville,Australia,-19.3074497,146.7667477,Military - U.S. Air Force,27
+1944,Merauke,No Record Found,Near Mossman,Queensland,-16.4607867,145.3734582,Military - Royal Netherlands East Indies Air Force,20
+1943,"Santiago, Chili","Arequipa, Peru",Near Chaparra,Peru,-15.74447,-73.871483,Pan American Grace Airlines,14
+1939,Katherine,Adelaide,Katherine,Australia,-14.4649669,132.2642561,Guinea Airways,4
+1938,Honolulu,Pago Pago,Pago Pago,U.S. Samoa,-14.33166,-170.711503,Pan American World Airways,7
+1942,Brisbane,Bachelor Field,Pine Creek,Australia,-13.8248434,131.8349128,Guinea Airways Limited,12
+1944,Port Moreaby,Nadzab,New Guinea,No Record Found,-4.185235,136.8252838,Military - U.S. Army,21
+1946,Guayaquil,Cuenca,Cuenca,Ecuador,-2.9001285,-79.0058965,ANDESA,30
+1938,Kisumu,Alexandria,Kisumu,Kenya,-0.0917016,34.7679568,Imperial Airways,4
+1947,Barranquilla,Bogota,Near Bogota,Colombia,4.7109886,-74.072092,AVIANCA,53
+1934,Quiddo,Cartago,Pereira,Colombia,4.8087174,-75.690601,Pan American Airways (Scadta),5
+1947,"Medellin, Colombia","San Jose, Costa Rica",Near Medellin,Colombia,6.2530408,-75.5645737,TACA,8
+1947,Bogota,Barrancabermeja,Puesto Araujo,Colombia,6.51669,-74.09996,AVIANCA,17
+1947,Villavicencio,Bogota,Cordillera,Colombia,6.83221,-75.92076,VIARCO,9
+1946,Kano,Ikeja,Near Abeokuta,Nigeria,7.1453088,3.3590446,Military -Royal Air Force,18
+1937,"Santiago, Chili","Cristobal, Panama",Off Cristobal,Panama,8.537981,-80.782127,Pan American Grace Airways,14
+1946,Iloilo,Cebu,Negros,Philippines,9.7150631,122.8986812,Military - U.S. Army Air Forces,20
+1936,Miami,Rio de Janeiro,Port of Spain,Trinidad,10.6549013,-61.5019256,Pan American Airways,3
+1945,Miami,Leopoldville,Port of Spain,Trinidad,10.6549013,-61.5019256,Pan American World Airways,23
+1938,Alameda,Manila,PacifiOcean between Manila and Guam,No Record Found,13.444304,144.793731,Pan American World Airways,15
+1946,Grace Park AF,Lucena,Mt. Banahaur,Philippines,14.0675,121.4925,Far Eastern Air Transport,12
+1946,"Kingston, Jamaca",San Jose,Caribbean,AtlantiOcean,14.525556,-75.818333,Winged Cargo Inc.,7
+1945,Port of Spain,Fort de France,Fort de France,Martinique,14.6160647,-61.0587804,Pan American World Airways,4
+1947,Lisbon,Dakar,Off Dakar,Senegal,14.7645042,-17.3660286,British South American Airways,6
+1947,Karachi,Bombay,Korangi Creek,India,16.7967121,82.2252899,Air India,23
+1942,Caomo,San Juan,Near Coamo,Puerto Rico,18.0787363,-66.3587056,Military - U.S. Army Air Forces,22
+1941,Miami,Buenos Aires,San Juan,Puerto Rico,18.4655394,-66.1057355,Pan American World Airways,2
+1931,Saigon,Karachi,Near Sandoway,Burma,18.4671203,94.3411001,Air Orient,4
+1947,Puebla,Oaxaca,Near Puebla,Mexico,19.0412967,-98.2061996,Military - Mexican Air Force,21
+1936,Mexico,Guatemala,Amemeca,Mexico,19.1223754,-98.7667481,Compania de Mexico,14
+1938,Mexico City,Juarez,Balbuena,Mexico,19.3126928,-99.040554,Lineas AÃ©reas Mineras,1
+1946,Mexico City,Veracruz,Near Cofre de Perote,Mexico,19.492,-97.15,Empressa Commun. AÃ©reas de Veracruz,15
+1929,Santiago de Cuba,Havana,Santiago de Cuba,Cuba,20.01693,-75.8301537,Pan American Airways,2
+1934,Santiago,Havana,Palma Soriano,Cuba,20.2218201,-75.9869609,Cubana de Aviacion,4
+1929,Mexico City,Juarez,Cerro del Carbon,Mexico,20.403852,-97.2878798,Corp. Aeronautica de Transportes,4
+1944,Antilla,Miami,Off Antilla,Cuba,20.832781,-75.842438,Pan American World Airways,17
+1947,Dorango,Leon,Leon,Mexico,21.1250077,-101.6859605,Servicio AÃ©reo Panini,5
+1934,"Omaha, NB","Kansas City, MO",Amazonia,Montana,21.1391916,-101.7616634,Rapid Air Transport,2
+1937,"Rome, Italy",Kartoum,Wadi Halfa,Sudan,21.7991419,31.3713164,Ala Littoria,9
+1946,Hong Kong,Singapore,Near Hong Kong International Airport,No Record Found,22.308047,113.9184808,Military - Royal Air Force,19
+1945,Shanghai,Canton,Between Shanghi and Canton,China,23.12911,113.264385,China National Aviation Corporation,31
+1940,Jask to Sharjah,No Record Found,Gulf of Oman,No Record Found,24.7142573,58.7373634,Imperial Airways,8
+1945,Chongqing,Kunming,Near Kunming,China,24.880095,102.832892,China National Aviation Corporation,3
+1944,Dijan,Kunming,Kunming,China,24.880095,102.832892,China National Aviation Corporation,6
+1945,Kunming,Sichang,Kunming,China,24.880095,102.832892,China National Aviation Corporation,3
+1945,Chabua,Karachi,Near Chuka,India,25.4263309,83.1179848,Military - U.S. Army Air Forces,44
+1929,"London, England",India,Jask,Iran,25.6577006,57.7856677,Imperial Airways,3
+1938,"Hanoi, Vietnam","Paris, France",Datia,India,25.6653262,78.4609393,Air France,7
+1938,Test flight,No Record Found,Guadalupe,Mexico,25.6775595,-100.2596935,Mexicana,2
+1936,Cochabamba,La Paz,Near Cordillera,Boliva,25.7653789,-100.365912,Lloyd Aereo Boliviano,13
+1943,Kunming,Dinjan,Himalaya,China,25.7776833,-100.2481262,China National Aviation Corporation,3
+1945,Kunming,Tengchung,Near Dinjan,India,27.5274157,95.2625477,China National Aviation Corporation,4
+1944,Dinjan,Suifu,Near Sadiya,India,27.860175,95.6273951,China National Aviation Corporation,3
+1945,Miami,Jacksonville,Lakeland,Florida,28.0394654,-81.9498042,National Airlines,2
+1947,Newark,Miami,Melbourne,Florida,28.0836269,-80.6081089,Burke Air Transport,14
+1932,Miami,Bimini,Off Miami,Florida,28.350488,-82.6928396,Bimini Airways,5
+1943,Kunming,Assam,Luishui,China,28.46763,119.922796,China National Aviation Corporation,3
+1937,Chicago,Daytona,Daytona Beach,Florida,29.2108147,-81.0228331,Eastern Air Lines,4
+1947,Canton,Chungking,Chongqing,China,29.56301,106.551556,China National Aviation Corporation,19
+1933,Big Springs,San Antonio,Bourne,Texas,29.7946641,-98.7319703,American Airways,1
+1944,Kunming,"Chungking,",Kweilin,China,30.2098131,115.0325521,China National Aviation Corporation,2
+1946,Shensi,Yenan,Near Shensi,China,30.3919172,120.1967231,No Record Found,14
+1935,Jerusalem,Cairo,El Arish,Egypt,31.132093,33.8032762,Misrair,3
+1935,Mirabella,Alexandria,Off Alexandria,Egypt,31.2000924,29.9187387,Imperial Airways,12
+1946,Chunking,Shanghai,Between Chungking and Shanghai,China,31.230416,121.473701,China National Aviation Corporation,No Record Found
+1930,Shanghai,Hankow,Shanghai,China,31.230416,121.473701,China National Aviation Corporation,4
+1939,Rome,Rio de Janerio,Mogador,Morocco,31.5084926,-9.7595041,Linee Aeree Italiane,7
+1939,"Casablanca, Morocco","Dakar, Senegal",Near Marrakech,Morocco,31.6294723,-7.9810845,Air France,9
+1947,New York City,Dallas,Near El Paso,Texas,31.7618778,-106.4850217,American Airlines,0
+1947,Shanghai,Hankow,Near Hankow,China,32.0547771,118.7686301,China National Aviation Corporation,25
+1946,Shanghai,Nanking,Near Nanking,China,32.060255,118.796877,Military - Chinese Air Force,20
+1935,"New Orleans, LA","Mobile, AL",Off Chandeleur Island,Mississippi,32.3546679,-89.3985283,Wedell-Williams Air Service Corporation,2
+1945,"Midland, TX","Nashville, TN",Sweetwater,Texas,32.4709519,-100.4059384,Military - U.S. Army Air Forces,25
+1929,Tijuana,Nogales,Jacumba,California,32.61768,-116.1874241,Pickwick Airways,1
+1932,El Paso,Dallas,Salt Flats,Texas,32.633487,-97.0783134,American Airways,3
+1946,Dallas,Tucon,Live Oak Springs,California,32.6906137,-116.334462,American Airlines,27
+1946,Guam,Iwo Jima,North PacifiOcean,No Record Found,32.694866,-162.070312,Military - U.S. Army Air Forces,23
+1947,Kodiak,Dutch Harbor,North PacifiOcean,No Record Found,32.694866,-162.070312,Military - U.S. Navy,20
+1946,Holtville,San Diego,Near San Diego,California,32.715738,-117.1610838,Western Airlines,12
+1929,San Diego,Phoenix,San Diego,California,32.715738,-117.1610838,Maddux Airlines / Military - U.S.Army Air Force,6
+1935,Dallas,Atlanta,Near Gilmer,Texas,32.7287472,-94.9424379,Delta Air Lines,4
+1935,Dallas,Waco,Near Fort Worth,Texas,32.7554883,-97.3307658,Braniff Airlines,1
+1936,Test flight,No Record Found,Near Dallas,Texas,32.7766642,-96.7969879,Braniff Airways,6
+1946,"St. Mawan, England","Almaza, Egypt",Near Tripoli,Libya,32.8872094,13.1913383,Military -Royal Air Force,25
+1930,"Aqua Caliente, Mexico",Los Angeles,Oceanside,California,33.1958696,-117.3794834,Maddux Airlines,16
+1936,"Chicago, IL","Oklahoma City, OK",Denton,Texas,33.2148412,-97.1330683,American Airlines,1
+1938,Medford,Oakland,Off Point Reyes,California,33.2480578,-117.3232823,United Air Lines,7
+1946,New York City,"Birmingham, AL",Birmingham,Alabama,33.5206608,-86.80249,Pennsylvania Central Airlines,3
+1941,New York City,Washington D.C.,Atlanta,Georgia,33.7489954,-84.3879824,Eastern Air Lines,9
+1942,Palm Springs,New York City,Palm Springs,California,33.8302961,-116.5452921,American Airlines / Military - USAF,12
+1946,Paris,Casablanca,Near Sefrou,Morocco,33.8305244,-4.8353154,Air Ocean,16
+1940,Test flight,No Record Found,El Segundo,California,33.9191799,-118.4164652,Douglas Aircraft Company,5
+1929,Los Angeles,Phoenix,Near Beaumont,California,33.9294606,-116.977248,New Standard Airlines,4
+1932,"Phoenix, AZ","Los Angeles, CA",Calimesa,California,34.0039039,-117.0619755,American Airways,7
+1947,Cairo,Basrah,Az-Zubair,Iran,34.0489281,-111.0937311,British Overseas Airways,6
+1934,San Bernardion,Los Angeles,San Bernardino,California,34.1083449,-117.2897652,United Air Services,3
+1935,"Burbank, CA","Salt Lake City, UT",Burbank,California,34.1808392,-118.3089661,Western Air Express,3
+1934,Mexico,Burbank,Burbank,California,34.1808392,-118.3089661,Aerevias Centrales Air Service,1
+1945,New York City,"Juarez, Mexico",Burbank,California,34.1808392,-118.3089661,American Airlines,24
+1931,San Diego,Los Angeles,Burbank,California,34.1808392,-118.3089661,PacifiAir Transport,2
+1932,San Diego,Burbank,Burbank,California,34.1808392,-118.3089661,PacifiAir Transport,3
+1944,San Francisco,Burbank,Van Nuys,California,34.1898566,-118.451357,Trans Continental and Western Air,9
+1945,Boston,NY,Near Florence,South Carolina,34.1954331,-79.7625625,Eastern Air Lines / Military - U.S. Army Air Corps,3
+1945,Miami,New York City,Florence,South Carolina,34.1954331,-79.7625625,Eastern Air Lines,22
+1936,Oakland,San Francisco,Newhall,California,34.3847198,-118.5308652,United Air Lines,12
+1937,Salt Lake City,Burbank,Near Newhall,California,34.3847198,-118.5308652,Western Air Express,5
+1938,"Burbank,",St. Paul,Near Saugus,California,34.4113854,-118.5400858,Northwest Orient Airlines,9
+1932,"Little Rock, AR","Memphis, TN",Marianna,Arkansas,34.7737082,-90.7576112,Hunter Airways,2
+1943,Pope Field,Maxton,Red Springs,North Carolina,34.8151633,-79.183091,Military - U.S. Army Air Forces,20
+1946,Palmdale,Burbank,Lebec,California,34.8416435,-118.8648189,Western Airlines,11
+1932,San Francisco,Bakersfield,Lebec,California,34.8416435,-118.8648189,Century PacifiLines,8
+1936,"Newark, NJ","Fort Worth, TX",Goodwin,Arkansas,34.9381496,-91.0209529,American Airlines,17
+1930,"Burbank, CA","Oakland, CA",Techachapi Mountains,California,34.95,-118.58,PacifiAir Transport,3
+1947,Karachi,Istanbul,Al Mayadin,Syria,35.0160783,40.44654,Pan American World Airways,14
+1944,Little Rock,Memphis,Memphis,Tennessee,35.1495343,-90.0489801,American Airlines,24
+1930,Casablanca,Bahat,La Rache,Morocco,35.1744271,-6.1473964,Aeropostale,4
+1929,Albuquerque,Los Angeles,Mt. Taylor,New Mexico,35.2386491,-107.6081575,Trans Continental Air Transport,8
+1947,"Charlotte, NC","Gainsville, GA",Sylva,North Carolina,35.3737111,-83.2259803,Stratofreight,3
+1939,Chicago,Dallas,Oklahoma City,Oklahoma,35.4675602,-97.5164276,Braniff Airlines,8
+1947,San Francisco,Chicago,Gallup,New Mexico,35.5280783,-108.7425843,American Airlines,0
+1937,Belgian Congo,Brussels,Oran,Algeria,35.6976541,-0.6337376,Sabena,12
+1944,England,"Long Island, N.Y.",North AtlantiOcean,No Record Found,35.746512,-39.462891,Military - U.S. Army Air Forces,26
+1945,"Montreal, Canada",England,North AtlantiOcean,No Record Found,35.746512,-39.462891,Military -Royal Air Force,15
+1943,Nashville,Memphis,Near Centerville,Tennessee,35.7789565,-87.4669587,American Airlines,15
+1939,Egypt,England,Off Malta-Luqa,No Record Found,35.880334,14.4852504,Imperial Airways,5
+1947,Shanghai,Tsingtao,Tsingtao,China,36.067108,120.382609,China National Aviation Corporation,38
+1939,Alcante,Morocco,South of Gibraltar,No Record Found,36.140751,-5.353585,Iberia Airlines,10
+1942,Las Vegas,Los Angeles,Near Las Vegas,Nevada,36.1699412,-115.1398296,Trans Continental and Western Air,22
+1934,"Louisville, KY","Nashville, TN",Sunbright,Tennessee,36.2434093,-84.6699442,American Airlines,1
+1947,Sichang,Chungking,Chungking,China,36.2540236,120.3990921,Military - Chinese Air Force,21
+1946,Meshed,Teheran,Meshed,Iran,36.2604623,59.6167549,Aeroflot,24
+1944,San Francisco,New York City,Hanford,California,36.3274502,-119.6456844,Trans Continental and Western Air,24
+1948,Algiers,Biskra,Near Palestro,Algeria,36.5662811,3.5913939,Transport Comp. Algerienne de T.A.,9
+1933,Canton,Shanghi,Near Tsinan,China,36.651216,117.12,China National Aviation Corporation,8
+1931,Nanking,Peiking,Near Tsinan,China,36.651216,117.12,China National Aviation Corporation,3
+1947,"Akron, OH","Winston/Salem, NC",Near Galax,Virginia,36.6612387,-80.9239671,Eastern Air Lines,18
+1945,New York City,Los Angeles,Marion,Virginia,36.8348383,-81.5148368,American Airlines,17
+1940,Chungking,Kunming,Near Changyi,China,36.85882,119.398525,China National Aviation Corporation,9
+1943,Cleveland,Memphis,Trammel,Kentucky,37.0145499,-82.2937534,American Airlines,20
+1942,Battle Creek,"Florence, SC",Near Premier,West Virginia,37.4223352,-81.6437197,Military - U.S. Army Air Forces,21
+1938,San Francisco,Burbank,Near Wawona,Cailifornia,37.5368803,-119.6562684,Trans Continental and Western Air,9
+1946,Richmond,Atlanta,Richmond,Virginia,37.5407246,-77.4360481,Viking Air Transport,27
+1937,Los Angeles,San Francisco,Off San Francisco,California,37.5993593,-122.3867096,United Air Lines,11
+1936,"El Paso, TX","Pueblo, CO",Walsenberg,Colorado,37.6241793,-104.7802645,Varney Air Lines,3
+1947,Los Angeles,New York City,Bryce Canyon,Utah,37.6283161,-112.1676947,United Air Lines,53
+1933,Burbank,San Francisco,Hayward,California,37.6688205,-122.0807964,Varney Airlines,3
+1931,"Oakland, CA","Seattle, WA",Oakland,California,37.8043637,-122.2711137,PacifiAir Transport,4
+1941,"Kansas City, MO",New York,Near Robertson,Missouri,37.9409422,-93.4010371,Trans Continental and Western Air,2
+1947,Istanbul,Athens,Near Mt. Hymettus,Greece,37.9463889,23.8166667,AB Aerotransport,44
+1931,Kansas City,Wichita,Bazaar,Kansas,38.2719604,-96.5352854,Trans Continental and Western Air,8
+1936,New Orleans,Chicago,St. Louis,Missouri,38.6270025,-90.1994042,Chicago Southern Airlines,8
+1932,Training,No Record Found,Saint Louis,Illinois,38.6270025,-90.1994042,Century Air Lines,2
+1943,New York City,Lisbon,Lisbon,Portugal,38.7222524,-9.1393366,Pan American World Airways,25
+1947,Paris,Bordeaux,Near Lisbon,Portugal,38.7222524,-9.1393366,Air France,15
+1948,Atlanta,Washington D.C.,Oxon Hill,Maryland,38.8034468,-76.9896975,Eastern Air Lines,5
+1945,"Washington, D.C.","New York, Ny",Washington D.C.,No Record Found,38.9071923,-77.0368707,Page Airways,6
+1947,"New York, NY","Raleigh, NC",Harrington,Delaware,38.9237244,-75.5777033,International Air Freight,1
+1934,"Kansas City, MO","Chicago, IL",Columbia,Missouri,38.9517053,-92.3340724,Braniff Airlines,1
+1946,"Flint, MI","Washville, IL",Walshville,Illinois,39.07088,-89.6189784,Kansas City Southern Skyways,2
+1930,Wichita,"Kansas City, KS",Kansas City,Kansas,39.114053,-94.6274636,Central Airlines,5
+1947,Pittsburgh,Washington D.C.,Leesburg,Virginia,39.1156615,-77.5636015,Pennsylvania Central Airlines,50
+1947,Training,No Record Found,Delaware Bay,New Jersey,39.1201705,-75.2479061,Trans Continental and Western Air,4
+1943,Hawaii,San Francisco,Ukiah,California,39.1501709,-123.2077831,Pan American World Airways,19
+1940,Washington D.C.,Detroit,Near Lovettsville,Virginia,39.2726017,-77.636657,Pennsylvania Central Airlines,25
+1946,Topeka,Denver,Goodland,Kansas,39.350833,-101.7101722,Military - U.S. Army Air Corps,13
+1946,"Stockton, CA","Ogden, UT",Hobart Mills,California,39.4004621,-120.183811,Military - U.S. Army Air Forces,26
+1947,Miami,Raleigh,Carmel,New Jersey,39.4342818,-75.1212927,Nationwide Air Transport,3
+1947,Newark,Baltimore,Port Deposit,Maryland,39.6048327,-76.1152289,Eastern Air Lines,53
+1945,Pittsburgh,Morgantown,Morgantown,West Virginia,39.629526,-79.9558968,Pennsylvania Central Airlines,20
+1947,"Omaha, NE","Denver, CO",Denver,Colorado,39.7392358,-104.990251,Slick Airways,2
+1934,Omaha,St. Joseph,Amazonia,Missouri,39.8861052,-94.891913,Rapid Air Transport,5
+1935,Los Angeles,Albuquerque,Atlanta,Missouri,39.898646,-92.4810208,Trans Continental and Western Air,5
+1936,Newark,Los Angeles,Uniontown,Pennsylvania,39.900076,-79.7164326,Trans Continental and Western Air,13
+1945,Hankou,Peking,Near Peking,China,39.904211,116.407395,Military - U.S. Army Air Forces,59
+1931,"Port Colombus, OH","Louisville, KY",Springfield,Ohio,39.9242266,-83.8088171,American Airways,4
+1931,"Newark, NJ","Camden, NJ",Camden,New Jersey,39.9259463,-75.1196199,"NY, Phil., Washington AW",5
+1934,"St. Louis, MO","Chicago, IL",Petersburg,Illinois,40.0117151,-89.8481652,American Airways,4
+1946,AtlantiCity,Newark,Lakehurst,New Jersey,40.014561,-74.3112574,AtlantiCentral Airlines,4
+1937,Frankfurt,Lakehurst N.J.,Lakehurst,New Jersey,40.014561,-74.3112574,Deutsche Zeppelin Reederei,35
+1947,Havana,Lisbon,Pedro Bernardo,Spain,40.2426072,-4.9097818,Aerovias Cuba International,12
+1942,Salt Lake,Las Vegas,Fairfield,Utah,40.2621714,-112.0929961,Western Airlines,17
+1947,Tihua,Lanzhou,Near Yumen,China,40.291843,97.045679,Military - Chinese Air Force,26
+1946,Training flight,No Record Found,Reading,Pennsylvania,40.3356483,-75.9268747,Trans Continental and Western Air,5
+1932,Columbus,McKeesport,Steubenville,Ohio,40.3697905,-80.6339638,Trans Continental and Western Air,1
+1929,Cleveland,Louisville,Mount Vernon,Ohio,40.3933956,-82.4857181,Continental Air Lines,1
+1935,"Newark, NJ","Columbus, OH",Pittsburgh,Pennsylvania,40.4406248,-79.9958864,Trans Continental and Western Air,1
+1938,Channel Islands,Southhampton,Channel Islands,Jersey,40.6051035,-73.6279072,Jersey Airways,14
+1937,India,London,Brindisi Harbor,Italy,40.6327278,17.9417616,Imperial Airways,2
+1946,Cairo,Rome,Off Amalfi,Italy,40.6340026,14.6026805,Military - U.S. Army Air Forces,30
+1936,"Newwark, N.J.","Buffalo, NY",Pavillon,New York,40.6382101,-74.0787683,American Airlines,2
+1947,Catania,Rome,Ravello,Italy,40.6491886,14.6117112,Trafik-Turist-Transportflyg,20
+1943,Wendover Field,Pocatello AAB,Lakeside,Utah,40.653788,-112.7625703,Military - U.S. Army Air Forces / Military - U.S. Army Air Forces,25
+1938,Cagliari,Rome,Off Sardinia,Italy,40.7126296,8.5236143,Ala Littoria,20
+1947,New York,Buffalo,New York,New York,40.7127837,-74.0059413,American Airlines,3
+1945,Philadelphia,New York City,New York City,New York,40.7127837,-74.0059413,Eastern Air Lines,1
+1930,"Albany, NY","Jersey City, NJ",Jersey City,New Jersey,40.7281575,-74.0776417,Canadian Colonial Airways,4
+1937,Cheyenne,Salt Lake City,Haydens Peak,Wyoming,40.7346687,-110.8437819,United Air Lines,19
+1929,Sightseeing,No Record Found,Newark,New Jersey,40.735657,-74.1723667,Colonial Western Airlines,14
+1933,Test flight,No Record Found,Newark,New Jersey,40.735657,-74.1723667,Eastern Air Transport,2
+1936,Burbank,Las Vegas,Near Salt Lake City,Utah,40.7607793,-111.8910474,Western Air Express,7
+1934,Salt Lake City,Cheyenne,Near Salt Lake City,Utah,40.7607793,-111.8910474,Boeing Aircraft Company,8
+1942,San Francisco,New York City,Salt Lake City,Utah,40.7607793,-111.8910474,United Air Lines,17
+1938,Sightseeing,No Record Found,Montnago,Italy,40.7710051,9.6510118,Macchi,13
+1947,New York City,Cleveland,La Guardia Airport,Queens,40.7769271,-73.8739659,United Air Lines,43
+1946,New York City,San Francisco,Elko,Nevada,40.8324211,-115.7631232,Trans-Luxury Airlines,21
+1940,Oakland,Salt Lake City,Near Centerville,Utah,40.9180005,-111.8721601,United Air Lines,10
+1939,Test flight,No Record Found,Near Adler,Washington,40.9653217,-74.0519917,Boeing Aircraft Company,10
+1935,Salt Lake City,Cheyenne,Near Cheyenne,Wyoming,41.1399814,-104.8202462,United Air Lines,12
+1946,San Francisco,Cheyenne,Cheyenne,Wyoming,41.1399814,-104.8202462,United Air Lines,2
+1935,Test flight,No Record Found,Cheyenne,Wyoming,41.1399814,-104.8202462,United Air Lines,4
+1931,Kansas City,Chicago,Kewanee,Illinois,41.2455927,-89.9248303,Braniff Airways,2
+1937,Newark,Camden,Clifton,Pennsylvania,41.2509919,-75.5393155,Trans Continental and Western Air,13
+1947,Rome,Cairo,Off Terracina,Italy,41.2963728,13.2332657,Military - Corrieri Aerei Militari,16
+1946,Oakland,Chicago,Laramie,Wyoming,41.3113669,-105.5911007,National Air Transport Services,13
+1936,"Miami, FL","Charleston, SC",Near Milford,Pennsylvania,41.322316,-74.8023882,Eastern Air Lines,14
+1939,"Toulouse, France","Casablanca, Morocco",Barcelona,Spain,41.3850639,2.1734035,Deutsche Lufthansa,7
+1946,Chicago,Cleveland,Cleveland,Ohio,41.49932,-81.6943605,United Air Lines,2
+1938,Newark,Cleveland,Cleveland,Ohio,41.49932,-81.6943605,United Air Lines,10
+1946,Teterboro,Chicago,Moline,Illinois,41.5067003,-90.5151342,Trans Luxury Airlines,2
+1946,New York,Boston,Cheshire,Connecticut,41.5083668,-72.9106202,Eastern Air Lines,17
+1933,Cleveland,Chicago,Chesterton,Indiana,41.6105937,-87.0641992,United Air Lines,10
+1945,France,Athens,Near Picinisco,Italy,41.648291,13.866845,Military - U.S. Army Air Forces,20
+1946,Buffalo,Chicago,Michigan City,Indiana,41.7075394,-86.8950297,American Airlines,2
+1930,"Newark, NJ","Hartford, CT",Hartford,Connecticut,41.7637111,-72.6850932,Colonial Air Transport,1
+1933,Paris,Morroco,Viladrau,Spain,41.8477765,2.3904096,Aeropostale - La Tecoere Company,6
+1931,Chicago,Detroit,Chicago,Illinois,41.8781136,-87.6297982,Braniff Airlines,2
+1940,New York City,Chicago,Chicago,Illinois,41.8781136,-87.6297982,United Air Lines,10
+1935,Chicago,St. Louis,Maywood,Illinois,41.8791979,-87.8431155,Chicago and Southern Airlines,2
+1936,Marseille,Tunis,Off Ajaccio,Corsica,41.919229,8.738635,Air France,6
+1934,New York,Chicago,Mongaup Mountain,New York,41.9909235,-74.6840456,American Airways,7
+1932,Chicago,Kalamazoo,Marcellus,Michigan,42.0258779,-85.8155576,Transamerican Airlines,1
+1932,Rockford,"Chicago, IL",Colvin Park,Ilinois,42.13806,-88.78333,Northwest Airways,1
+1948,Athens,Nice,Mt. Argentari,Italy,42.398333,11.142778,Pan African Air Charter,12
+1935,Helena,Denver,Near Glendo,Wyoming,42.5027467,-105.0260832,Aero Mayflower Transit Co,3
+1941,New York,Buffalo,St. Thomas,Ontario,42.7777214,-81.1826527,American Airlines,20
+1944,"Bruning, NB","Pierre, SD",Naper,Nebraska,42.96361,-99.0967626,Military - U.S. Army Air Forces,28
+1935,Sightseeing,No Record Found,Flint,Michigan,43.0125274,-83.6874562,Knowles Flying Service of Detroit,3
+1947,Marseille,Lyon,Near Gemenos,France,43.295388,5.628112,Air France,2
+1938,"Marseille, France","Ajaccio, Corsica",Marseille,France,43.296482,5.36978,Air France,8
+1930,"Paris, France","London, England",Near Neufchatel,France,43.356673,6.695973,Imperial Airways,3
+1938,Sioux Lookout,Hudson,North Pine,Ontario,43.7291661,-90.5906492,General Airways,1
+1947,Training,No Record Found,Newcastle,Delaware,43.850056,-104.1932301,Trans Continental and Western Air,5
+1946,Boise,Denver,Mt. Elk,Wyoming,44.3369083,-107.2603464,United Air Lines,21
+1941,"Bucharest , Romania","Sofia, Bulgaria",Bucharest,Romania,44.4267674,26.1025384,LARES,15
+1947,Constanta,Bucharest,Bucharest,Romania,44.4267674,26.1025384,Transporturile Aeriene Romano-Sovietice,3
+1947,Bucurest,Prague,Phouznicie,Romania,44.4271997,26.1255311,TARS,13
+1943,Bombing run,No Record Found,Ploesti,Romania,44.936664,26.0128616,Military - U.S. Army Air Forces,10
+1929,St. Paul,Minneapolis,St. Paul,Minnesota,44.9537029,-93.0899578,Northwest Orient Airlines,1
+1947,Lyons,Nice,Mt. Moucherolles,France,45.004949,5.564012,Air France,23
+1936,Turin,Milan,Near Turin,Italy,45.070312,7.6868565,Avio Linee Italiane,7
+1945,Athens,Naples,Near Boccadi,Italy,45.4337307,12.336833,Military - U.S. Army Air Forces,24
+1944,"Montreal, Canada",European air base,Montreal,Canada,45.5016889,-73.567256,Military - Royal Air Force,16
+1933,"Seattle, WA","Dallas, TX",Portland,Oregon,45.5230622,-122.6764816,United Air Lines,4
+1938,Seattle,Billings,Bozeman,Montana,45.6769979,-111.0429339,Northwest Orient Airlines,10
+1931,Portland,Pasco,Bluff Mountain,Washington,45.7423372,-122.1900892,Varney Air Lines,1
+1945,"Newark, N.J.","Seattle, WA",Near Billings,Montana,45.7832856,-108.5006904,Military - U.S. Army,17
+1938,Seattle,Chicago,Billings,Montana,45.7832856,-108.5006904,Northwest Orient Airlines,10
+1945,India,"Cambridge, England",Near Rochefort,France,45.936698,-0.961697,Military -Royal Air Force,28
+1946,Paris,Toulouse,St Leger-la-Montagne,France,46.029218,1.418574,CTA LanguedoRoussillon,23
+1947,Paris,Vichy,Vichy,France,46.131859,3.425488,Aero Cargo,1
+1937,"Southhampton, England","Alexandria, Egypt",Near Ouroux,France,46.231418,4.593407,Imperial Airways,5
+1931,"Portland, WA","Pasco, WA",Pasco,Washington,46.2395793,-119.1005657,Varney Air Lines,1
+1939,Chicago,Seattle,Miles City,Montana,46.4083362,-105.8405582,Northwest Orient Airlines,4
+1942,Chicago,Seattle,Miles City,Montana,46.4083362,-105.8405582,Northwest Orient Airlines,3
+1935,"Milan, Italy",Amsterdam,Pian Giacomo,Switzerland,46.4158854,9.2237105,KLM Royal Dutch Airlines,13
+1946,"Miramar NAS, California","Sand Point NB, Seattle",Toledo,Washington,46.4398305,-122.846783,Military - U.S. Marine Corps,32
+1941,Minneapolis,Fargo,Near Moorhead,Minnesota,46.8737648,-96.7678039,Northwest Orient Airlines,14
+1934,Saigon,Paris,Corbigny,France,47.257618,3.684328,Air France,14
+1944,Stuttgart,Barcelona,Near Dijon,France,47.322047,5.04148,Deutsche Lufthansa,9
+1929,Bremerton,No Record Found,Off Bremerton,Washington,47.5673202,-122.6329356,Bremerton-Seattle Air Taxi / Gorst Air Lines,2
+1947,Anchorage,Seattle,Seattle,Washington,47.6062095,-122.3320708,Alaska Airlines,8
+1943,Test flight,No Record Found,Seattle,Washington,47.6062095,-122.3320708,Private - Boeing Aircraft Company,10
+1939,"Vienna, Austria","Zurich, Switzerland",Konstanz,Switzerland,47.6779496,9.1732384,Swissair,6
+1945,London,Cairo,Rennes,France,48.117266,-1.6777926,Military - Royal Air Force,26
+1946,Gander,Shannon,Stephenville,Newfoundland,48.5479718,-58.5815353,American Overseas Airlines,39
+1939,Zurich,Geneva,Paris,France,48.856614,2.3522219,Swissair,5
+1946,Paris,Croydon,Le Bourget,France,48.936752,2.425377,Air France,20
+1946,Brussels,Shannon,Near Gander,Newfoundland,48.954408,-54.6103488,Sabena,27
+1938,"Berlin, Germany","Paris, France",Pontoise,France,49.050966,2.100645,Deutsche Lufthansa,3
+1942,New York,Botwood,Botwood,Newfoundland,49.1422983,-55.3440853,American Export Airlines,11
+1931,Cologne,Saarbrucken,Saarbrucken,Germany,49.2401572,6.9969327,Deutsche Lufthansa,4
+1947,Lethbridge,Vancouver,Near Vancouver,British Columbia,49.2827291,-123.1207375,Trans Canada Air Lines,15
+1930,Prague,Brun,Iglau,Czechoslovakia,49.4227569,15.563998,Ceskoslovenske Aerolinie,10
+1930,"Cardington, England","Karachi, Pakistan",Near Beauvais,France,49.4295387,2.0807123,Military - British Air Ministry,48
+1937,Berlin,Mannheim,Mannheim,Germany,49.4874592,8.4660395,Deutsche Lufthansa,10
+1946,"Comox, BC","Greenwood,NS",Crowsnest Pass,Alberta,49.5908749,-114.523843,Mililtary - Royal Canadian Air Force,7
+1945,England,Brussels,Roye,France,49.697797,2.788831,Military -Royal Air Force,31
+1931,Winnigeg,Moosejaw,Bagot,Manitoba,49.968341,-98.628957,Western Canada Airways,2
+1933,Test flight,No Record Found,Near Kharkov,Ukraine,49.9935,36.230383,Kalinin,14
+1946,Paris,Prauge,Near Prague,Czechoslovakia,50.0987034,14.4317705,Ceskoslovenske Aerolinie,10
+1938,"Milan, Italy","Frankfurt, Germany",Frankfurt,Germany,50.1109221,8.6821267,Deutsche Lufthansa,6
+1934,"Dieppe, France","New Haven, England",English Channel,No Record Found,50.134664,-0.357056,Air France,6
+1944,"Twinwood, England","Villacoublay, France",English Channel,No Record Found,50.134664,-0.357056,Military - U.S. Army Air Forces,3
+1930,Calgary,Moosejaw,Southesk,Saskatchewan,50.3273805,-102.2640528,Western Canada Airways,3
+1938,Winnipeg,Regina,Regina,Saskatchewan,50.4452112,-104.6188944,Trans Canada Air Lines,2
+1937,Amsterdam,Paris,Hal,Belgium,50.73757,4.23251,KLM Royal Dutch Airlines,15
+1946,Brussels,Croydon,Brussels,Belgium,50.8503396,4.3517103,Sabena,1
+1936,Frankfurt,Erfurt,Near Tabarz,Germany,50.8784811,10.5115698,Deutsche Lufthansa,11
+1945,Belgium,India,Melsbroek,Belgium,50.91535,4.4787175,Military -Royal Air Force,31
+1933,"Cologne, Germany","Croydon, England",Near Dixmude,Belgium,51.033331,2.8658393,Imperial Airways,15
+1933,"Brussels, Belgium","Croydon, England",Near Ruysselede,Belgium,51.0413098,3.3970513,Imperial Airways,10
+1930,Berlin,Vienna,Dresden,Germany,51.0504088,13.7372621,Deutsche Lufthansa,8
+1947,London,Bordeaux,Near Lympne,England,51.075215,1.025608,British Overseas Airways,8
+1937,Cologne,Brussels,Ostende,Belgium,51.21543,2.928656,Sabena,11
+1929,Amsterdam,Croyden,Near Godstone,Surrey,51.247571,-0.067578,Deutsche Lufthansa,7
+1945,England,Prague,Elvetham,England,51.2966867,-0.8693995,Military -Royal Air Force,23
+1935,"Brussels, Belgium","Croydon, England",Croydon,England,51.376165,-0.098234,Sabena,11
+1936,Croydon,Amsterdam,Croydon,England,51.376165,-0.098234,KLM Royal Dutch Airlines,15
+1934,"Croydon, England","Paris, France",Croydon,England,51.376165,-0.098234,Air France,2
+1947,Guangzhou,Chongqing,Croydon,Surrey,51.376165,-0.098234,Spencer Airways / Ceskoslovenske Aerolinie,12
+1935,"Praha, Czechoslovakia","Amsterdam, Netherlands",Brilon,Germany,51.3982179,8.5749432,KLM Royal Dutch Airlines,7
+1938,Brussells,Berlin,Soest,Germany,51.5711476,8.105754,Sabena,20
+1943,Lisbon,Foynes,Brandon Head,Ireland,52.2741667,-10.2497222,British Overseas Airways,12
+1938,Berlin,Amsterdam,Schiphol,Amsterdam,52.3076865,4.7674241,KLM Royal Dutch Airlines,6
+1935,Amsterdam,Sweden,Amsterdam,Netherlands,52.3702157,4.8951679,KLM Royal Dutch Airlines,6
+1938,Instructional Flight,No Record Found,Amsterdam,Netherlands,52.3702157,4.8951679,KLM Royal Dutch Airlines,4
+1946,London,Amsterdam,Amsterdam,Netherlands,52.3702157,4.8951679,KLM Royal Dutch Airlines,26
+1939,Berlin,Hanover,Hannover,Germany,52.3758916,9.7320104,Deutsche Lufthansa,7
+1946,Paris,Shannon,Near Shannon,Ireland,52.7124708,-8.8730676,Trans Continental and Western Air,13
+1947,Goose Bay,"Westover Field, MS",Near Goose Bay,Labrador,52.9718068,-60.2964313,Military - U.S. Air Force,23
+1944,Liverpool,New York,Birkenhead,England,53.389991,-3.023009,Military - U.S. Army Air Forces,24
+1935,Koenigberg,Berlin,Stettin,Germany,53.4285438,14.5528116,Deruluft,11
+1933,Berlin,Hamburg,Hamburg,Germany,53.5510846,9.9936818,Deutsche Lufthansa,7
+1945,Ridgewell,Nutts Corner,North Barrule,Isle of Man,54.2833333,-4.4,Military - U.S. Air Force,31
+1938,Prague,"Paris, France",Kiel,Germany,54.3232927,10.1227652,CSA Czech Airlines,16
+1944,Bristol,Preswick,Port Logan,Scotland,54.723977,-4.956053,Military - U.S. Army Air Forces,22
+1947,Seattle,Juneau,Annette Island,Alaska,55.1209294,-131.4855123,Pan American World Airways,18
+1930,Stettin,Norway,Bornholm,Denmark,55.160428,14.8668836,Deutsche Lufthansa,5
+1946,Copenhagen,Paris,Holtug,Denmark,55.341539,12.405246,Air France,22
+1948,Amsterdam,Prestwick,Prestwick Airport,Scotland,55.5089021,-4.6109806,KLM Royal Dutch Airlines,40
+1947,Amsterdam,Malmo,Malmo,Sweden,55.604981,13.003822,AB Aerotransport,1
+1936,Malmo,Amsterdam,Malmo,Sweden,55.604981,13.003822,A B Aerotransport,1
+1947,Kobenhavn,Stockholm,Copenhagen,Denmark,55.6760968,12.5683371,KLM Royal Dutch Airlines,22
+1939,London,Hamburg,Off Copenhagen,Denmark,55.6760968,12.5683371,British Airways,5
+1935,Demonstration,No Record Found,Near Moscow,Russia,55.755826,37.6173,Gor'ky Eskadril'ya,50
+1940,"Perth, Scotland","London, England",Near Loch Lomond,Scotland,56.1113678,-4.6288602,British Overseas Airways,3
+1939,Stockholm,Amsterdam,North Sea,No Record Found,56.511018,3.515625,KLM Royal Dutch Airlines,1
+1947,Anchorage,Yakutat,Yakutat,Alaska,59.5469444,-139.7272222,Columbia Air Cargo,13
+1946,Northolt,Oslo,Oslo,Norway,59.9138688,10.7522454,British European Airways,3
+1946,Oslo,Stockholm,Oslo,Norway,59.9138688,10.7522454,DNL,13
+1936,Bergen,Trondheim,Mt. Lihesten,Norway,61.1749982,5.2144952,Den Norske Luftfartskole,7
+1948,Anchorage,New York City,Mt. Sanford,Alaska,62.2138889,-144.1288889,Northwest Orient Airlines,30
+1944,"Elmindorf AFB, Anchorage","Ladd Field, Fairbanks",Alaska,No Record Found,64.2008413,-149.4936733,U. S. Air Force,19
+1944,Nome,Fairbanks,Near Nome,Alaska,64.5011111,-165.4063889,Pan American World Airways,6
+1947,ReykjavÃ­k,Akureyri,Hjedinsfjordur,Iceland,66.1534796,-18.7519095,Flugefelag,25
+1938,Moscow,Murmansk,Kandalaksha,Russia,67.1700511,32.4229656,TsAGI,13
+1947,Tromso,Oslo,Harsiad,Norway,68.7986342,16.5414503,Norwegian Airlines,35

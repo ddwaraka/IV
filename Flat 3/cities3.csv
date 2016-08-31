@@ -1,0 +1,1543 @@
+crash_city,crash_country,lat,lon,death,airline,ori,year,dest
+Abidjan,Ivory Coast,5.3599517,-4.0082563,50,Varig,Abidjan,1987,Rio de Janeiro
+Over the Andaman Sea,No Record Found,10.2845439,98.4403573,115,Korean Airlines,Abu Dhabi,1975,Bangkok
+Sierra de Guerro,Mexico,19.3261967,-99.0407823,18,Aeromexico,Acapulco,1986,Guadalajara
+Addis Ababa,Ethiopia,8.9806034,38.7577605,43,East African Airways,Addis Ababa,1973,Rome
+Off Aden,Yemen,12.7854969,45.0186548,20,Alyemda,Aden,1972,Al Kari
+Aden,Yemen,12.7854969,45.0186548,3,Alyemda Airlines,Aden,1988,Abu Dahbi
+Near Adler,Russia,43.4343234,39.9339462,109,Aeroflot,Adler,1976,Moscow
+Casablanca,Morocco,33.5731104,-7.5898434,61,Royal Air Maroc,Agadir,1988,Casablanca
+Agana,Guam,13.4762824,144.7502228,2,Island Air,"Agana, Guam",1977,"Rota, TT"
+Tehran,Iran,35.6891975,51.3889736,60,Military - Iranian Air Force,Ahwaz,1987,Tehran
+Kaiserslautern,West Germany,49.4400657,7.7491265,3,Military - Italian Air Force,Air show,1972,No Record Found
+Opole,Poland,50.6751067,17.9212976,11,APRL,Airshow,1977,No Record Found
+Springfield,Illinois,39.7817213,-89.6501481,3,Saturn Airways,"Alameda, CA",1988,"Indianapolis, IN"
+Mt. Pilot Knob,Glen Falls,43.4889579,-73.6065042,14,Mohawk Airlines,Albany,1974,Glenn Falls
+Albuquerque,New Mexico,35.0853336,-106.6055534,9,Ross Aviation - Air Taxi,"Albuquerque, NM",1980,"Sante Fe, NM"
+Grants,New Mexico,35.14726,-107.8514466,4,Orlando Airways - Air Taxi,"Albuquerque, NM",1970,"Gallup, NM"
+Engle,New Mexico,33.1784859,-107.0216377,4,Southwest Aviation - Air Taxi,"Albuquerque, NM",1981,"Las Cruces, NM"
+Durango,Colorado,37.27528,-107.8800667,4,Sun West Airline - Air Taxi,"Albuquerque, NM",1988,"Durango, CO"
+Carson,New Mexico,36.3644667,-105.7652927,3,Air Taxi,"Albuquerque, NM",1975,"Taos, NM"
+Skaugum,Norway,62.2999168,6.9332661,40,Braathens,Alesund,1980,Oslo
+Ben Gashir,Libya,32.687778,13.173889,16,United Arab Airlines,Algers,1985,Boumediene
+Near Sarroch,Italy,39.0654974,9.0108377,31,Aero Transporti Italiani,Alghero,1972,Cagliari
+Off Algiers,Algeria,36.7537703,3.0587927,31,Rousseau Aviaiton,Algiers,1988,Menorca
+Morristown,New Jersey,40.7967667,-74.4815438,1,Northeast Jet,"Allentown, PA",1981,"Morristown, NJ"
+Chadron,Nebraska,42.8294187,-102.9999069,2,Air Taxi,"Alliance, AK",1979,"Chadron, NE"
+Nar Alma-Ata,Kasakastan,43.2220146,76.8512485,166,Aeroflot,Alma Ata,1973,Simferopol
+Hornell,New York,42.3278477,-77.6611025,3,Seventy Airways - Air Taxi,"Almond Dam, NY",1982,"Salamanica, NY"
+Altus,Oklahoma,34.637765,-99.3340442,2,Air Taxi - Oklahoma Airways Inc.,"Altus, OK",1981,"Oklahoma City, OK"
+Shungnak,Alaska,66.8880556,-157.1363888,7,Ambler Air Service,"Ambler, AK",1974,"Kobuk, AK"
+Near Doha Airport,Qatar,25.2684883,51.5574834,45,Alia Royal Jordanian Airlines,Amman,1969,Doha
+Amman,Jordan,31.9565783,35.9456951,5,Aeroflot,"Amman, Jordan",1970,"Beiruit, Lebanon"
+Deadhorse,Alaska,70.2001996,-148.4597191,2,Gay Airways - Air Taxi,"Anaktuvak, AK",1986,"Deadhorse, AK"
+Anaktuvuk,Alaska,70.2095972,-150.9837663,5,Frontier Flying Service - Air Taxi,"Anaktuvuk, AK",1981,"Bettles, AK"
+Anchorage,Alaska,61.2180556,-149.9002778,47,Capital Airlines,Anchorage,1988,Yokota AFB
+Near Juneau,Alaska,58.3019444,-134.4197222,111,Alaska Airlines,Anchorage,1969,Seattle
+Seoul,South Korea,37.566535,126.9779692,15,Korean Airlines,Anchorage,1974,Seoul
+Near Sakhalin Island,Russia,50.6909848,142.9505689,269,Korean Airlines,Anchorage,1978,Seoul
+Near Juneau,Alaska,58.3019444,-134.4197222,4,Jet Alaska,Anchorage,1975,Juneau
+Off the Alaska coast,No Record Found,59.864755,-151.792311,4,Private,"Anchorage, AK",1972,"Juneau, AK"
+Anchorage,Alaska,61.2180556,-149.9002778,6,Winship Air,"Anchorage, AK",1969,"Deadhorse, AK"
+Whittier,AK,60.7730556,-148.6838889,6,Alaska Travel,"Anchorage, AK",1982,"Whittier, AK"
+Anchorage,Alaska,61.2180556,-149.9002778,4,Spernak Airway - Air Taxi,"Anchorage, AK",1970,"Anchorage, AK"
+Anchorage,Alaska,61.2180556,-149.9002778,7,Soldotna Air Services,"Anchorage, AK",1971,"Kenai, AK"
+Anchorage,Alaska,61.2180556,-149.9002778,5,Air Taxi,"Anchorage, AK",1985,"Cantwell, AK"
+Soldotna,Alaska,60.4877778,-151.0583332,9,North PacifiAirlines,"Anchorage, AK",1972,"Anchorage, AK"
+Gulkana,Alaska,62.2086338,-145.4514817,3,Air Taxi - Jet Alaska,"Anchorage, AK",1974,"Gulkana, AK"
+Swentna,Alaska,61.923613,-151.1683574,3,Jay Hawk Air - Air Taxi,"Anchorage, AK",1982,"McGrath, AK"
+AtlantiOcean,No Record Found,-14.5994134,-28.6731465,8,Air Taxi,Anguilla,1984,"St. Thomas, VI"
+Wisconson,No Record Found,43.7844397,-88.7878678,6,Valley Air Service - Air Taxi,"Anguilla Island, WI",1971,"Beef Island, WI"
+Ankara,Turkey,39.9333635,32.8597419,41,Turkish Airlines (THY),Ankara,1971,Samsun
+Faleolo,Western Samoa,-13.8320165,-172.0121023,32,Polynesian Airlines,"Apia, Western Samoa",1973,"Pago Pago, American Samoa"
+Valley,Nebraska,41.3110284,-96.3465622,13,Air Wisconsin,"Appleton, WI",1987,"Minneapolis, MN,"
+Villavicencio,Colombia,4.1513822,-73.6376905,6,Lineas Aéreas La Urraca,Arauca,1975,Cucuta
+Cerro Toledo Mountain,Colombia,41.6639383,-83.555212,19,SATENA,Arauca,1971,Bogota
+Winfield,Kansas,37.2397486,-96.9955918,2,Smyer Aircraft - Air Taxi,"Arkansas City, KS",1973,"White Plains, NY"
+Leshukonskoye,Russia,53.337199,91.9334697,44,Aeroflot,Arkhangelsk,1984,Leshukonskoye
+Near Artigas,Uruguay,-30.4880891,-57.1013188,44,Military - Uruguayan Air Force,Artigas,1975,Montevideo
+Near Asmara,Ethiopia,11.2452778,41.5438889,54,Military - Ethiopian Air Force,Asrmara,1981,Addis Ababa
+Near La Paz,Bolivia,-16.489689,-68.1192936,29,Eastern Air Lines,"Asuncion, Paraguay",1979,"La Paz, Bolivia"
+Near Huete,Spain,40.1435735,-2.6896893,24,Military - U.S. Air Force,Athens,1978,Madrid
+Kozani,Greece,40.3005808,21.7898132,50,OlympiAirways,Athens,1974,Larisa
+Luqa,Malta,35.8582865,14.4868883,60,EgyptAir,Athens,1984,Cairo
+Athens,Greece,37.983917,23.7293599,1,Trans World Airlines,Athens,1970,Rome
+Near Katab,Egypt,30.6296745,31.0825234,5,Bahri Aviation,"Athens, Greece",1987,"Jeddah, Saudi Arabia"
+Near Monroe,Georgia,33.7948364,-83.713229,14,Air South,"Atlanta, GA",1976,"Sumpter, SC"
+Roanoke,Virginia,37.2709704,-79.9414266,6,Private,"Atlanta, GA",1969,"Martinsville, VA"
+Cape May,New Jersey,38.9351125,-74.9060053,3,AtlantiCity Airlines,AtlantiCity,1974,Cap May
+AtlantiCity,New Jersey,39.3642834,-74.4229266,2,Air Taxi - Islip Airco Inc.,"AtlantiCity, NJ",1972,"AtlantiCity, NJ"
+Pago Pago,American Samoa,-14.2756319,-170.7020359,96,Pan American World Airways,Auckland,1974,Pago Pago
+Near Mt. Erebus,Ross Ice Shelf,52.6322222,-118.2666666,257,Air New Zealand,Auckland,1988,Christchurch
+Off Papeete,Tahiti,-17.5516251,-149.5584758,78,Pan American World Airways,"Auckland, NZ",1984,"Papeete, Tahiti"
+Avalon,California,33.3428193,-118.3282279,2,Shanair Inc. - Air Taxi,"Avalon, CA",1988,"Visalia, CA"
+Gondar,Ethiopia,12.6030181,37.4521319,11,Ethiopian Airlines,Axum,1974,Gondar
+Elburz Mtns.,near Laskarak,No Record Found,No Record Found,128,Iran National Airlines,Babol Sar,1969,Tehran
+Ay,Saudi Arabia,29.0411111,35.2602778,63,Iraqi Airways,Baghdad,1973,Amman
+Near Bahar Dar,Ethiopia,11.5742086,37.3613533,1,Ethiopian Airlines,Bahar Dar,1970,Debra Marcos
+Bahar Dar,Ethiopia,11.5742086,37.3613533,35,Ethiopian Airlines,Bahar Dar,1986,Asmara
+Bahawalpur,Pakistan,29.3957215,71.6833331,30,Military - Pakistan Air Force,Bahawalpur,1973,Islamabad
+Eagleville,California,41.3161995,-120.1156498,2,Dunlap Aviation - Air Taxi,"Bakersfield, CA",1979,"Long Beach, CA"
+Near Zahedan,Iran,29.451926,60.8841983,103,Military - Iranian Air Force,Bakhtaran,1975,Zahedan
+Pochinok,Russia,54.4083235,32.4373768,4,Aeroflot,Baku,1975,Leningrad
+Baltimore,Maryland,39.2903848,-76.6121893,1,Delta Air Lines,Baltimore,1982,Atlanta
+Chalkhill,Pennsylvania,39.8441427,-79.616648,4,Zantop International Airlines,Baltimore,1983,Detroit
+Near Ouagadougou,Upper Volta,12.3714277,-1.5196603,47,Air Mali,"Bamako, Mali",1985,"Kano, Nigeria"
+Bamiyan,Afghanistan,34.9073296,67.1894488,4,Bakhtar Afghan Airlines,Bamiyan,1988,Kabul
+Pha Khao,Laos,18.6591233,104.6095976,1,Air America,Ban Xon,1981,Pha Khao
+Medan-Polonia,Indonesia,3.5642564,98.6669345,27,Garuda Indonesia Airlines,Banda Aceh,1982,Medan
+Over the Persian Gulf,near Bandar Abbas,27.1832216,56.2666455,290,Iran Air,Bandar Abbas,1978,Dubai
+Near Tanana,Alaska,65.1719444,-152.0788889,3,Air Taxi,"Banddanack, AK",1969,"Fairbanks, AK"
+Near New Delhi,India,28.6139391,77.2090212,82,Japan Air Lines,Bangkok,1975,Delhi
+Near Pleiku,Vietnam,14.004481,108.016797,81,Cathay PacifiAirways,Bangkok,1980,Hong Kong
+Combi,Cyprus,35.126413,33.429859,2,Kuwait Airways,Bangkok,1980,Kuwait
+Near Jakarta,Indonesia,-6.2087634,106.845599,37,Bouraq Indonesia Airlines,Banjarmasin,1971,Sjamsudin Noor
+Near Grytoya,Norway,68.9215599,16.5271901,19,Military - Royal Norwegian Air Force,Bardufoss,1985,Bodoe
+Puerto Olaya,Colombia,6.626961,-75.8127,3,Aeronorte Colombia,Barranquilla,1980,Bogota
+Barranquilla,Colombia,11.0041072,-74.8069813,4,Aerosucre Colombia,Barranquilla,1984,Bogota
+Gainsville,Florida,29.6516344,-82.3248262,3,Tampa Air Center - Air Taxi,"Bartow, FL",1988,"Lake City, FL"
+Habsheim,France,47.728415,7.415866,3,Air France,Basel,1981,Basel
+Off Bata,Equatorial Guinea,1.8533177,9.7790227,22,Military - Spanish Air Force.,Bata,1988,Malabo
+Battambang,Khmer Republic,39.807989,-97.6982272,19,Cambodia Air,Battambang,1972,Phnom Penh
+Near Agudos,Brazil,-22.4714626,-48.9790314,18,TAM Lineas Aéreas Regional,Bauru,1973,Sao Paulo
+Near Chungking,Sichuan,29.56301,106.551556,108,China Southwest Airlines,Beijing,1973,Chongqing
+Near Al Qaysumah,Saudi Arabia,25.7399999,43.1599999,82,Middle East Airlines,Beirut,1976,Dubai
+Diemas,Syria,33.5417519,36.1144762,9,Military - Canadian Air Force,"Beirut, Lebanon",1973,"Damascas, Syria"
+Sao Luis,Brazil,-2.5391099,-44.2829046,23,Cruzeiro,Belem,1975,Sao Luis
+New Orleans,Louisiana,29.9510658,-90.0715323,0,TACA,"Belize City, Belize",1976,"New Orleans, LA"
+Near Beni,Bolivia,-14.3782747,-65.0957792,2,Sabeni,Beni,1974,La Paz
+Off Bergen,Norway,60.3912628,5.3220544,18,Helikopter Service,Bergen,1985,Stratjford
+Mehamn,Norway,71.0357069,27.8489411,15,Wideroe's Flyveselksap,Berlevag,1977,Mehamn
+Near Konigs Wusterausen,East Germany,52.2958906,13.6228382,156,Interflug,Berlin,1974,Birgas
+Budapest,Hunary,47.497912,19.040235,9,Malev Hungarian Airlines,Berlin,1974,Budapest
+Sofia,Bulgaria,42.6977082,23.3218675,50,Balkan Bulgarian Airlines,Berlin,1984,Sofia
+Kasigluk,Alaska,60.8955556,-162.5180556,2,Harry Faulkner - Air Taxi,"Bethel, AK",1976,"Chevak, AK"
+Nightmute,Alaska,60.4794444,-164.7238889,2,Village Aviation - Air Taxi,"Bethel, AK",1975,"Tooksook, Alaska"
+Bethel,Alaska,60.7922222,-161.7558333,2,Air Taxi- Hermans Air Inc.,"Bethel, AK",1976,"Chevak, AK"
+Quinhagaki,Alaska,59.7488889,-161.9158333,4,Air Taxi,"Bethel, AK",1979,"Quinhagaki, AK"
+Near Gia Dinh,South Vietnam,10.8230989,106.6296638,34,Military - U.S. Army,Bien Hoa,1983,Vung Tau
+Pickle Lake,Ontario,51.467825,-90.193782,2,Air Manitoba,Big Trout,1971,Pickle Lake
+Billings,Vermont,43.4994109,-72.7094757,3,Mamer - Shreck - Air Taxi,"Billings, MT",1987,"Cody, WY"
+Hannover,Germany,52.3758916,9.7320104,2,Starair,Billund,1978,Hannover
+North AtlantiOcean,No Record Found,35.746512,-39.462891,2,Flamingo Airlines - Air Taxi,"Bimini, Bahamas",1969,"Nassau, Bahamas"
+Binghamton,New York,42.0986867,-75.9179738,3,Commuter Airline - Air Taxi,"Binghamton, NY",1979,Washington DC
+Bainbridge,New York,42.2934131,-75.4793477,4,Air Taxi - Delaware Aviation LLC,"Binghamton, NY",1985,"Bainbridge, NY"
+Bishop,California,37.3614238,-118.3996636,36,Sierra PacifiAirlines,Bishop,1973,Burbank
+Cortez,Colorado,37.3488827,-108.5859265,2,Air Taxi - Four Corners Aviation Inc.,"Blanding, UT",1973,"Farnington, New Mexico"
+Ulongue,Malawi,-14.7079516,34.3587921,10,Air Malawi,Blantyre,1974,Lilongwe
+Near Hennenman,South Africa,-27.9783916,27.026445,24,United Airways,Bloemfontein,1983,Johannesburg
+Near Medina,Colombia,4.508399,-73.349853,28,SATENA,Bogota,1978,Villavicencio
+Near Funza,Colombia,4.717029,-74.21225,20,Lineas Aéreas la Urraca,Bogota,1973,San Andres
+Near Valledupar,Colombia,10.4742449,-73.2436335,19,TAC Colombia,Bogota,1981,Valledupar
+Bogota,Colombia,4.7109886,-74.072092,42,Aerovias Brasil,Bogota,1969,Cartagena
+Bogota,Colombia,4.7109886,-74.072092,2,Aerovias Condor,Bogota,1975,Barranquilla
+Barranquilla,Colombia,11.0041072,-74.8069813,4,AVIANCA,Bogota,1985,Barranquilla
+Near Bogota,Colombia,4.7109886,-74.072092,13,Taxi Aereo el Venado,Bogota,1981,La Macarene
+Bogota,Colombia,4.7109886,-74.072092,8,LAC Colombia,Bogota,1986,Barranquilla
+Near Florencia,Colombia,1.6153858,-75.6042364,46,SATENA,Bogota,1983,San Vicente del Caguán
+Near Saravena,Colombia,6.956107,-71.872595,13,ACES Colombia,Bogota,1980,Saravena
+Bernard Creek,Idaho,45.3813844,-116.5661505,5,Gaige Aviation - Air Taxi,"Boise, ID",1981,"Flying B Ranch, ID"
+Pistol Creek,Idaho,44.7215726,-115.176106,6,Boise Air Service,"Boise, ID",1975,"Indian Creek, ID"
+Pontiac,Michigan,42.6389216,-83.2910468,2,Air Taxi - Richards Aviation Inc.,"Bolivar, TN",1985,"Pontiac, MI"
+Near Turin,Italy,45.070312,7.6868565,38,Itavia,Bologna,1979,Torino
+Tyrrhenian Sea,off Ustica,38.7031179,13.1682675,81,Itavia,Bologna,1975,Palermo
+Off Bandra,Maharashtra,19.0606917,72.8362497,213,Air India,Bombay,1972,Dubai
+Near Panvel,India,18.9894007,73.1175162,45,Indian Airlines,Bombay,1979,Pune
+Karachi,Pakistan,24.8614622,67.0099388,16,Pan American World Airways,Bombay,1982,Karachi
+Near Ahmedabad,India,23.022505,72.5713621,124,Indian Airlines,Bombay,1984,Ahmadabad
+San Juan,Puerto Rico,18.4655394,-66.1057355,6,Francisco Cruz,"Borinquen, PR",1972,"San Juan, PR"
+Rockland,Maine,44.1036914,-69.1089293,17,Downeast Airlines,Boston,1987,Rockland
+Augusta,Maine,44.3106241,-69.7794897,3,Downeast Airlines,"Boston, MA",1972,"Rockville, ME diverted to Augusta ME"
+Auburn,Maine,44.0978509,-70.2311655,8,Bar Harbor Airlines,"Boston, MA",1984,"Auburn, ME"
+Off Dakar,Senegal,14.7645042,-17.3660286,12,Military - Mauritanian Air Force,Bouceif,1976,Dakar
+Harrison,Arkansas,36.2297936,-93.1076765,2,Acme Air,"Branson, MO",1973,"Harrison, AR"
+Geneva,Switzerland,46.2043907,6.1431577,1,Air Afrique,Brazzaville,1974,Paris
+Monroe,Massachusetts,42.7143925,-73.0051055,3,Business Aircraft - Air Taxi,"Bridgeport, CT",1973,"Albany, NY"
+Off Bridgetown,Barbados,13.1132219,-59.5988089,73,Cubana de Aviacion,Bridgetown,1986,Kingston
+Near Hochwald,Solothurn,47.4574646,7.6431883,108,Invicta International Airlines (UK),Bristol,1972,Basel
+Jacksonville,Florida,30.3321838,-81.655651,4,Air Taxi - TAJ FBO Co.,"Brunswick, GA",1988,"Jacksonville, FL"
+Near Funchal,Island of Madeira,32.7607074,-16.9594723,131,TAP (Air Portugal),Brussels,1972,Funchal
+Bordeaux,France,44.837789,-0.57918,16,Air Littoral,Brussels,1981,Bordeaux
+Monte San Isidro,Colombia,3.5035802,-76.5481006,44,Aerolineas TAO,Bucaramanga,1980,Cucuta
+Apuseni mountains,Romania,46.5073299,23.0041257,21,Tarom,Bucharest,1985,Oradea
+Nouadhibou,Mauretania,20.9425179,-17.0362272,1,Tarom,Bucurest,1977,Nouadhibou
+Kiev,Ukraine,50.4501,30.5234,49,Malev Hungarian Airlines,Budapest,1979,Kiev
+Off Beirut,Lebanon,33.8886289,35.4954794,60,Malev Hungarian Airlines,Budapest,1986,"Beirut, Lebanon"
+Near Bariloche,Argentina,-41.1334722,-71.3102778,46,Austral Lineas Aeras (Argentina),Buenos Aires,1985,San Carlos de Bariloche
+Salta,Argentina,-24.7821269,-65.4231976,7,YPF,Buenos Aires,1972,Salta
+Parkersburg,West Virginia,39.2667418,-81.5615135,4,Rambar Aviation - Air Taxi,"Buffalo, NY",1972,"Parkersburg, WV"
+Bullen Point,Alaska,70.185,-146.8666667,3,Sea Airmotive,Bullen Point,1977,Deadhorse
+Van Nuys,California,34.1898566,-118.451357,3,Mercer Airlines,Burbank,1988,Ontario
+Encino,California,34.1517492,-118.5214282,2,Private KNBC Los Angeles,Burbank,1980,Santa Barbara
+Near Plovdiv,Bulgaria,42.1354079,24.7452904,35,Balkan Bulgarian Airlines,Burgas,1984,Sofia
+Logan Airport,Boston,42.3656132,-71.0095602,89,Delta Air Lines,"Burlilngton, VT",1973,"Boston, MA"
+Whitefield,New Hampshire,44.3731103,-71.6101011,4,Air Taxi - Air Trends Inc.,"Burlington, VT",1974,"Whitefield, NH"
+Friday Harbor,Washington,48.5342662,-123.0171242,7,North Sound Aviation,"Burlington, WA",1969,"Friday Harbor, WA"
+Orofino,Idaho,46.479347,-116.2551395,3,Green Acres - Air Taxi,"Butte, MT",1979,"Kooskia, ID"
+C. Amalie,Virgin Islands,18.336815,-64.9148005,8,Costal Airway,"C. Amalie, VI",1986,"San Juan, PR"
+Shamsam Mountains,South Yemen,12.7849342,45.0171661,22,EgyptAir,Cairo,1981,Aden
+Near Kyrenia,Cyprus,35.3237104,33.3149413,37,Air Sinai,Cairo,1982,Nicosia
+Near Bangkok,Thailand,13.7563309,100.5017651,53,EgyptAir,Cairo,1979,Bangkok
+Near Cairo,Egypt,30.0444196,31.2357116,23,EgyptAir,Cairo,1988,Alexandia
+Cairo,Egypt,30.0444196,31.2357116,4,Arax Airlines,Cairo,1973,Sharjah
+Cranbrook,British Columbia,49.5129678,-115.7694002,42,PacifiWestern Airlines,Calgary,1979,Cranbrook
+Near Cam Ranh,South Vietnam,11.9008657,109.140438,42,Military - U.S. Air Force,Cam Ranh Bay AB,1988,Siagon
+Southeastern Bolivia,No Record Found,34.0285691,-78.2012126,19,TAM (Bolivia),Camiri,1982,Itaguasurenda
+Santa Cruz,Bolivia,-17.8145819,-63.1560853,14,YPFB Transportes Aereos,Camiri,1982,Santa Cruz
+Londrina-Parana,Brazil,-23.3044524,-51.1695824,20,VASP,Camp Grande,1985,Londrina
+Canaima,Venezuela,5.5,-62,34,Lineas Areas Venezolanas,Canaima,1985,C iudad
+Cape Town,South Africa,-33.9248685,18.4240553,7,Linair Express,Cape Town,1977,Johannesburg
+Off Caracas,Venezuela,10.6946517,-71.6332888,62,Air France,Caracas,1969,"Pointe a Pitre, Guadeloupe"
+Lajes,Azores,38.39682,-28.251659,68,Military - Venezuelan Air Force,Caracas,1987,Praira da Vitoria
+Off Caracas,Venezuela,10.6946517,-71.6332888,47,LAV - Linea Aeropostal Venezolana,Caracas,1982,Cumana
+Barquisimeto Venezuela,No Record Found,10.0677719,-69.3473509,23,Avensa,Caracas,1971,Barquisimeto
+Salto-Nueva Hesperides,Uruguay,-32.522779,-55.765835,5,Fuerza Aérea Uruguaya,Carrasco,1983,Salto
+Carrizozo,New Mexico,33.6417408,-105.877212,3,SW Air Rangers - Air Taxi,"Carrizozo, NM",1980,"Albuquerque, NM"
+Carson City,Nevada,39.1637984,-119.7674034,4,Executive Air - Air Taxi,"Carson City, NV",1988,"San Jose, CA"
+Casper,Wyoming,42.866632,-106.313081,3,Sky Train Air,"Casper, WY",1988,"McAllen, TX"
+Near Iligan,Philippines,8.2280209,124.2452422,15,Philippine Air Lines,Cebu,1970,Iligan
+Bloomington,Indiana,39.165325,-86.5263857,2,Rhoadgs Aviation - Air Taxi,"Centrailia, IN",1976,"Columbus, IN"
+Chamblee,Georgia,33.8920468,-84.2988126,1,Lehigh Acres Development Inc.,"Chamblee, GA",1988,"Fort Myers,FL"
+Near Leh,India,34.1525864,77.5770535,77,Military - Indian Air Force,Chandigarh,1983,Leh
+Near Keratea,Greece,37.8071796,23.9763412,90,OlympiAirways,Chania,1969,Athens
+Near Charlotte,North Carolina,35.2270869,-80.8431267,70,Eastern Air Lines,"Charleston, SC",1982,"Charlotte, NC"
+Pinehurst,North Carolina,35.1954345,-79.4694767,2,Resort Air Service - Air Taxi,"Charlotte, NC",1971,"Pinehurst, NC"
+Near Chetumal,Mexico,18.5001889,-88.296146,23,SAESA,Chetumel,1979,Merida
+Newton,Iowa,41.7033177,-93.0573533,3,Private Charter,Chicago,1971,Des Moines.
+Mexico City,Mexico,19.4326077,-99.133208,27,Mexicana,Chicago,1973,Mexico City
+Near Chicago,Illinois,41.8781136,-87.6297982,0,American Airlines,Chicago,1984,Washington D.C.
+Newark,New Jersey,40.735657,-74.1723667,2,Central Airlines,Chicago,1983,Newark
+Peoria,Illinois,40.6936488,-89.5889864,16,Chicago Southern Airlines,"Chicago, IL",1987,"Peoria, IL"
+Appleton,Wisconsin,44.2619309,-88.4153847,13,North Central Airlines / Air Wisconsin,"Chicago, IL",1979,"Appleton, WI"
+Jackson,Mississippi,32.2987573,-90.1848103,2,Hankins Airways - Air Taxi,"Chicago, IL",1981,"Detroit, MI"
+Chicago O'Hare,Illinois,41.9772281,-87.8367209,271,American Airlines,"Chicago, IL",1979,"Los Angeles, CA"
+Michigan City,IN,41.7075394,-86.8950297,4,Queen Airmotive - Air Taxi,"Chicago, IL",1977,"Michigan City, IL"
+Zeya,Russia,53.7359301,127.2585214,3,Aeroflot,Chita,1988,Zeya
+Dacca,Bangladesh,23.810332,90.4125181,49,Bangladesh Biman,Chittagong,1985,Patenga
+Cincinnati,Ohio,39.1031182,-84.5120196,1,Freedom International,Cincinnati,1972,Detroit
+Cuidad,Venezuela,-16.4138915,-71.5404247,7,Aerotechnia,Ciudad,1975,La Centella
+Near Quilcene,Washington,47.8223137,-122.8757199,16,Military - U.S. Air Force,Clark AFB,1986,Japan
+Clarksburg,West Virginia,39.2806451,-80.3445341,2,Allegheny Airlines,Clarksburg,1985,Washington DC
+Cleveland,Ohio,41.49932,-81.6943605,9,TAG Airlines,Cleveland,1976,Detroit
+Detroit,Michigan,42.331427,-83.0457538,9,Northwest Airlink,Cleveland,1977,Detroit
+Near Al Fujayrah,United Arab Emirates,25.4110762,56.2482277,112,Sterling Airways,Colombo,1978,Dubai
+Colombo,Sri Lanka,6.9270786,79.861243,22,Air Lanka,Colombo,1975,"Male, Maldives"
+Near Berryville,Virginia,39.1517713,-77.9822193,92,Trans World Airlines,Columbus,1985,Washington D.C.
+Defiance,Ohio,41.2844933,-84.3557802,2,Air Taxi - Custom Air Transport Inc.,"Columbus, OH",1980,"Difiance, OH"
+Templeton,Massachusetts,42.555644,-72.067579,5,Nash and Tampo - Air Taxi,"Concord, MA",1988,"White Plains, NY"
+Greenville,Maine,45.4594863,-69.5905815,4,Air Taxi,"Concord, NH",1982,"Greenville, ME"
+Off Los Angeles,California,34.1758027,-118.3620324,15,Scandinavian Airlines (SAS),Copenhagen,1980,Los Angeles
+Near Corrientes,Argentina,-27.4692131,-58.8306349,37,Aerolineas Argentinas,Corrientes,1977,Rosario
+Covington,Kentucky,39.0836712,-84.5085536,8,Comair,"Covington, KY",1988,"Nashville, TN"
+Sena Madureira,Brazil,-9.0638816,-68.6718301,32,Cruzeiro,Cruzerio do Sul,1970,Rio Branco
+Manila,Philippines,14.5995124,120.9842195,36,Philippine Air Lines,Cuayan,1981,Manila
+Near Saravena,Colombia,6.956107,-71.872595,3,Taxi Aereo El Venado,Cucuta,1970,Tame
+Near Rubio,Venezuela,7.6988579,-72.3607108,27,Taxi Aereo el Venado,Cucuta,1984,Arauca
+Near Cucuta,N of Santander,7.8896523,-72.4973014,143,AVIANCA,Cucuta,1977,Cartagena
+Cullman,Alabama,34.1748208,-86.8436124,2,Air Taxi,"Cullman, AL",1988,"Louisville, KY"
+Margarita Island,Venezuela,10.9970723,-63.9113296,48,Linea Aeropostal Venezolana,Cumana,1987,Porlamar
+AtlantiOcean,No Record Found,-14.5994134,-28.6731465,2,Inair Panama,Curacao,1970,Port
+Near Cuzco,Peru,-13.53195,-71.9674626,99,Lineas Aereas Nacionales SA (Peru),Cuzco,1985,Lima
+Near Nha Trang,Vietnam,12.2387911,109.1967488,9,Air America,Da Lat,1972,Nha Trang
+Near Hue,South Vietnam,16.4498,107.5623501,34,Military - U.S. Army,Da Nang,1976,Camp Eagle
+Phan Rang,Vietnam,11.5358561,109.0690976,75,Air Vietnam (South Vietnam),Da Nang,1979,Saigon
+San Bernardino,California,34.1083449,-117.2897652,4,Loma Linda University - Air Taxi,"Dagget, CA",1971,"Loma Linda, CA"
+Bîr Mogreïn,Mauritania,25.2322352,-11.5788103,5,T & G Aviation,Dakar,1977,Agadir
+Cincinnati International Airport,Covington/Hebron,39.1031182,-84.5120196,23,Air Canada,Dallas,1981,Fort Worth
+Blair,Oklahoma,34.7795085,-99.3353635,2,AltusFlying Service - Air Taxi,"Dallas, TX",1976,"Altus, OK"
+Lubbox,Texas,33.5778631,-101.8551665,2,Astrd Wing Aviaiton - Air Taxi,"Dallas, TX",1969,"Lubbox, TX"
+Las Cruces,New Mexico,32.3199396,-106.7636538,0,American Airlines,"Dallas, TX",1975,"San Diego, CA"
+Dallas,Texas,32.7766642,-96.7969879,14,Delta Air Lines,"Dallas/Fort Worth, TX",1981,"Salt Lake City, UT"
+Near Adana,Turkey,36.9914194,35.3308285,1,Turkish Airlines (THY),Damascus,1980,Ankara
+Near Luxor,Egypt,25.6872431,32.6396357,8,GAS Air,Dar,1970,es
+Zamboanga,Philipines,6.9214424,122.0790267,14,Philippine Air Lines,Davao,1988,Manila
+Off Davao,Philippines,6.9543253,126.2668131,4,Village Airways,Davao,1987,Manila
+Davenport,Indiana,41.6044639,-90.4730752,2,Straley Flying Service - Air Taxi,"Davenport, IA",1975,"Davenport, IA"
+Cerro Horqueta,Panama,8.3833333,-81.4666667,22,Aerovias Urraca,David,1969,Changuinola
+Dayton,Ohio,39.7589478,-84.1916069,3,Saturn Airways,"Dayton, OH",1971,"Ft. Dix, NJ"
+Deadhorse,Alaska,70.2001996,-148.4597191,3,Kenai Air Service - Air Taxi,"Deadhorse, AK",1979,"Eskimo Island, AK"
+Goussainville,France,49.030467,2.471236,6,Aeroflot,Demonstration,1969,No Record Found
+Near Probolinggo,Indonesia,-7.7764226,113.2037131,4,Garuda Indonesia Airlines,Denpasar,1969,Surabaya
+Denver,Colorado,39.7392358,-104.990251,0,Continental Airlines,Denver,1969,Wichita
+Portland,Oregon,45.5230622,-122.6764816,10,United Air Lines,Denver,1979,Portland
+Eagle,Colorado,39.6552634,-106.8286507,3,Connie Kalitta Services,Denver,1972,Vail
+Rollinsville,Colorado,39.9172094,-105.5011084,9,Star Aviation,"Denver, CO",1976,"Grandby, CO"
+Aspen,Colorado,39.1910983,-106.8175387,2,Royal American - Air Taxi,"Denver, CO",1988,"Aspen, CO"
+Loveland,Colorado,40.3977612,-105.0749801,15,Air US / Private,"Denver, CO",1975,"Gillette, WY"
+Denver,Colorado,39.7392358,-104.990251,28,Continental Airlines,"Denver, CO",1969,"Boise, ID"
+Bayfield,Colorado,37.2255593,-107.5981123,9,Trans Colorado AL / Continental Express,"Denver, CO",1977,"Durango, CO"
+Pellston,Michigan,45.552789,-84.7839364,6,Executive Jet Sales Inc.,Detroit,1972,Pellston
+Detroit,Michigan,42.331427,-83.0457538,3,United Air Lines,Detroit,1982,Los Angeles
+Kansas City,Kansas,39.114053,-94.6274636,3,TPI International Airways,Detroit,1986,Kansas City
+Portage,Michigan,42.2011538,-85.5800022,2,Buckeye Air Service - Air Taxi,"Detroit, MI",1971,"Chicago, IL"
+Hot Springs,Virginia,37.9993993,-79.831587,6,Alpena Flying Service - Air Taxi,"Detroit, MI",1982,"Hot Springs, VA"
+Detroit,Michigan,42.331427,-83.0457538,2,Zantop Airways,"Detroit, MI",1984,"Lexington, KY"
+Toledo,Ohio,41.6639383,-83.555212,2,Hamilton Aviation,"Detroit, MI",1969,"Peducah, KY"
+Alpena,Michigan,45.0616794,-83.4327528,3,Simmons Airlines,"Detroit, MI",1978,"Alpena, MI"
+Romulus,Michigan,42.2222614,-83.3965994,154,Northwest Airlines,"Detroit, MI",1979,"Phoenix, AZ"
+Qatar,Qatar,25.354826,51.183884,2,Saudi Arabian Airlines,Dhahran,1982,Karachi
+Anaktuvuk,Alaska,70.2095972,-150.9837663,4,MerriAviation - Air Taxi,"Dietrich, AK",1969,"Happy Valley, AK"
+Merrill Pass,Alaska,61.1988889,-153.3083332,3,Yute Air Alaska - Air Taxi,"Dillingham, AK",1979,"Anchorage, AK"
+Togiak,Alaska,59.0619444,-160.3763889,2,Yute Air Alaska - Air Taxi,"Dillingham, AK",1985,Return
+Near Kharkov,Ukraine,49.9935,36.230383,9,MAP,Dnepropetrovsk,1972,Moscow
+Dar es Salaam,Tanzania,-6.792354,39.2083284,10,Tanzania Aviation,Dodoma,1986,Dar es Salaam
+Off Adler,Russia,43.4343234,39.9339462,90,Aeroflot / Aeroflot,Donetsk,1972,Sochi /Rostov na Donu
+Douala,Cameroon,4.0510564,9.7678687,2,Cameroon Airlines,Douala,1987,Yaounde
+Mahaffey,Pennsylvania,40.8728411,-78.724196,2,Private,"Dubois, PA",1972,"Roanoak, VA"
+Dubois,Pennsylvania,41.1210115,-78.7583257,2,Henry Webber Air - Air Taxi,"Dubois, PA",1980,"Lancaster, PA"
+Dulac,Louisiana,29.3888318,-90.7139785,11,Petrolium Helicopter,"Dulac, LA",1988,Gulf oil platform
+Tabatinga,Brazil,-4.2314555,-69.9369359,44,TABA,Eirunepe,1972,Tabatinga
+Near El Bolson,Argentina,-41.9649235,-71.5353386,6,LADE,El Bolson,1981,Rivadavia
+Athens,Louisiana,32.6504281,-93.025717,4,Air Taxi - Eidoarie Inc.,"El Dorado, AR",1973,"Houston, TX"
+Near Barito,Argentina,-34.2333333,-65.1166667,55,Military - Argentine Air Force,El Palomar AB,1972,San Carlos de Bariloche
+Golden Meadow,Louisiana,29.3791112,-90.2600786,3,TACA,El Salvador,1978,New Orleans
+Sitkin Island,Alaska,52.0630435,-176.0965562,10,Military - U.S. Navy,Elmendorf AFB,1975,Adak
+Elko,Nevada,40.8324211,-115.7631232,2,SceniAirline - Air Taxi,"Ely, NV",1976,"Elko, NV"
+Goldendale,Washington,45.8206794,-120.8217312,2,Inland Aviation - Air Taxi,"Ephrata, WA",1971,"Portland, OR"
+Near Erzurum,Turkey,39.9054993,41.2658236,27,Military - U.S. Air Force,Erzurum,1978,Incirlik
+Evansville,Indiana,37.9715592,-87.5710898,29,"National Jet Services Inc., (Air Indiana)",Evansville,1986,Nashville
+Imlay City,Michigan,43.0247496,-83.0777153,6,Military - U.S. Air Force,Exercise,1983,No Record Found
+Near Pau,France,43.2951,-0.370797,37,Military - French Air Force,Exercises,1985,No Record Found
+Minchumina,Alaska,62.9418566,-155.5758597,1,Wien Consolidated Airlines,Fairbanks,1984,Bethel
+Old Man's Camp,Alaska,64.2008413,-149.4936733,4,Alaska International Air,Fairbanks,1969,Bettles
+Fairbanks,Alaska,64.8377778,-147.7163889,3,PacifiAlaska Airlines,Fairbanks,1983,Happy Valley Camp
+Shemya AFB,Alaska,52.7228375,174.1123656,6,Military - U.S. Air Force,Fairbanks,1982,Shemya AFB
+Anchorage,Alaska,61.2180556,-149.9002778,3,Anchorage Helicopter - Air Taxi,"Fairbanks, AK",1987,Local
+Valdez,Alaska,61.1308333,-146.3483333,2,Fairbanks Air - Air Taxi,"Fairbanks, AK",1988,"Valdez, AK"
+Deadhorse,Alaska,70.2001996,-148.4597191,2,Winship Air Service - Air Taxi,"Fairbanks, AK",1979,"Prudhoe, Alaska"
+Fairbanks,Alaska,64.8377778,-147.7163889,2,Frontier Flying Service - Air Taxi,"Fairbanks, AK",1976,"Dietrich, AK"
+Lupine,Alaska,58.3610247,-134.5229784,6,Winship Air Service,"Fairbanks, AK",1985,"Lupine, AK"
+Fallon,Nevada,39.4748693,-118.7770407,2,Air Chaparral - Air Taxi,"Fallon, NV",1983,"Austin, NVq"
+Flagstaff,Arizona,35.1982836,-111.651302,2,Air Taxi,"Flagstaff, AZ",1985,"Mesa, AZ"
+Whitelake,Michigan,42.6592995,-83.4856913,2,Wyman Pilot Service - Air Taxi,"Flint, MI",1984,"Whitelake, MI"
+Mt. Elena,Colombia,6.0002778,-67.4466667,50,Aeropesca Colombia,Florence,1969,Neiva
+Near Nevia,Colombia,2.9344837,-75.2809001,31,Military - Colombian Air Force,Florencia,1972,Bogota
+Near Puerto Asis,Colombia,0.504929,-76.500191,5,SATENA,Florencia,1977,Puerto Asis
+Near Buga,Colombia,3.9005079,-76.3021889,17,AIRES Colombia,Florencia,1978,Cali
+Flushing,New York,40.7674987,-73.833079,3,Southern Jersey Air - Air Taxi,"Flushing, NY",1970,"AtlantiCity, NJ"
+Ft. Worth-Dallas,Texas,32.761422,-96.8580128,134,Delta Air Lines,Fort Lauderdale,1979,Dallas
+Nellis AFB,Nevada,36.2414162,-115.0508066,7,Military - U.S. Air Force,"Fort Lewis, WA",1970,"Indian springs, NV"
+Near Ross River,Canada,61.9791171,-132.4484775,2,Kenn Borek Air,Fort Nelson,1987,Ross River
+Fort Franklin,Canada,65.188683,-123.415802,7,Nahanni Air Services,Fort Norman,1988,Fort Franklin
+Francistown,Botswana,-21.1661005,27.5143603,78,Wenela Air Services,Francistown,1983,Malawi
+Gatwick Airport,Horley,51.1536621,-0.1820629,50,Ariana Afghan Airlines,Frankfurt,1987,London
+Goleta,California,34.4358294,-119.8276389,3,Skips Air Service - Air Taxi,"Fresno, CA",1987,"Santa Barbara, CA"
+Off Bimini,No Record Found,28.0474183,-80.6070428,6,State Airlines,Ft. Lauderdale,1972,Bimini
+Tokyo,Japan,35.7090259,139.7319925,24,Japan Air Lines,Fukuoka,1982,Tokyo
+BattleMountain,Nevada,40.6421334,-116.9342671,2,Clarkes Thunder - Air Taxi,"Gallup, NM",1973,"Battle Mountain, NV"
+Pagosa Springs,Colorado,37.26945,-107.0097617,2,Hlavka Aviation - Air Taxi,"Gallup, NM",1985,"Rapid City, SD"
+Galveston,Texas,29.3013479,-94.7976958,6,Houston Metro Airlines,"Galveston, TX",1988,"Houston, TX"
+Gander,Newfoundland,48.954408,-54.6103488,256,Arrow Airways,Gander,1981,"Fort Campbell, KY"
+Gauhati,India,26.1445169,91.7362365,15,Jamair,Gauhati,1971,Calcutta
+Off Madeira,Portugal,32.7607074,-16.9594723,36,SATA,Geneva,1972,Funchal
+Near Rawalpindi,Pakistan,33.598394,73.0441352,26,Pakistan International Airlines,Gilgit,1973,Rawalpindi
+Manakau Harbor,New Zealand,-37,174.6666667,2,Air New Zealand,Gisborne,1975,Auckland
+Port Ellen,Islay Island,55.6301806,-6.1874153,1,Loganair,Glasgow,1979,Port Ellen
+Central Point,Oregon,42.3759586,-122.9164307,4,Air Taxi - Mercy Flights Inc.,"Gold Beach, OR",1984,"Metford, OR"
+Golovin,Alaska,64.5433333,-163.0291667,2,Air Taxi,"Golovin, AK",1979,"Elim, AK"
+Liepaya,Latvia,56.5046678,21.010806,4,Aeroflot,Gorkiy,1975,Liepaya
+Colorado City,Arizona,36.9902621,-112.9757702,6,Grand Canyon Airlines,Grand Canyon,1972,Las Vegas
+Grand Canyon,Arizona,36.0544445,-112.1401108,25,Grand Canyon Airlines / Helitech,Grand Canyon,1988,Grand Canyon
+Grand Canyon,Arizona,36.0544445,-112.1401108,2,Grand Canyon Air - Air Taxi,"Grand Canyon, AZ",1979,"Denver, CO"
+Somerset,Colorado,38.9261928,-107.4698928,2,Sky Chopper - Air Taxi,"Grand Junction, CO",1971,"Somerset, CO"
+Gary,Indiana,41.5933696,-87.3464271,4,Aegler Stuart Flying Service / Private,"Grand Rapids, MI",1982,"Gary, IN"
+Busick,North Carolina,35.7698413,-82.1828963,4,Aero National - Air Taxi,"Greensville, NC",1980,"Philadelphia, PA"
+Near Gillsburg,Mississippi,31.0251781,-90.6559323,6,L & J Company,Greenville,1972,Baton Rouge
+Marion,Illinois,37.7306054,-88.9331256,2,Aviation Charter - Air Taxi,"Greenville, KY",1969,"Marion, IL"
+Greensville,Mississippi,33.399661,-91.0377029,3,Air Service - Air Taxi,"Greenville, MS",1979,"Charlotte, NC"
+Greenville,South Carolina,34.8526176,-82.3940104,5,Bankair Inc. - Air Taxi,"Greenville, SC",1980,"Colombia, SC"
+Long Island Sound,Connecticut,41.0748454,-72.9460566,5,Pilgrim Airlines,"Groton, CT",1976,"New York, NY"
+Concord,New Hampshire,43.2081366,-71.5375718,2,Air Taxi,"Groton, CT",1987,"Concord, CT"
+Fishers Island,New York,41.2554038,-72.033534,2,Air Taxi - New London Flying Services Inc.,"Groton, CT",1969,"Fisher Island, NY"
+Off St. Maarten off,Netherlands Antilles,12.2018902,-68.2623822,13,Air Guadeloupe,Guadeloupe,1973,St. Maarten
+Near Shanghai,China,31.230416,121.473701,40,CAAC,Guangzhou,1981,Changsha
+Near Yangshuo,Guangxi,24.778481,110.496593,112,CAAC,Guangzhou,1969,Guilin
+Kowloon Bay,Hong Kong,22.3266646,114.2078426,7,CAAC,Guangzhou,1979,Hong Kong
+Guatemala City,Guatemala,14.6349149,-90.5068824,5,Aviateca,Guatemala City,1981,Tikal
+Near Peten,Guatemala,16.912033,-90.2995785,87,Aerovias de Guatemala SA,Guatemala City,1977,Flores
+Near Cuenca,Ecuador,-2.9001285,-79.0058965,33,Servicios Aereos Nacionales Airways,Guayaquil,1972,Cuenca
+Cuenca,Ecuador,-2.9001285,-79.0058965,24,Servicios Aereos Nacionales,Guayaquil,1972,Cuenca
+Guayaquil,Ecuador,-2.1709979,-79.9223592,8,SAN Ecuador,Guayaquil,1970,Quito
+Guilin,China,25.234479,110.179954,11,CAAC,Guilin,1972,Beijing
+De Kalb,Texas,33.5087256,-94.616319,7,Private,Guntersville,1985,Dallas/Ft. Worth
+Near Delhi,India,28.6139391,77.2090212,18,Indian Airlines,Gwalior,1973,Delhi
+Fairfield,Idaho,43.3465675,-114.7917279,4,Sun Valley Airways - Air Taxi,"Hailey, ID",1974,"Boise, ID"
+Petersburg,Alaska,56.8125,-132.9555556,6,Lab Flying Service - Air Taxi,"Haines, AK",1982,"Wrangell, AK"
+AtlantiOcean,No Record Found,-14.5994134,-28.6731465,3,Continental Air Transport,"Halifax, NS",1988,"Santa Maria, Portugal"
+Honolulu,Hawaii,21.3069444,-157.8583333,11,Private - Parajump air show,"Haliive, HI",1976,"Honolulu, HI"
+Hamada al Hambra,Libya,30.1347069,31.2541911,14,Aero Club Libya,Hamada al Hambra,1984,Tripoli
+Near Hasloh,Germany,53.69154,9.91816,22,Pan International,"Hamburg, Germany",1982,"Malaga, Spain"
+Near Mulheim,Germany,51.4185682,6.8845226,21,NFD - Nurnberger Flugdienst,Hannover,1972,Dusseldorf
+Bangkok,Thailand,13.7563309,100.5017651,76,Hang Khong (Vietnam),Hanoi,1971,Bangkok
+Near Skien,Norway,59.2089131,9.6057526,10,Scanex Air,"Hanover, West Germany",1971,"Skien, Norway"
+Smiley,Texas,29.2677433,-97.6358283,5,Air Central,"Harlingen, TX",1977,"Austin, TX"
+Hartford,Connecticut,41.7637111,-72.6850932,3,Corporate Air - Air Taxi,"Hartford, CT",1977,"Newburg, NY"
+Off Ko Phuket,Thiland,7.9843109,98.3307468,83,Thai Airways,Hat Yai,1974,Phuket
+Havana,Cuba,23.1135925,-82.3665956,38,Cubana de Aviacion,Havana,1973,Managua
+Near Lone Pine,California,36.6060444,-118.0628654,35,Mineral County Airlines,"Hawthorne, NV",1975,Burbank
+Philadelphia,Pennsylvania,39.9525839,-75.1652215,3,Air Pennsylvania - Air Taxi,"Hazelton, PA",1973,"Philadelphia, PA"
+Heho,Burma,20.723192,96.8217017,45,Burma Airways,Heho,1977,Mong Hsat
+Ilmajoki,Finland,62.7346099,22.5708697,6,Wasa Wings,Helsink,1972,Ilmajoki
+North PacifiOcean,No Record Found,32.694866,-162.070312,24,Military - U.S. Air Force,Hickam AFB,1976,Pango Pango
+Maui,Hawaii,20.7983626,-156.3319253,1,Aloha Airlines,Hilo,1972,Honolulu
+Hakalau,Hawaii,19.8997222,-155.1291667,2,Air Taxi,"Hilo, HI",1977,"Honalulu, HI"
+Ho Chi Minh City,Vietnam,10.8230989,106.6296638,1,Air France,Ho Chi Minh City,1985,Bangkok
+Homer,Alaska,59.6425,-151.5483333,2,Homer Air Service - Air Taxi,"Homer, AK",1969,Local
+Grogak,Bali,-8.191287,114.790497,107,Pan American World Airways,Hong Kong,1972,"Bali, Indonesia"
+Kuala Lumpur,Malaysia,3.139003,101.686855,34,Japan Air Lines,Hong Kong,1986,Kuala Lumpur
+Honolulu,HI,21.3069444,-157.8583333,5,Air Hawaii,Honolulu,1986,Lihue
+Thirty-five miles west of Los Angeles,California,34.0522342,-118.2436849,1,Trans World Airlines,Honolulu,1980,Los Angeles
+Kona,Hawaii,19.639994,-155.9969261,2,Island Airways,Honolulu,1987,Kona
+Molokai,Hawaii,21.1443935,-157.0226297,8,Alii Air Hawaii - Air Taxi,"Honolulu, HI",1978,"Lanai, HI"
+Lihue,Hawaii,21.9811111,-159.3711111,2,Aero PaLease - Air Taxi,"Honolulu, HI",1979,"Lihue, HI"
+Maunaloa,Hawaii,21.1358333,-157.2163889,8,Panorama Air Tour,"Honolulu, HI",1978,"Molokai, HI"
+Elkton,Kentucky,36.8100425,-87.1541675,11,Metro Air Systems,"Hopkinsville, KY",1984,"Lexington, KY"
+Passadumkeag,Maine,45.1853362,-68.6166937,3,Aroostook Air - Air Taxi,"Houlton, ME",1975,"Portland, ME"
+Houma,Louisiana,29.5957696,-90.7195348,3,Intracostals - Air Taxi,"Houma, LA",1988,Return
+Near Puerto Vallarta,Mexico,20.653407,-105.2253316,27,Aeromexico,Houston,1980,Puerto Vallarta
+Giddings,Texas,30.1827159,-96.936371,2,Aviation Charter - Air Taxi,"Houston, TX",1984,"Austin, TX"
+Gulfport,Mississippi,30.3674198,-89.0928155,8,Universal Airways,"Houston, TX",1973,"Gulfport, MS"
+Houston,Texas,29.7604267,-95.3698028,7,Eagle Commuter,"Houston, TX",1981,"Brownwood, TX"
+Off Puerto Castilla,Honduras,16.0173268,-85.9585544,21,Military - U.S. Air Force,Howard AFB,1979,Trujillo AP
+Near La Paz,Bolivia,-16.489689,-68.1192936,7,Military - U.S. Air Force,"Howard AFB, Panama",1981,"La Paz, Bolivia"
+Taipei,Taiwan,25.0329694,121.5654177,28,Far Eastern Air Transport,Hualien,1970,Taipei
+Near Hue,Vietnam,16.4498,107.5623501,12,Air America,Hue,1976,Da Nang
+Galena,Alaska,64.7333333,-156.9275,4,Galena Air Service - Air Taxi,"Hughes, AK",1977,"Galena, AK"
+Paintsville,Kentucky,37.8145384,-82.8071054,4,Wicks Flying Service - Air Taxi,"Humbolt, TN",1987,"Paintsville, KY"
+New Hope,Georgia,34.7275,-84.5088899,62,Southern Airways,Huntsville,1987,Atlanta
+Taipei,Taiwan,25.0329694,121.5654177,14,China Airlines (Taiwan),Hwa,1980,Lien
+Mt. Iliamna,Alaska,60.0324921,-153.0880479,13,Alaska Aeronautical Industries,Iliamna,1969,Anchorage
+Oxbow,Oregon,44.9748785,-116.8629359,4,Air Taxi,"Imnaha, OR",1978,"Fort Fairfield, ME"
+Near Fairland,Indiana,39.5858806,-85.8635919,83,Allegheny Airlines / Forth Corporation,Indianapolis,1976,Bakalar AFB
+Chicao,Illinois,41.8781136,-87.6297982,2,Henry Nichols - Air Taxi,"Indianapolis, IN",1972,"Chicago, Il"
+Paulatuk,Northwest Territory,29.3546282,-98.4043306,2,Inuvik Coastal Airways,Inuvik,1973,Paulatuk
+Karatepe Mountains,Turkey,41.611921,42.6178819,154,Turkish Airlines (THY),Istanbul,1972,Antalya
+Bucharest,Romania,44.4267674,26.1025384,29,Malev Hungarian Airlines,Istanbul,1973,Bucharest
+Ankara,Turkey,39.9333635,32.8597419,47,Turkish Airlines (THY),Istanbul,1973,Ankara
+Near Ercan,Cyprus,35.1127443,33.9294471,15,Talia Airways,Istanbul,1973,Ercan
+Off Tanegashima,Japan,30.609558,130.9788775,17,Military - U.S. Marine Corps,Iwakuni,1986,"Fulemma, Okinawa"
+Izmir,Turkey,38.423734,27.142826,66,Turkish Airlines (THY),Izmir,1973,Istanbul
+Istanbul,Turkey,41.0082376,28.9783589,42,Turkish Airlines (THY),Izmir,1971,Istanbul
+Laurel,Mississippi,31.6940509,-89.1306124,2,Hesler Noble - Air Taxi,"Jackson, MS",1982,"Laurel, MS"
+Jacksonville,Florida,30.3321838,-81.655651,13,Provincetown - Boston Airlines,Jacksonville,1973,Tampa
+Jacksonville,Florida,30.3321838,-81.655651,14,Military - United States Navy,Jacksonville NAS,1975,"Guantanamo Bay, Cuba"
+Jeffersonville,Georgia,32.687646,-83.3465561,4,Air Taxi,"Jacksonville, FL",1975,"Atlanta, GA"
+Off Padang,Philippines,12.879721,121.774017,69,Merpati Nusantara Airlines,Jakarta,1979,Padang
+Near Palembang,Indonesia,-2.9760735,104.7754307,25,Garuda Indonesia Airlines,Jakarta,1974,Palembang
+Branti Airport,Indonesia,14.4822919,121.0302159,27,Garuda Indonesia Airlines,Jakarta,1979,Bandar
+New York,New York,40.7127837,-74.0059413,11,Trans International Airlines,"Jamaica, NY",1985,Washington D.C.
+Bath,Pennsylvania,40.7256524,-75.3940699,4,Monmouth Airways,"Jamaica, NY",1988,"Allentown, PA"
+Near Aswan,Egypt,24.088938,32.8998293,100,United Arab Airlines,Jeddah,1987,Aswan
+Kano,Nigeria,12.0021794,8.5919561,176,Alia Royal Jordanian Airlines,Jeddah,1970,Lagos
+Near Al Bayda,Lebanon,33.9997222,35.7163889,59,Balkan Bulgarian Airlines,Jeddah,1977,Benghazi
+Near Katunayake,Sri Lanka,7.1696231,79.8912813,183,Loftleidir IcelandiAirlines,Jeddah,1969,Colombo
+Near At Ta'if,Jeddah,21.2758544,40.4177212,156,Pakistan International Airlines,Jeddah,1979,Karachi
+Near Germiston,South Africa,-26.2258734,28.1707794,3,National Airways,Johannesberg,1986,"Orapa Mine, Botswana"
+Salem,Oregon,44.9428975,-123.0350963,3,McKenzie Flying Service - Air Taxi,"John Day, OR",1979,"Salem, OR"
+Juara,Brazil,-11.2535221,-57.5082303,17,TABA,Juara,1988,Cuiaba
+Juliaca,Peru,-15.4996879,-70.129653,12,Aero Peru,Juliaca,1973,Arequipa
+Ketchikan,Alaska,55.3422222,-131.6461111,1,Alaska Airlines,Juneau,1972,Ketchikan
+Hoonah,Alaska,58.11,-135.4436111,4,Southeast Sky - Air Taxi,"Juneau, AK",1979,"Tenakee, AK"
+Juneau,Alaska,58.3019444,-134.4197222,5,Channel Flying Service - Air Taxi,"Juneau, AK",1981,Return
+Juneau,Alaska,58.3019444,-134.4197222,3,Southeast Skyways - Air Taxi,"Juneau, AK",1982,Return
+Afghanistan,No Record Found,33.93911,67.709953,25,Military - Afghan Republican Air Force,Kabul,1975,Khowst
+Kekaha,Hawaii,21.9708333,-159.715,1,Trans Isle Air,Kalaupapa,1969,Lihue
+Near Kandahar,Afghanistan,31.628871,65.7371749,52,Ariana Afghan Airlines,Kandahar,1973,Farah
+Khost,Afghanistan,33.3338472,69.9371673,53,Bakhtar Afghan Airlines,Kandahar,1984,Kabul
+Near Sokcho,South Korea,38.2070148,128.5918488,2,Korean Airlines,Kangnung,1974,Seoul
+Near Ikeja,Nigeria,6.601838,3.3514863,87,Nigeria Airways,Kano,1970,Lagos
+Raton,New Mexico,36.9033581,-104.4391532,6,Air Taxi,"Kansas City, MO",1975,"Raton, NM"
+Kansas City,Kansas,39.114053,-94.6274636,4,Air Taxi,"Kansas City, MO",1977,"York, NE"
+Mt. Paku,Taiwan,22.1088367,-100.9477211,24,China Airlines (Taiwan),Kaohsiung,1975,Hualien
+Tainan,Taiwan,22.9998999,120.2268758,36,Far Eastern Air Transport,Kaohsiung,1969,Taipei
+Near Mina Jebel Ali,UAE,24.9857145,55.0272904,112,Gulf Air,Karachi,1975,Abu Dhabi
+Nawabshah,Pakistan,26.2442211,68.4100338,24,Aeroflot,Karachi,1985,Tashkent
+Near Kariba,Rhodesia (Zimbabwe),-16.5220465,28.8509415,38,Air Rhodesia,Kariba,1975,Salisbury
+Near Kariba,Rhodesia,-16.5220465,28.8509415,59,Air Rhodesia,Kariba,1986,Salisbury
+Near Uchuduk,Uzbekistan,42.1534906,63.5617685,200,Aeroflot,Karshi,1973,Leningrad
+Kassan,Alaska,55.5388889,-132.4008332,5,Webber Airlines -Air Taxi,"Kassan, AK",1984,"Coffman Cove, AK"
+Near Delhi,India,28.6139391,77.2090212,1,Royal Nepal Airlines,Kathmandu,1971,Delhi
+Hitauda,Nepal,27.4367653,85.0025539,35,Royal Nepal Airlines,Katmandu,1969,Simra
+Kayenta,Arizona,36.7277769,-110.2545767,2,Monument Valle - Air Taxi,"Kayenta, AZ",1975,"Tucon, AZ"
+Near Alma-Ata,Kazakastan,43.2220146,76.8512485,90,Aeroflot,Kazan,1979,Chelyabinsk
+Hilo Island,Hawaii,19.7297222,-155.09,11,Island Air,"Keahole, HI",1969,"Kahului, HI"
+San Antonio,Texas,29.4241219,-98.4936282,3,Southern Air Transport,Kelly AFB,1977,Warner Robins AFB
+Valdez,Alaska,61.1308333,-146.3483333,2,Kenai Air Service - Air Taxi,"Kenai, AK",1985,"Gulkana, AK"
+Kenai,Alaska,60.5544444,-151.2583333,2,Era Helicopter - Air Taxi,"Kenai, AK",1983,Return
+Kenai,Alaska,60.5544444,-151.2583333,6,Southcentral Air,"Kenai, AK",1970,"Anchorage, AK"
+Stevens Pass,Pennsylvania,40.2459209,-76.2124143,7,Kenmore Air - Air Taxi,"Kenmore, WA",1977,"Lake Hatheume, Canada"
+Off Athens,Greece,37.983917,23.7293599,37,OlympiAirways,Kerkira,1984,Athens
+Ketchikan,Alaska,55.3422222,-131.6461111,5,Revilla Flying Service - Air Taxi,"Ketchikan, AK",1978,"Metlakatla, AK"
+Hydaburg,Alaska,55.2080556,-132.8266667,5,Tyee Airlines - Air Taxi,"Ketchikan, AK",1970,"Hydaburg, AK"
+Near Klawock,Alaksa,55.5522222,-133.0958333,8,Air Taxi - Tyee Airlines Inc.,"Ketchikan, AK",1979,"Craig, AK"
+Liscomb Bay,Alaska,61.1194999,-149.7967183,3,Air Taxi - Temesco Helicopters Inc.,"Ketichikan, AK",1977,"Security Cove, AK"
+Don Muang,Thailand,13.9267169,100.5858786,44,Thai Airways,Khon Kaen,1985,Bangkok
+Near Kotzbue,Alaska,66.8983333,-162.5966666,4,Air Taxi,"Kiana, AK",1980,"Kotzebue, AK"
+Cold Bay,Alaska,55.204498,-162.7183867,4,Penninsula Airways - Air Taxi,"King Cove, AK",1979,"Cold Bay, AK"
+AtlantiOcean,No Record Found,-14.5994134,-28.6731465,3,Viking Air Service - Air Taxi,"King Salmon, AK",1981,"Kodiak, AK"
+Fort Apache,Arizona,33.79062,-109.9887125,2,Deming Flying Service - Air Taxi,"Kingman, AZ",1973,"Deming, NM"
+Near Huntington,West Virginia,38.4192496,-82.445154,75,Southern Airways,"Kingston, NC",1973,"Huntington, WV"
+Kinshasa,Zaire,-4.4419311,15.2662931,45,Wigmo,Kinshasa,1972,Luluaburg
+Irkutsk,Russia,52.2869741,104.3050183,4,Aeroflot,Kirensk,1978,Irkutsk
+Near Albuquerque,New Mexico,35.0853336,-106.6055534,20,Military - U.S. Air Force,Kirkland AFB,1983,Nellis AFB
+Townsend,Tennessee,35.6753657,-83.7557281,3,Air Transit - Air Taxi,"Knoxville, TN",1979,"Andrews, NC"
+Homer,Alaska,59.6425,-151.5483333,18,Ryan Air Services,Kodiak,1972,Homer
+Ouzinkie,Alaska,57.9236111,-152.5022222,4,Air Taxi,"Kodiak, AK",1971,"Ouzinkie, AK"
+Near Zavitinsk,Russia,50.1265249,129.4297648,31,Aeroflot / Military - Russian Air Force,Komsomol'sk,1978,na
+Near Omsk,Russia,54.9884804,73.3242362,174,Aeroflot,Krasnodar,1972,Omsk
+Norilsk,Russia,69.35579,88.1892938,99,Aeroflot,Krasnoyarsk,1981,Norilsk
+Mount Galunggung,Indonesia,-7.2666667,108.0716667,0,British Airways,Kuala Lampur,1983,Perth
+Bombay,India,19.0759837,72.8776559,17,Air India,Kuala Lumpur,1986,Mumbai
+Near Kuopio,Finland,62.89797,27.6781725,15,Military - Finish Air Force,Kuopio,1985,Helsinki
+Mt. Cunatineuta,Ecuador,-1.831239,-78.183406,12,TAME,La Paz,1976,San Borja
+La Verne,California,34.1008426,-117.7678355,2,Jack N. Boswick - Air Taxi,"La Verne, California",1979,"Willow Rock, Arizona"
+Laboucher Bay,Alaska,64.2008413,-149.4936733,12,Webber Air - Air Taxi,"Laboucher, AK",1972,"Ketchican, AK"
+Papua,New Guinea,-6.314993,143.95555,25,Military - Royal Australian Air Force,Lae,1976,Port Moresby
+Lafayette,Louisiana,30.2240897,-92.0198427,2,Falcon Airways - Air Taxi,"Lafayette, LA",1973,"Patterson, LA"
+Lago Agrio,Ecuador,0.1,-76.866667,7,TAME Ecuador,Lago Agrio,1980,Quito
+Near Peshawar,Pakistan,34.0149748,71.5804899,13,Pakistan International Airlines,Lahore,1978,Peshawar
+Lander,Wyoming,42.833014,-108.7306725,7,Denver Air Center,"Lander, WY",1980,"Riverton, WY"
+Grand Rapids,Michigan,42.9633599,-85.6680863,4,L.J. Simmons - Air Taxi,"Lansing, MI",1987,"Marquette, MI"
+Near Lanzhou,China,36.061089,103.834304,6,CAAC,Lanzhou,1981,Chengdu
+Paranaque,Philippines,14.4793095,121.0198229,21,Military - Philippine Air Force,Laoag,1977,Paranaque
+Off Las Palmas,Canary Islands,28.1235459,-15.4362574,10,Aviaco,Las Palmas,1977,"Hamberg, Germany"
+Near Las Vegas,Nevada,36.1699412,-115.1398296,10,Military - United States Navy,Las Vegas,1973,San Diego
+Colorado City,Arizona,36.9902621,-112.9757702,10,SceniAir Lines,Las Vegas,1982,Grand Canyon
+Riverside,California,33.9533487,-117.3961564,5,Riverside Air,"Las Vegas, NV",1977,"Riverside, CA"
+Zephyr Cove,Nevada,39.0003616,-119.9525689,2,Air Taxi,"Las Vegas, NV",1988,"So. Lake Tahoe, CA"
+Las Vegas,Nevada,36.1699412,-115.1398296,10,Las Vegas Airlines,"Las Vegas, NV",1979,"Santa Ana, CA"
+Grand Canyon,Arizona,36.0544445,-112.1401108,10,Las Vegas Airlines,"Las Vegas, NV",1980,"Grand Canyon, AZ"
+State College,Pennsylvania,40.7933949,-77.8600012,4,Quakertown Aviation - Air Taxi,"Latrobe, PA",1969,"State College, PA"
+Mt. Apica,Canada,47.964822,-71.409412,5,Laurentian Air Services,LaTuque,1983,St. Honore
+Houston,Texas,29.7604267,-95.3698028,5,Horizon Properties,"Lawton, OK",1981,"Huntsville, TX"
+Galesburg,Illinois,40.9478158,-90.3712395,4,Agee Flying Service - Air Taxi,"Lebanon, TN",1969,"Galesburg, IL"
+Leeville,Louisiana,29.2498728,-90.2118976,6,Rotor Airs In- Air Taxi,"Leeville, LA",1988,"Grand Isle, LA"
+Manila,Philippines,14.5995124,120.9842195,1,Philippine Air Lines,Legaspi,1972,Manilla
+Leningrad,Russia,60.0793208,31.8926644,93,Aeroflot,Leningrad,1976,Erevan
+Near Krasnaya Polyana,USSR,54.1478418,25.2991586,174,Aeroflot,Leningrad,1978,Moscow
+Southern Belarus,USSR,54.1478418,25.2991586,132,Aeroflot,Leningrad,1971,Kiev
+Leticia,Colombia,-4.203165,-69.935907,80,Fuerza Aérea Colombiana,Leticia,1975,Bogota
+Near Puerto Inca,Huanuco,-9.3775677,-74.9647145,91,Lineas Aereas Nacionales SA (Peru),Lima,1982,Pucallpa
+Shanisu River,Peru,44.5621027,-73.553123,6,Aeroperu,Lima,1981,Caracas
+Near Montelillo,Peru,-8.3695809,-74.5684112,46,Military - Peruvian Air Force,Lima,1972,Saposa
+Cerro Lilio,Mexico,19.4062668,-99.0012998,3,Aeronaves del Peru,"Lima, Peu",1981,"Mexico City, Mexico"
+Lincoln,Nebraska,40.8257625,-96.6851982,3,Lisa Jet Inc. - Air Taxi,"Lincoln, NB",1986,"Omaha, NB"
+Texarkana,Arkansas,33.4417915,-94.0376881,2,Southwest Airlift,Little Rock,1984,Texarkana
+Springfield,Missouri,37.2089572,-93.2922989,4,Air Taxi - Ozark Skyways Inc.,"Little Rock, AR",1970,"Springfield, MO"
+Mt. San Pietro,near Ajaccio,41.919229,8.738635,180,Inex Adria Aviopromet (Yugoslavia),Ljubljana,1983,Ajaccio
+Anchorage,Alaska,61.2180556,-149.9002778,2,Air Taxi,Local Flight,1980,No Record Found
+Volta Redonda,Rio de Janeiro,-22.5077674,-44.0946129,4,Aero Clube de Volta Redonda,Local tour,1981,No Record Found
+Near Loja,Ecuador,-4.0078909,-79.2112769,34,TAME,Loja,1970,Guayaquil
+Loja,Peru,-11.7785433,-77.1615582,14,TAME,Loja,1972,Zumba
+Near Rijeka,Yugoslavia,45.3270631,14.442176,78,Aviogenex (Yugoslavia),London,1985,Rijeka
+Near Aarsele,West Vlaanderen,50.9969343,3.4224989,63,British European Airways,London,1987,Salzburg
+London Heathrow,Staines,51.4820066,-0.4622036,118,British European Airways,London,1978,Brussels
+Nailstone,England,52.6618289,-1.3835156,3,Dan Air Services,London,1970,East Midlands
+Amsterdam,Netherlands,52.3702157,4.8951679,1,Kondair,London,1969,Amsterdam
+Lockerbie,Scotland,55.122245,-3.349008,259,Pan American World Airways,London,1987,New York City
+Rome,Italy,41.9027835,12.4963655,33,Uganda Airlines,London,1987,Rome
+Near Long Tieng,Laos,19.1109553,102.9219684,13,Air America,"Long Tieng, Laos",1974,"Sam Thong, Laos"
+Nyot Mo,Laos,20.9833012,105.7824732,4,Air America,"Long Tieng, Laos",1979,"Moung Cha, Laos"
+Near Lonkin,Myanmar,25.6324599,96.372467,9,Burma Airways,Lonkin,1974,Myitkyina
+Off Los Angeles,California,34.1758027,-118.3620324,38,United Air Lines,Los Angeles,1974,Denver
+Ontario,California,34.0633443,-117.6508876,5,Western Airlines,Los Angeles,1970,Ontairo
+Near Duarte,California,34.1394513,-117.9772873,50,Hughes Airwest / Military - US Marine Air Corps,Los Angeles,1974,Salt Lake City
+LAX,Los Angeles,33.9415889,-118.40853,2,Continental Airlines,Los Angeles,1971,Honolulu
+San Diego,California,32.715738,-117.1610838,137,PacifiSouthwest Airlines / Private,Los Angeles,1977,San Diego
+San Luis Obispo,California,35.2827524,-120.6596156,43,PacifiSouthwest Airlines,Los Angeles,1981,San Fransisco
+Genoa Peak,Nevada,39.0429638,-119.8812921,4,Chartair - Air Taxi,"Los Angeles, CA",1988,"Lake Tahoe, CA"
+Mexico City,Mexico,19.4326077,-99.133208,72,Western Airlines,"Los Angeles, CA",1974,"Mexico City, Mexico"
+Near Erie,Pennsylvania,42.1292241,-80.085059,2,Air Ohio - Air Taxi,"Louisville, KY",1977,"Cleveland, OH"
+Lobito,Angola,-12.3757287,13.5610451,22,DTA Angola Airlines,Luanda,1988,Lobito
+Nacias Nguema,Equatorial Guinea,3.6198322,8.7481167,46,Aeroflot,Luanda,1972,Moscow
+Lubango,Huila,-14.9186136,13.5321234,130,TAAG Angola Airlines,Lubango,1977,Luanda
+Near Pegnitz,West Germany,49.751552,11.5432054,37,Military - U.S. Army,Ludwigsburg,1978,Grafenwohr
+Near Komatipoot,South Africa,-25.450971,31.958687,34,Government of Mozambique,Lusaka,1974,Maputo
+Near Noiretable,Loire,45.816764,3.76642,60,Air Inter,Lyon,1976,Clermont
+Near Antipolo,Philippines,14.6254827,121.1244847,45,Philippine Air Lines,Mactan,1974,Manilla
+Near New Delhi,India,28.6139391,77.2090212,48,Indian Airlines,Madras,1980,Delhi
+Near La Corunda,Spain,43.3623436,-8.4115401,85,Aviaco,Madrid,1983,La Coruna
+Near Madrid,Spain,40.4167754,-3.7037902,93,Iberia Airlines / Aviaco,Madrid,1981,Rome
+Near Durango,Vizcaya,43.1711864,-2.6313339,148,Iberia Airlines,Madrid,1977,Bilbao
+Near Mazâr-e Charif,Afghanistan,36.6926167,67.1179511,29,Military - Afghan Republican Air Force,Maimana,1988,Mazar
+Near Malaga,Spain,36.721261,-4.4212655,50,Spantax,Malaga,1974,New York City
+Malakal,Sudan,9.5279875,31.6682347,60,Sudan Airways,Malakal,1974,Khartoum
+Kalvesta,Sweden,59.383333,17.85,22,Skyline Sweden,Malmo,1987,Bromma
+Near Managua,Nicaragua,12.1149926,-86.2361744,20,Military - Nicaraguan Air Force,Managua,1980,El Rodeo
+Near Arbucias,Gerona,41.8165773,2.511129,112,Dan Air Services,Manchester,1985,Barcelona
+Tenerife,Canary Islands,28.4636296,-16.2518467,146,Dan Air Services,Manchester,1984,Tenerife
+Manchester,England,53.4807593,-2.2426305,55,British Airtours,Manchester,1972,Kerkira
+Manchester,New Hampshire,42.9956397,-71.4547891,4,New England Aviaiton,"Manchester, NH",1978,"Boston, MS"
+Near Mandalay,Burma,21.9588282,96.0891032,43,Military - Union of Burma Air Force,Mandalay,1969,Rangoon
+Near Manado,Indonesia,1.4748305,124.8420794,13,East Indonesia Air Taxi,Mangole,1975,Manado
+Roxas,Philippines,11.5528816,122.740723,1,Philippine Air Lines,Manila,1971,Bacolod
+Near San Jose,Philippines,15.8037018,120.9991032,39,Military - Philippine Air Force,Manila,1981,Nichols AFB
+Manila,Philippines,14.5995124,120.9842195,32,Philippine Air Lines,Manila,1978,Iligan
+Mt. Ipao,Philippines,6.9874561,125.2709964,3,Trans Air Services,Manila,1988,Sicogon
+Near Baguio,Philippines,16.4023332,120.5960071,50,Philippine Air Lines,Manila,1969,Baguio
+Maracaibo,Zulia,10.6544509,-71.7147951,84,Venezolana Internacional de Aviacion,Maracaibo,1975,Miami
+St. Louis,Missouri,38.6270025,-90.1994042,38,Ozark Air Lines,"Marion, IL",1984,St. Louis
+Near Pacae,Peru,-10.6736449,-77.8173047,35,Fuerza Aérea del Peru,Mazamari,1972,Lima
+Frenchglen,Oregon,42.8279687,-118.9152153,6,Air Taxi,"McDermitt, OR",1984,"Burns, OR"
+McGrath,Alakska,62.9532043,-155.5959922,5,Reeder Flying Service,McGrath AK,1980,"Galena, AK"
+Sparrevohn,Alaska,65.56389,-167.91888,4,Safeway Airways,"McGrath, AK",1976,"Sparrevohn, AK"
+Near Thorney,England,52.6214197,-0.1080679,18,Military - U.S. Air Force,McGuire AFB,1979,Mildenhall RAF
+Near Betania,Colombia,5.746649,-75.977569,39,SATENA,Medellin,1978,Buenaventura
+Near Medellin,Colombia,6.2530408,-75.5645737,3,TAMPA Colombia,Medellin,1969,Miami
+Cerro el Plateado,Colombia,5.9972222,-76.1480556,23,Aerolineas Centrales de Colombia,Medellin,1976,Quibdo
+Medellin,Colombia,6.2530408,-75.5645737,5,Aerocondor,"Medellin, Colombia",1984,"Miami, Florida"
+Medford,New Jersey,39.8661826,-74.8390162,2,Flying W Airways,"Medford, NJ",1977,"Allentown, PA"
+New Orleans,Louisiana,29.9510658,-90.0715323,16,Avion Airways,Memphis,1978,New Orleans
+Rich Mountain,Arkansas,34.6906595,-94.3371604,11,Texas International Airlines,Memphis,1984,El Dorado
+Near Memphis,Tennessee,35.1495343,-90.0489801,3,Aviation Enterprises,Memphis,1973,Chicago
+Monroe,Louisiana,32.5093109,-92.1193012,2,Phoenix Air,"Memphis, TN",1969,"Monroe, LA"
+Near San Fernando,Chile,-34.5858603,-70.9907801,29,Uruguayan Air Force - TAMU,Mendoza,1979,Santiago
+Merida,Venezuela,8.5698244,-71.1804988,18,Linea Aeropostal Venezolana,Merida,1977,Maiquetia
+Near Salinas Victoria,Nuevo Leon,25.9662105,-100.2908632,79,Compania Mexicana de Aviacion,Mexico City,1972,Monterey
+Near Mexico City,Mexico,19.4326077,-99.133208,18,Lineas Areas del Centro,Mexico City,1980,Morelia
+Maravatio,Mexico,19.8975909,-100.4499971,167,Mexicana,Mexico City,1971,Puerto Vallarta
+Mexico City,Mexico,19.4326077,-99.133208,5,Belize Air International Ltd.,Mexico City,1971,Miami
+Raleigh,North Carolina,35.7795897,-78.6381787,2,Eastern Air Lines,"Miami, FL",1978,"Raleigh, NC"
+,,,,,,,1986,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

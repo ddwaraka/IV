@@ -1,0 +1,535 @@
+year,ori,dest,crash_city,crash_country,lat,lon,death,airline
+1996,New Delhi,Dhahran / Chimkent,Near Charkhidadri,India,28.5920617,76.2652909,349,Saudi Arabian Airlines / Kazastan Airlines
+2003,Zahedan,Kerman,Near Shahdad,Iran,30.4157741,57.7062572,275,Military - IslamiRevolution's Guards Corps
+1994,Taipe,Nagoya,Near Komaki,Aichi,35.2903104,136.9109515,264,China Airlines (Taiwan)
+1991,Jeddah,Sokoto,Jeddah,Saudi Arabia,21.2854067,39.2375507,261,Nationair (chartered by Nigeria Airways)
+2001,New York City,"Santo Domingo, Dominican Rep.",Belle Harbor,Queens,40.5754846,-73.8507279,260,American Airlines
+1997,Jakarta,Medan,Buah Nabar,Indonesia,3.384059,98.5583676,234,Garuda Indonesia Airlines
+1996,New York City,Paris,Off East Moriches,New York,40.8050989,-72.7609336,230,Trans World Airlines
+1998,New York City,Geneva,Off Peggy's Cove,Nova Scotia,44.4934044,-63.9125577,229,Swissair
+1997,Seoul,Guam,Agana,Guam,13.4762824,144.7502228,229,Korean Airlines
+2009,Rio de Janeiro,Paris,AtlantiOcean,570 miles northeast of Natal,51.6114851,-0.1233491,228,Air France
+2002,Taipei,Hong Kong,Off Penghu Island,Taiwan,23.5025,119.5052778,225,China Airlines (Taiwan)
+1991,Bangkok,"Wien, Austria",Near Ban Nong Rong,Thailand,18.4110485,98.7205877,223,Lauda Air
+1999,New York City,Cairo,Off Nantucket Island,Massachusetts,42.4072107,-71.3824374,217,EgyptAir
+1998,Denpasar,Taipei,Taipei,Taiwan,25.0329694,121.5654177,196,China Airlines (Taiwan)
+1996,Puerto Plata,Gander,Off Puerto Plata,Domincan Republic,19.7807686,-70.6871091,189,"Alas Nacionales, leased from Birgen Air"
+2007,Porto Alegre,Sao Paulo,Sao Paulo,Brazil,-23.5505199,-46.6333094,187,TAM (Brazil)
+1989,Paramaribo,Zanderij,Near Paramaribo,Surinam,5.8520355,-55.2038278,176,Surinam Airways
+1989,N'Djamena,Paris,Near Bilma,Niger,18.6929789,12.9176518,171,Union des Transportes Aeriens
+2006,Anapa,St. Petersburg,Near Donetsk,Ukraine,48.015883,37.80285,170,Pulkovo Airlines
+2000,Abidjan,Lagos,Off Abidjan,Ivory Coast,5.3599517,-4.0082563,169,Kenya Airways
+1992,Karachi,Kathmandu,Near Kathmandu,Nepal,27.7172453,85.3239605,167,Pakistan International Airlines
+1995,Miami,Cali,Near Buga,Valle del Cauca,3.9005079,-76.3021889,160,American Airlines
+2005,Panama City,"Fort de France, Martinique",Near La Cucharita,Venezuela,10.0725699,-69.3466525,160,West Caribbean Airways
+1994,Xian,Guangzhou,Near Xi'an,China,34.341575,108.93977,160,China Northwest Airlines
+1992,Lagos,Kaduna,Near Lagos,Nigeria,6.5243793,3.3792057,158,Military - Federal Nigerian Air Force
+1992,Benghazi,Tripoli,Tripoli,Libya,32.8872094,13.1913383,157,Libya Arab Airlines / Military - Libya Air Force
+2006,Manaus,Brasilia,Near Sao Felix do Araguaia,Brazil,-11.617526,-50.6662628,154,Gol Airlines / Private
+2008,Madrid,"Las Palmas, Canary Islands",Madrid,Spain,40.4167754,-3.7037902,154,Spanair
+2004,"Sharm el Sheikh, Egypt","Cairo, Egypt",Off Sharm el Sheikh,Egypt,27.9158175,34.3299505,148,Flash Air
+2001,Yekaterinburg,Irkutsk,Near Irkutsk,Russia,52.2869741,104.3050183,145,Vladivostokavia
+1989,Bergamo,Orio al Serio,Santa Maria,Azores,36.9788003,-25.1059054,144,Independent Air Inc.
+1996,Port Harcourt,Lagos,Lagos,Nigeria,6.5243793,3.3792057,143,Aviation Development Corporation
+2000,Cairo,Manama,Off Manama,Bahrain,26.2285161,50.5860497,143,Gulf Air
+1992,Guangzhou,Guilin,Near Liutang,Guangxi,24.6554953,109.2358584,141,China Southern Airlines
+1995,Kinshasa,Jamba,Kahengula,Angola,-11.202692,17.873887,141,Trans Service Airlift
+1996,Moscow,Svalbard,Spitsbergen,Norway,69.6414142,18.9393705,141,Vnokovo Airlines
+2003,"Conakry, Guinea","Cotonou, Benin",Cotonou,Benin,6.3702928,2.3912362,140,Union des Transports Aeriens de Guinee
+1993,Tehran,Khoram,Near Tehran,Iran,35.6891975,51.3889736,133,Iran Air Tours / Military - Iranian Air Force
+1993,Panama City,Medellin,Near Medellin,Colombia,6.2530408,-75.5645737,132,SAM Colombia
+1994,Chicago,Pittsburgh,Near Aliquippa,Pennsylvania,40.615537,-80.2621852,132,USAir
+2000,Manila,Davao,Samal Island,Philippines,7.103312,125.7188463,131,Air Philippines
+2003,Kinshasa,Lubumbashi,Near Kinshasa,Congo,-4.4419311,15.2662931,129,Ukrainian Cargo Airlines - Congolese Army Charter
+2002,Beijing,Busan,Busan,South Korea,35.1795543,129.0756416,128,Air China
+2006,Moscow,Irkutsk,Irkutsk,Russia,52.2869741,104.3050183,128,Sibir (S7)
+1990,Guangzhou,Shanghi,Guangzhou,China,23.12911,113.264385,128,China Southwest Airlines / Xiamen Airlines
+1996,Addis Ababa,Nairobi,Off Moroni,Comoros,-11.7172157,43.2473146,127,Ethiopian Airlines
+1989,Managua,Tegucigalpa,Near Tegucigalpa,Honduras,14.0722751,-87.192136,127,TAN
+1989,Havana,"KÃ¶ln, Bonn",Near Havana,Cuba,23.1135925,-82.3665956,126,Cubana de Aviacion
+1994,Irkutsk,Moscow,Near Irrupts,Siberia,61.0137097,99.1966559,124,Baikal Air
+1996,Lima,Arequipa,Arequipa,Peru,-16.4090474,-71.537451,123,Compania de Aviacion Faucett SA (Peru)
+2005,"Larnaca, Cyprus","Athens, Greece",Near Grammatikos,Greece,38.2031194,23.9632194,121,Helios Airways
+2005,Lagos,Abuja,Lisa,Nigeria,6.6438592,3.4787607,117,Bellview Airlines
+2002,Tehran,Khorramabed,Near Khorramabed,Iran,33.4646833,48.3389644,117,Iran Air Tours
+2003,Port Sudan,Khartoum,Port Sudan,Sudan,19.5903471,37.1901616,116,Sudan Airways
+1993,GenÃ¨ve,Skopje,Near Ohrid,Macedonia,41.1230977,20.8016481,116,Aviaimpex (Macedonia)
+2001,Milan,Copenhagen / Milan,Milan,Italy,45.4654219,9.1859243,114,Scandinavian Airlines (SAS) / Private
+2007,"Abidjan, Ivory Coast","Douala, Cameroon",Near Dizangue,Cameroon,3.7796742,9.9772486,114,Kenya Airways
+1992,Bangkok,Kathmandu,Near Kathmandu,Nepal,27.7172453,85.3239605,113,Thai Airways
+2006,"Yerevan, Armenia","Sochi, Russia",Off Sochi,Russia,43.6028079,39.7341543,113,Armavia
+1989,"Denver, CO","Chicago, IL",Sioux City,Iowa,42.4999942,-96.4003069,112,United Air Lines
+2002,Beijing,Dalian,Off Dalian,China,38.913474,121.6210452,112,China Northern Airlines
+1996,Miami,Atlanta,Everglades,Miami,25.7443617,-80.4323221,110,ValuJet
+2000,Paris,New York City,Gonesse,France,48.9864632,2.4497721,109,Air France
+2005,Abuja,Port Harcourt,Near Port Harcourt,Nigeria,4.815554,7.0498442,108,Sosoliso Airlines
+1992,Nanjing,Xiamen,Nanjing,Jiangsu,32.060255,118.796877,108,China General Aviation Corporation
+1989,Bogota,Cali,Bogota,Colombia,4.7109886,-74.072092,107,AVIANCA
+1993,Tbilisi,Sukhumi,Sukhumi,Georgia,43.0015252,41.0234153,106,Transair Georgia Airlines
+1998,Tacloban,Cagayan de Oro,Pagalungan,Philippines,6.9692802,124.7519807,104,Cebu PacifiAir
+1997,Jakarta,Hatta,Near Palembang,Indonesia,-2.9760735,104.7754307,104,SilkAir
+2005,Herat,Kabul,Near Peshawar,Pakistan,34.0149748,71.5804899,104,Kam Air
+2003,Tamanrasset,Algiers,Tamanrasset,Algeria,22.7888209,5.5258107,102,Air Algerie
+2007,"Surabaya, East Java","Manado, Indonesia",Off Parepare,Indonesia,-4.0096221,119.6290617,102,Adam Air
+1998,Bangkok,Surat Thani,Near Surat Thani,Thailand,9.1382389,99.3217483,102,Thai Airways
+2005,Medan,Jakarta,Medan,Indonesia,3.5951956,98.6722227,99,Mandala Airlines
+1995,Yushno,Khabarovk,Near Grossevichi,Russia,47.981556,139.541809,98,Far East Aviation
+2009,Jakarta,Maduin,Near Madiun,Indonesia,-7.6310587,111.5300159,98,Military - Indonesian Air Force
+2006,Lagos,Abuja,Near Abuja,Nigeria,9.0764785,7.398574,96,ADC Airlines
+1996,Sao Paulo,Rio de Janiero,Sao Paolo,Brazil,-23.5505199,-46.6333094,95,TAM (Brazil)
+2005,Tehran,Bandar Abbas,Tehran,Iran,35.6891975,51.3889736,94,Military - IslamiRepubliof Iran Air Force
+1990,Bombay,Bangalore,Near Bangalore,India,12.9715987,77.5945627,92,Indian Airlines
+2001,Boston,Los Angeles,New York City,New York,40.7127837,-74.0059413,92,American Airlines
+2002,Quito,TulcÃ¡n,Near Ipiales,Colombia,0.825542,-77.639504,92,TAME
+1996,El Obeid,Khartoum,Near Jabal Awliya,Sudan,15.2286363,32.5259596,91,Military - Sudanese Air Force
+2007,Bangkok,Phuket,Phuket,Thailand,7.9519331,98.3380884,90,One-Two-Go Airlines
+1997,Dezful,Mashhad,Near Mashhad,Iran,36.2604623,59.6167549,88,Military - Iranian Air Force
+2008,Moscow,Perm,Perm,Russia,58.0296813,56.2667916,88,Aeroflot
+2000,Puerto Vallarta,San Francisco,Off Point Mugu,California,36.778261,-119.4179324,88,Alaska Airlines
+1992,Lyon,Strasbourg,Mt. Saint-Odile,near Strasbourg,48.6416909,7.7532122,87,Air Inter
+2000,Moscow,Batumi,Near Batumi,Republiof Georgia,41.6167547,41.6367455,86,Military - Russian Air Force
+1997,Dushanbe,Sharjah,Sharjah,United Arab Emirates,25.3223269,55.5136433,85,Tajikistan Airlines
+1992,Donetsk,Ivanovo,Near Ivanovo,Russia,57.0050671,40.9766453,84,Aeroflot
+2000,Taipei,Los Angeles,Taipei,Taiwan,25.0329694,121.5654177,83,Singapore Airlines
+1993,Skopje,ZÃ¼rich,Skopje,Macedonia,41.9973462,21.4279956,83,Palair Macedonian
+1993,Khorag,Dushanbe,Khorag,Tajikistan,37.4882943,71.5901986,82,Tajikistan Airlines
+1995,Ratmalana,Palali base,Off Colombo,Sri Lanka,6.8925749,79.8749211,81,Military - Sri Lanka Air Force
+1994,Nouakchott,Tidjikja,Near Tidjika,Mauritania,18.5565495,-11.4310758,80,Air Mauritanie
+2001,Tel Aviv,"Novosibirsk, Russia",110 miles SW of Sochi,Russia,43.6028079,39.7341543,78,Sibir Airlines
+1993,Kabul,Mazar,Near Kholm,Afghanistan,36.7027082,67.7079491,76,Military - Afghan Republican Air Force
+1998,Iquitos,Andoas,Andoas,Peru,-2.9051835,-76.4027937,75,Fuerza AÃ©rea del Peru
+2003,Istanbul,Ankara,Diyarbakir,Turkey,37.9249733,40.2109826,75,Turkish Airlines (THY)
+1994,Moscow,Hong Kong,Near Mezhdurechensk,Russia,53.6836301,88.0813924,75,Aeroflot Russian International Airways
+2003,"Kabul, Afghanistan","Trabzon, Turkey",Near Macka,Turkey,40.814221,39.610662,75,Ukranian-Mediterranean Airlines
+1989,Jeddah,Tripoli,Tripoli,Libya,32.8872094,13.1913383,75,Korean Airlines
+1997,Posadas,Buenos Aires,Nuevo Berlin,Uruguay,-32.9809545,-58.0470008,74,Austral Lineas Aeras (Argentina)
+2002,Abuja,Jos,Kano,Nigeria,12.0021794,8.5919561,74,EAS Airlines (Executive Airline Services)
+1990,Medellin,New York City,Cove Neck,New York,40.8823207,-73.5059562,73,AVIANCA
+1995,Cotonou,Douala,Near Douala,Cameroon,4.0510564,9.7678687,72,Cameroon Airlines
+2002,Moscow,Munich,Uberlingen,Germany,47.7661746,9.1702772,71,Bashkirian Airlines / DHL Worldwide Express
+1998,Quito,Guayaquil,Quito,Ecuador,-0.1806532,-78.4678382,70,Cubana de Aviacion
+1996,Lima,Santiago,Off Pasamayo,Peru,-11.6931869,-77.1858995,70,Aeroperu
+1992,Jakarta,Surabaya,Mt. Lalaboy,Indonesia,-0.789275,113.921327,70,Mandala Airlines
+1997,Odessa,Thessaloniki,Fotina,Greece,40.2204814,22.3137232,70,Aerosweet Airlines (LVOV)
+1991,Calcutta,Imphal,Imphal,India,24.8170111,93.9368439,69,Indian Airlines
+1994,Indianapolis,Chicago,Roselawn,Indiana,41.1587014,-87.2916713,68,American Eagle
+1993,Seoul,Mokpo,Haenam,South Korea,34.5732516,126.5989274,68,Asiana Airlines
+2008,Bishkek,"Tehran, Iran",Bishkek,Kyrgyzstan,42.8746212,74.5697617,68,Itek Air
+1994,Isfahan,Terhan,Krakas Mountains,near Natanz,33.4558333,51.8,66,Iran Asseman Airlines
+2001,Boston,Los Angeles,New York City,New York,40.7127837,-74.0059413,65,United Air Lines
+1997,Ho Chi Minh City,Phnom Penh,Phnom Penh,Cambodia,11.5448729,104.8921668,65,Vietnam Airlines
+1995,Guatemala City,San Salvador,Mt. Chichontepec,San Vincente,13.6353211,-88.7874172,65,Aviateca
+1999,Buenos Aires,Cordoba,Buenos Aires,Argentina,-34.6036844,-58.3815591,64,"LAPA, Lineas Aereas Privadas Argentinas"
+2001,Washington D.C.,Los Angeles,Arlington,Virginia.,38.8799697,-77.1067698,64,American Airlines
+1995,Colombo,Palay AFB,Off Jaffna Peninsula,Sri Lanka,9.71442,80.1428584,63,Military - Sri Lanka Air Force
+1989,San Ramon,Captain Alvarino,Near Tarma,Peru,-11.4193347,-75.6889493,62,Fuerza AÃ©rea del Peru
+1999,Chengdu,Wenzhou,Rui'an,China,27.778657,120.655148,61,China Southwest Airlines
+2005,"Malabala, Bioko Island",Bata,Baney,Equatorial Guinea,3.638801,8.8583309,60,Ecuatair
+1995,Bucharest,Brussel,Near Balotesti,Romania,44.6224456,26.1102518,60,Transporturile Aeriene Romane (TAROM)
+2007,Istanbul,Isparta,Near Isparta,Turkey,37.7626487,30.553705,57,Atlasjet Airlines
+2000,Luanda,Namibe,Near Luanda,Angola,-8.8399876,13.2894368,57,Asa Pesada
+1994,Ankara,Van,Near Van,Turkey,38.5012085,43.3729793,57,Turkish Airlines (THY)
+1993,Aurangabad,Bombay,Aurangabad,India,19.8761653,75.3433139,56,Indian Airlines
+1992,Amsterdam,Faro,Faro,Algarve,37.0193548,-7.9304397,56,Martinair Holland NV
+1993,Yinchuan,Beijing,Yinchuan,China,38.487194,106.230909,55,China Northwest Airlines
+1998,Jaffna,Colombo,Off Mannar,Sri Lanka,8.9893222,79.8800832,55,Lionair
+1989,Oslo,Hamburg,Skagerrak,Denmark,57.441592,10.5337472,55,Partnair
+2000,Calcutta,Patna,Patna,India,25.5940947,85.1375645,55,Indian Airlines/Alliance Airlines
+1995,Nakhichevan,Baku,Near Nakhichevan,Azerbaijan,39.2057079,45.4490982,54,Azerbaijani Airlines
+1989,Gilgit,Islamabad,Near Gilgit,Pakistan,35.920154,74.3080126,54,Pakistan International Airlines
+1989,Hualian,Taibei,Hualein,China,23.9871589,121.6015714,54,China Airlines (Taiwan)
+1995,Comodoro Rivadavia,Cordoba,Near Luyaba,Argentina,-32.1493893,-65.0577595,53,Military - Argentine Air Force
+1996,Wadi Halfa,Khartoum,Near Haj Yousif,Sudan,15.6419172,32.6390489,53,Federal Airlines
+1998,Bogota,Quito,Near Bogota,Colombia,4.7109886,-74.072092,53,Air France
+2004,Baotou,Shanghai,Baotou,Inner Mongolia,40.657378,109.840349,53,China Eastern Airlines
+1995,Anuradhapura,Palaly AFB,Near Palaly AFB,Sri Lanka,5.993178,80.3213678,52,Military - Sri Lanka Air Force
+1995,Bogota,Cartagena,Cartagena,Colombia,10.3910485,-75.4794257,51,Intercontinental de Aviacion
+1998,Kandahar,Heart,Tor Kach,Pakistan,31.2,67,51,Ariana Afghan Airlines
+1991,Ellsta,Makhackala,Makhackala,Russia,42.9666308,47.5126285,51,Aeroflot
+1999,Kassala,Khartoum,Near Khartoum,Sudan,15.5006544,32.5598994,50,Military - Sudan Air Force
+1997,Stavropol,Trabzon,Cherkessk,Russia,44.2273974,42.0591708,50,Stavropol Airlines
+2006,"Lexington, KY","Atlanta, GA",Lexington,Kentucky,38.0405837,-84.5037164,49,Comair
+2009,"Newark, N.J.","Buffalo, NY",Clarence Center,New York,43.0106139,-78.6375283,49,Continental Connection/Colgan Air
+1995,Verona,Timisoara,Verona - Villafranca,Italy,45.4184277,10.9524966,49,Romanian Banat Air
+1995,Ondjiva,Catumbela,Near Cuvela,Angola,-15.6658386,15.802612,48,Military - Angolan Air Force
+1989,London,Belfast,Leicestershire,England,52.772571,-1.2052126,47,British Midland Airways
+1994,Dzhida,Boda,Near Boda,Russia,57.2605471,17.0351033,47,Military - Russian Air Force
+1992,"Panama City, Panama","Cali, Colombia",Tucuti,Panama,7.983333,-77.933333,47,COPA (Panama)
+1992,Agdam,Shusha,Near Stepanakert,Azerbaijan,39.8265279,46.7655746,47,Military - Azerbaijan Air Force
+1990,Yerevan,Zvartnots,Stepanakert,Azerbaijan,39.8265279,46.7655746,47,Aeroflot
+2008,Merida,Caracas,Merida,Venezuela,8.5698244,-71.1804988,46,Santa Barbara Airlines
+2003,Chiclayo,Chachapoyas,Near Chachapoyas,Peru,-6.2301547,-77.8708478,46,TANS Airlines
+2004,Moscow,Sochi,Near Rostov-on-Don,Russia,47.2357137,39.701505,46,Sibir Airlines
+1990,Milano,ZÃ¼rich,Stadelberg,Switzerland,47.4002802,8.955946,46,Alitalia
+1998,Dubai,Kandahar,Near Charasyab,Afghanistan,33.93911,67.709953,45,Ariana Afghan Airlines
+2006,Multan,Lahore,Multan,Pakistan,30.1983807,71.4687028,45,Pakistan International Airlines
+1991,Maracaibo,Santa Barbara de Zulia,La Puerta,Venezuela,9.1275891,-70.7094127,45,Linea Aeropostal Venezolana
+1994,Agadir,Casablanca,Near Agadir,Morocco,30.4277547,-9.5981072,44,Royal Air Maroc
+1997,Santiago de Cuba,Havana,Off Santiago de Cuba,Cuba,20.01693,-75.8301537,44,Cubana de Aviacion
+2000,Saurimo,Luanda,Near Monaquimbundo,Angola,-9.898251,19.993361,44,Aca-Ancargo
+2001,Newark,San Francisco,Shanksville,Pennsylvania,40.0178571,-78.9072458,44,United Air Lines
+1998,Rangoon,Tachilek,Manibagi,Myanmar,21.916221,95.955974,44,Myanmar Airways
+2002,"Kharkiv, Ukraine","Trabzon, Turkey",Near Isfanan,Iran,32.6546275,51.6679826,44,Aeromist-Kharkiv
+2000,Enshi,Wuhan,Shitai,China,30.210313,117.486306,44,Wuhan Airlines
+2004,Kish Island,Sharjah,Sharjah,United Arab Emirates,25.3223269,55.5136433,43,Kish Airlines
+1989,Luena,Cazombo,Near Chana,Angola,-16.9666667,14.55,42,Military - Angolan Air Force
+2006,Pristina,Kosice,Near Telkibanya,Hungary,48.4854061,21.3574906,42,Military - Slovak Air Force
+1995,Ulan Bator,Moron,Near Moron,Mongolia,49.6428895,100.1771896,42,MIAT - Mongolian Airlines
+1991,Nizhnevartovsk,Bugulma,Near Bugulma,Russia,54.5220314,52.8260805,41,Tartarstan Airlines
+1998,Kindu,Kinshasa,Near Kindu,Congo,-4.337119,15.2641808,41,Congo Airline
+1993,Ambo,Sorong,Sorong,Irian Jaya,-0.8819986,131.2954834,41,Merpati Nusantara Airlines
+2004,Moscow,Volograd,Near Toula,Russia,54.204836,37.6184915,41,Volga-Avia Express
+1993,Batumi,Baku,Near Tbilisi,Georgia,41.7151377,44.827096,40,Tajikistan Airlines
+1993,Ulan Bator,Bayan Olgiy,Zavnah,Mongolia,46.862496,103.846656,40,MIAT - Mongolian Airlines
+2005,Lima,Pucallpa,Near Pucallpa,Peru,-8.3928622,-74.5826166,40,TANS Peru
+1998,Nema,Nouakchott,Near Nema,Mauritania,16.6143698,-7.2598913,39,Military - Mauritanian Air Force
+1992,Manshahr,Tehran,Saveh,Iran,35.0236107,50.3585065,39,Saha Airline Services
+1990,Bangkok,Koh Samui,Koh Samui,Thailand,9.5120168,100.0135929,38,Bangkok Airways
+1998,Malaga,Melilla,Near Nador,Morroco,35.1686165,-2.9275836,38,Paukn Air
+2006,Tehran,Shiraz,Tehran,Iran,35.6891975,51.3889736,38,Military - Iranian Revolutionary Guard Corps Air Force
+1997,Luanda,Cafunfo,Near Quiangala,Angola,-8.591401,14.92815,37,Force Area Populaire de Angola
+1994,"Columbia, SC","Charlotte, NC",Charlotte,North Carolina,35.2270869,-80.8431267,37,USAir
+2004,Termez,Tashkent,Tashkent,Uzbekistan,41.2994958,69.2400734,37,Uzbekistan Airways
+1993,Krasnadar,Gyumri,Gyumri,Armenia,40.7929026,43.8464971,36,Kuban Airlines
+1996,Tizla,Dubrovnik,Near Dubrovnik,Croatia,42.6506606,18.0944238,35,Military - U.S. Air Force
+1999,Ponta Delgada,Horta,Sao Jorge,Azores (Portugal),38.6409678,-28.0303189,35,SATA
+1997,Chongqing,Shenzen,Huangtian,China,28.139656,120.289304,35,China Southern Airlines
+2001,Diyarbakir,Ankara,Malatya,Turkey,38.3553627,38.3335247,34,Military - Turkish Air Force
+1995,Maintirano,Antananivo,Near Antananivo,Madagascar,-14.233333,48.5,34,Military - Madagascar Air Force
+2007,"Adana, Turkey","Balad Air Base, Iraq",Near Balad Air Base,Iraq,33.2397823,44.2305279,34,Moldovan Aeriantur-M Air Cargo
+1996,"Villafranca, Italy",Eindhoven AB,Near Eindhoven,The Netherlands,51.441642,5.4697225,34,Military - Belgian Air Force
+1991,Columbus,Los Angeles \ Los Angeles,LAX,Los Angeles,33.9415889,-118.40853,34,USAir / Skywest Airlilnes
+1991,Trashkent,Navoi,Navoi,Uzbekistan,40.103922,65.3688335,34,Uzbek Civil Aviation Administration
+1992,Santo Domingo,Porto Plata,Near Porto Plata,Dominican Republic,19.7807686,-70.6871091,34,Aerocaribbean - Charter
+1989,Thessaloniki,Samos,Samos,Greece,37.7547857,26.9777701,34,OlympiAviation
+1989,Perm,Sovietsky,Near Tyumem,Russia,57.1612975,65.5250172,34,Aeroflot
+1995,Kota Kinabalu,Tawau,Tawau,Malaysia,4.244651,117.8911861,34,Malaysia Airlines
+2004,Sao Paulo,Tefe,Near Manaus,Brazil,-3.1190275,-60.0217314,33,Rico Linhas Aereas
+1992,Migalovo AB,Yerevan,Near Tver,Russia,56.8587214,35.9175965,33,Military - Russian Air Force
+1996,Texel,Amsterdam,Waddenzee,Netherlands,53.5786884,6.9495078,32,Dutch Dakota Association
+2008,"Aman, Jordan","Damascus, Syria",Khartoum,Sudan,15.5006544,32.5598994,32,Sudan Airways
+1992,Semarang,Bandung,Near Garut,Jawa,-7.1616667,107.7747222,31,Merpati Nusantara Airlines
+1994,Jananjui,Tocache,Near Carpish,Peru,-9.7,-76.15,31,Expresso AÃ©reo
+2005,Ferrying troops,,Rutbah,Iraq,32.5597614,41.9196471,31,Military - U.S. Marines
+1993,Faisabad,Daraim,Near Daraim,Afghanistan,33.93911,67.709953,30,Military - Afghan Republican Air Force
+2001,Tehran,Gorgan,Near Sari,Iran,36.5658729,53.0586328,30,Faraz Qeshm Airlines
+1997,Bangdung,Jakarta,Bandung,Indonesia,-6.9174639,107.6191228,30,Sempati Air
+1993,Lusaka,Libreville,Off Libreville,Gambia,0.4161976,9.4672676,30,Military - Zambian Air Force
+1989,Hargeisa,Mogadishu,Near Borana,Somalia,9.9360092,43.184402,30,Somali Airlines
+1992,Ho Chi Minh City,Nha Trang,Near Nha Trang,Vietnam,12.2387911,109.1967488,30,Vietnam Airlines
+1992,Dakar,Yoff,Near Kafountine,Senegal,12.9283363,-16.7411559,30,Gambcrest
+1997,Cincinnati,Detroit,Near Monroe,Michigan,41.9164343,-83.3977101,29,Comair
+1994,Aldergrove AB,Fort George,Near Campbeltown,Scotland,55.424117,-5.605374,29,Military - Royal Air Force
+1990,M'bala,Likouala,Near Ngwerere,Zambia,-15.30803,28.325121,29,Military - Zambian Air Force
+2006,Bandar Abbas,Mashad,Mahad,Iran,36.2604623,59.6167549,29,Iran Air Tours
+1993,Manila,Naga,Near Naga,Philippines,13.6217753,123.1948238,29,Military - Philippine Air Force
+1992,Nakhichevan,Rostov,Near Nakhichevan,Azerbaijan,39.2057079,45.4490982,29,Military - Russian Air Force
+1999,Managua,Bluefields,Bluefields,Nicaragua,12.0111402,-83.7703693,28,Fuerza AÃ©rea Nicaragua
+1998,Erdenet,Moron,Near Erdenet,Mongolia,49.054082,104.0716533,28,MIAT - Mongolian Airlines
+1990,Pointe,Noire,Near Kinkala,Congo,-4.3601087,14.7608448,28,Military - Congolese Air Force
+1994,Tabubil,Selbang,Papua,New Guinea,-6.314993,143.95555,28,Missionary Aviation Fellowship
+1994,Krasnoyarsk,Tura,Near Vanavera,Russia,60.3394104,102.2965425,28,Cheremshanka Airlines
+2005,Ufa,Usinsk,Varandey,Russia,68.824444,58.068889,28,Regional Airlines
+1992,New York City,Cleveland,La Guardia Airport,New York,40.7769271,-73.8739659,27,USAir
+1991,Frankfurt,Frankfurt,Heidelberg,Germany,49.3987524,8.6724335,27,ClassiWings
+2005,Goma,Kindu,Walungu,Congo,-0.228021,15.827659,27,Charter - Maniema Union (owner Victoria Air)
+1997,Bunia,Kisangani,Near Irumu,Congo,-0.228021,15.827659,27,Bazair
+2001,Khatanga,Moscow,Kalyazin,Russia,57.2365343,37.8401303,27,Charter - IRS Aero
+1993,Sochi,Sukhumi,Sukhumi,Georgia,43.0015252,41.0234153,27,Transair Georgia Airlines
+2000,Kinshasa,Tshikapa,Near Tshikapa,Congo,-4.3340606,15.3127607,27,Staer Air
+1990,Tyumen,Ufa,Near Pervouralsk,Russia,56.8999158,59.9521128,27,Aeroflot
+1989,Rangoon,Kentung,Rangoon,Myanmar,16.8660694,96.195132,26,Burma Airways
+2002,Quito,Lago Agrio,Near La Bonita,Ecuador,0.462315,-77.504356,26,PetroproducciÃ³n
+2004,"Jakarta, Indonesia","Solo, Indonesia",Solo,Indonesia,-7.5754887,110.8243272,26,Lion Air
+1998,Vientiane,Xiang Khoang,Near Longtiang,Laos,19.1109553,102.9219684,26,Military - Lao People's Liberation Army Air Force
+2002,"N'Djamena, Chad","Brazzaville, Congo",Bangui,Central African Republic,4.3946735,18.5581899,25,Prestige Airlines (Cargo) Charter
+1991,Denver,Colorado Springs,Near Colorado Springs,Colorado,38.8338816,-104.8213634,25,United Air Lines
+1997,Tambacounda,Dakar,Tambacoumba,Senegal,13.7725888,-13.6710059,25,Air Senegal
+2000,Bajhang,Dhangadhi,Jodhura,Nepal,28.394857,84.124008,25,Royal Nepal Airlines
+1989,Ul'yanovsk,Leninakan,Leninakan,Russia,47.3074269,39.6434982,25,Aeroflot
+2004,La Orchila Air Base,Maracay,Near Maracay,Venezuela,10.2441931,-67.6066164,25,Military - Venezuelan Air Force
+1990,Caracas,Puerto Ayancucho,Near Caracas,Venezuela,10.4805937,-66.9036063,25,Military - Venezuelan Navy
+2001,Canaina,Ciudad Bolivar,Ciudad Bolivar,Venezuela,8.0882791,-63.5535552,24,Rutaca Airlines
+1995,Anchorage,Elmendorf AFB,Anchorage,Alaska,61.2180556,-149.9002778,24,Military - U.S. Air Force
+2004,Freetown,Kailahun,Near Yengema,Sierra Leone,8.6156269,-11.0428931,24,United Nations - UTair Charter
+2000,"Pepa, Congo","Kigali, Rwanda",Pepa,Congo,-0.228021,15.827659,24,Military - Centrafricain Airlines
+2009,Coari,Manus,Manacapuru,Brazil,-3.2897156,-60.6318987,24,Aerotaxi Manaus
+1992,Tbilisi,Mineralnye Vody,Tbilisi,Georgia,41.7151377,44.827096,24,Georgian Air
+1999,Rome,Pristina,Near Pristina,Kosovo,42.6629138,21.1655028,24,Si Fly - U.N. charter
+2008,Wau,Rumbek,Near Rumbek,Sudan,6.8070351,29.6754476,24,Southern Sudan Air Connection
+1989,Guayaramerin,Santa Cruz,Near Guayaramerin,Bolivia,-10.8237579,-65.3688335,24,Military - Bolivian Air Force
+1989,Dryden,Winnipeg,Dryden,Ontario,49.7800938,-92.8369592,24,Air Ontario
+2001,Berlin,Zurich,Birchwil,Switzerland,47.45826,8.6372,24,Crossair
+2009,Militiary training,,Bandung,Indonesia,-6.9174639,107.6191228,24,Military - Indonesian Air Force
+2005,"Baku, Azerbaijan","Aktau, Kazakhstan",Nardaran,Azerbaijan,40.5738701,49.9881435,23,Azerbaijan Airlines
+1990,Belem,Altamira,Near Altamira,Brazil,-3.1986664,-52.2104006,23,TABA
+1996,Condorcanqui,Bagua,Near Mesones Muro,Peru,-6.7678562,-79.825305,23,Military - Peruvian Army Aviation
+1991,Atlanta,Brunswick,Brunswick,Georgia,31.1499528,-81.4914894,23,AtlantiSoutheast Airlines
+1990,San Jose,Palmar Sur,Pico Blanco,Costa Rica,9.8741156,-84.1487503,23,SANSA
+1996,Abakan,Petropavlosk,Abakan,Siberia,53.7175644,91.4293172,23,Military - Russian Air Force
+2002,Cruzeiro do Sul,Tarauaca,Rio Branco,Brazil,-9.975377,-67.8248977,23,Rico Taxi AÃ©reo
+1994,Yushno,Ust Ilimsk,Near Ust'-Ilimsk,Russia,57.9845406,102.7395955,23,Aeronica
+1997,Irkutsk,Vladivostok,Irkutsk-2,Russia,54.435309,96.4598583,23,Military - Russian Air Force
+1989,Manokwari,Bentuni,Near Bentuni,Indonesia,-2.116667,133.533333,22,Merpati Nusantara Airlines
+1996,Tanbaram AFB,Hyderabad,Near Nellore,India,14.4425987,79.986456,22,Military - Indian Air Force
+2000,Tripoli IAP,Marsa el,Off Marsa el-Brega,Libya,30.4032074,19.6103673,22,Avisto
+1998,Tumbes,Piura,Piura,Peru,-5.1782884,-80.6548882,22,Fuerza AÃ©rea del Peru
+2007,Siem Reap,Sihanoukville,Near Sihanoukville,Cambodia,10.6253016,103.5233963,22,PMT Air
+1991,Macao,Taisha,Near Taisha,Ecuador,-2.340197,-77.45932,22,Military - Ecuadorean Air Force
+1997,Buknavu,Uvira,Near Uvira,Zaire,-3.3728836,29.1448793,22,TMK Air Commuter
+1989,Paris,Valence,Col de Tourniol,France,44.91875,5.184529,22,Europe Aero Service EAS
+1999,Havana,Valencia,Bejuma,Venezuela,10.1771427,-68.2594012,22,Cubana de Aviacion
+2007,Jakarta,Yogyakarta,Yogyakarta,Indonesia,-7.7955798,110.3694896,22,Garuda Indonesia Airlines
+1994,Rio de Janeiro,Belem,Near Formoso do Aragala,Brazil,-11.8165893,-49.5189265,21,Military - Brazilian Air Force
+2003,"Charlotte, NC","Greer, SC",Charlotte,North Carolina,35.2270869,-80.8431267,21,US Air Express/Air Midwest
+1995,Villavicencio,La Macarena,Near La Macarena,Colombia,2.181718,-73.78645,21,SAETA
+1991,Caracas,Merida,Near Paramo Mucuti,Venezuela,6.42375,-66.58973,21,Military - Venezuelan Navy
+2001,"Fort Walton Beach, Fl","Oceana Naval Air Station, VA",Unadilla,Georgia,32.2615496,-83.7365656,21,Military - Florida Army National Guard
+1994,Colon,Panama City,Colon,Panama,9.3352868,-79.9416549,21,Alas Chiricanas
+2003,Cap Haitien,Port au Paix,Cap Haitien,Haiti,19.7370362,-72.2067681,21,Tropical Airways
+1990,Manila,Surigao City,Manila,Philippines,14.5995124,120.9842195,21,Aerolift Philippines
+2007,Kinshasa,Tshikapa,Kinshasa,DR Congo,-4.4419311,15.2662931,21,Africa One Congo
+2005,"Miami, Florida","Bimini, Bahamas",Off Miami Beach,Florida,28.350488,-82.6928396,20,Chalk's Ocean Airways
+2002,Luanda,demobilization camp,Near Ndalatando,Angola,-9.2993916,14.9096846,20,Military - Angolan Armed Forces
+1991,Brasilla,Guarantinguerta,Guaratingueta AB,Brazil,-15.8250376,-47.9601949,20,Military - ForÃ§a AÃ©rea Brasileira
+1989,"Kahului, Maui","Kaunakakai, Molokai",Halawa Point,Molokai,21.1443935,-157.0226297,20,Aloha Island Air
+2003,"Boende, Congo","Kinshasa, Congo",Boende,Congo,-4.3794394,15.2642304,20,Military - Congolese Air Force
+2003,Kamchatka,Kuril Islands,Kamchatka Peninsula,Russia,56.1327377,159.5314398,20,Khalatyrka
+2002,"Berlin, Germany",Luxembourg,Near Niederanven,Luxembourg,49.6510089,6.2587463,20,Luxair
+1996,Bosavi,Mendi,Papua,New Guinea,-6.314993,143.95555,20,Milne Bay Air
+2008,Warsaw,Miroslawiec,Miroslawiec,Poland,53.34254,16.089279,20,Military - Polish Air Force
+1989,Berlin,Moscow,Berlin,Germany,52.5200066,13.404954,20,Interflug
+2007,Moorea,Papeete,Off Moorea,French Polynesia,-17.5388435,-149.8295234,20,Air Moorea
+1996,Novosibirsk,Petropavlovsk,Near Petropavlovsk,Russia,57.6011371,49.1219371,20,Krasnoyarskie Avialinii
+1995,Cayenne,Port,Near Belle Anse,Haiti,18.2382167,-72.0690372,20,Air St. Martin
+1991,Punta Arenas,Puerto Williams,Puerto Williams,Chile,-54.9352098,-67.6058537,20,LAN
+1990,Tapachula,Tuxtla,Tuxtla-Gutierrez,Mexico,16.7516009,-93.1029939,20,Avicsa
+1993,Kathmandu,Bharatpur,Devghat,Nepal,27.8002203,84.406761,19,Everest Air
+2001,Chichen Itza,Cozumel,Near Chichen Itza,Mexico,20.6783333,-88.5688888,19,Aero Ferinco Charter
+2004,Libreville,Franceville,Off Libreville,Gabon,0.4161976,9.4672676,19,Gabon Express
+2002,Manila,Laoag,Manila,Philippines,14.5995124,120.9842195,19,Laoag International Airlines
+2008,Paramaribo,Lawa,Lawa,Suriname,5.8088874,-55.1909445,19,Blue Wing Airlines
+1999,Gwalior,Pokhran,New Delhi,India,28.6139391,77.2090212,19,Military - Indian Air Force
+2006,MacaÃ©,Rio de Janeiro,Rio Bonito,Brazil,-22.7186089,-42.6279835,19,Team Air
+1990,Ujung Pandang,Selaparang,Mt Rijani,Lombok Island,-8.650979,116.3249438,19,Airfast Services
+2001,St. Maarten,St. BarthÃ©lÃ©my,Gustavia,St. BarthÃ©lÃ©my,,,19,Air Caraibes
+2000,Tuxtla Gutierrez,Villahermosa,Near Villahermosa,Mexico,17.989456,-92.9475061,19,Aerocaribe
+2000,AtlantiCity,Wilkes,Near Wilkes-Barre,Pennsylvania,41.2459149,-75.8813075,19,Executive Airlines
+2008,Jakarta,aerial survelliance,Near Salak Mountain,Indonesia,-6.7160575,106.733719,18,Military - Indonesian Air Force
+2001,Los Angeles,Aspen,Near Aspen,Colorado,39.1910983,-106.8175387,18,Jetwingsco Inc. - Private Charter
+2001,Moscow,Bratsk,Near Novaya Inya,Russia,59.375546,144.862197,18,"Military - Russian, cargo"
+2008,Los Rogues,Carac,Los Roques,Venezuela,11.8575,-66.7575,18,Transaven
+2005,Timika,Enarotali,Enarotali,Indonesia,-3.9369308,136.3821684,18,GT Air
+1993,Minneapolis/St. Paul,Hibbing,Hibbing,Minnesota,47.4271546,-92.9376887,18,Express Airlines - Northwest Airlink
+1994,Kilo Lima,Kelawit,East Kalimantan,Indonesia,0.5386586,116.419389,18,Airfast Services
+1996,St. Petersburg,Krasnodar,Tver,Russia,56.8587214,35.9175965,18,Military - Russian Air Force
+2008,Katmandu,Lukla,Lukla,Nepal,27.6856603,86.7278059,18,Yeti Airlines
+1999,Uruapan,Mexico City,Near Uruapan,Mexico,19.4064492,-102.0430476,18,TAESA
+1990,Malta,Miami,Off Newfoundland,Canada,48.0155232,-55.8062318,18,Faucett
+1993,Vientiane,Phonesavahn,Phonesavanh,Laos,15.1182123,105.7978196,18,Lao Aviation
+1998,Jomsom,Pokhara,Near Ghorepani,Nepal,28.4007902,83.6999856,18,Lumbini Airways
+2002,Jomsom,Pokhara,Pokhara,Nepal,28.237987,83.9955879,18,Shangri La Air
+1999,Sao Vicente,Santo Antao,Santo Antao,Cape Verde Islands,16,-24,18,TACV-Cabo Verde Airlines
+2007,Villavicencio,Uribe,Near Cubarral,Colombia,3.766667,-73.833333,18,Nacional de Aviacion
+2009,Patrol,,Near El Alto de Rubio,Venezuela,-16.373274,-71.5176838,18,Military - Venezuelan Army
+1994,San Pedro,Abidjan,Abidjan,Ivory Coast,5.3599517,-4.0082563,17,Air Ivorie
+2008,Kisangani,Bukavu,Near Bukavu,Congo,-4.3917245,15.3117818,17,Air Serv Internatiional/CemAir
+1999,Manila,Cauayan,Near Bayombang,Philippines,16.4804228,121.1481284,17,Asian Spirit
+1999,Nadzab,Goroka,Goroka,Papua New Guinea,-6.0834773,145.3862638,17,Airlink
+2009,St. Johns,Hibernia platform,Off St. Johns,Newfoundland,47.5605413,-52.7128315,17,Cougar Helicopters
+1993,Dubai,Kerman,Near Kerman,Iran,30.2839379,57.0833628,17,Magistralnye Avialinii
+2003,Islamabad,Kohat,Near Kohat,Pakistan,33.5834014,71.4332193,17,Military - Pakistan Air Force
+2002,Sanofov,Lakhta,Lakhta,Russia,59.991839,30.1583357,17,Military - Russian Navy
+1994,Taura,Latacunga,Ambato,Ecuador,-1.2543408,-78.6228504,17,TAME
+2004,Athens,Mount Athos,Off Mount Athos,Greece,40.2644928,24.2152731,17,Military - Greek Army
+1999,Nausori,Nadi,Nasevou Village,Fiji,-18.105015,178.4029323,17,Air Fiji
+1991,Palangkaraya,Sampit,Tumbang Miri,Indonesia,-0.9397929,113.5430891,17,Bali International Air Service
+2002,Cienfuegos,,Near Placetas,Cuba,22.3179093,-79.6558242,17,Charter - Aerotaxi
+2009,Miller field,Aberdeen,Off Crimond,Scotland,57.601426,-1.916038,16,Bond Offshore Helicopters
+2002,Khabarovsk,Ayan,Near Ayan,Russia,56.454056,138.167328,16,Vostok Aviakompania
+1993,Medan,Banda Aceh,Sumatra,Indonesia,-0.589724,101.3431058,16,Pan Malaysian Air Transport
+1999,Managua,Bluefields,Near Bluefields,Nicaragua,12.0111402,-83.7703693,16,La Costena
+1989,Addis Ababa,Bole,Near Gambela,Ethiopia,8.2471899,34.5915966,16,RRC Air Service
+2005,"Bari, Italy","Djerba, Tunisia",Off Palermo,Italy,38.1156879,13.3612671,16,Tuninter
+2001,Vinh,Dong Hoi,Thanh Tranh Village,Vietnam,21.70137,104.9262531,16,SFC Vietnam - Charter - Full Account
+1996,Guatemala City,Flores,Near Tikal,Guatemala,17.2248941,-89.6110378,16,Transported Areos Profesionales - TAPSA
+1999,Havana,Guatemala City,Guatemala City,Guatemala,14.6349149,-90.5068824,16,Cubana de Aviacon
+2004,Puerto Ayacucho,La Carlota,El Junquito,Venezuela,10.4788542,-67.0822043,16,Guardia Nacional de Venezuela
+1995,Kaduna,Lagos,Lagos,Nigeria,6.5243793,3.3792057,16,Harka Air Services
+2001,Luanda,Lubango,Near Lubango,Angola,-14.9186136,13.5321234,16,Sociedade de Aviacao Ligeira Charter
+1997,Luanda,Lucapa,Lucapa,Angola,-8.4432485,20.7301263,16,ALADA
+1997,Taipei,Matsu,Matsu Island,Taiwan,26.1488889,119.9372222,16,Formosa Airlines
+1989,Stockholm,Oskarshamn,Oskarshamn,Sweden,57.2656993,16.4473984,16,Holmstoem Air
+1996,Durango,Otaez,Otaez,Mexico,24.7026618,-105.99496,16,Aeroservicios Empresariales de Durango
+2001,Medellin,Quibdo,Near Medellin,Colombia,6.2530408,-75.5645737,16,Heliandes
+1996,Banjarmasin,Sampit,Banjarmasin,Indonesia,-3.3186067,114.5943784,16,Dirgantara Air Services
+1998,Thandwe,Sittwe,Yangon (Rangoon),Myanmar,16.8660694,96.195132,16,Myanmar Airways
+1992,Local,,Perris Valley,California,33.8883991,-117.2575774,16,Perris Valley Aviation
+2003,Fallujah,Baghdad,Near Hasi,Iraq,33.223191,43.679291,15,Military - U.S. Army
+1995,Alotou,Dagura,Gumey,Papua New Guinea,-6.7144021,146.9941132,15,Milne Bay Air
+1990,Bogota via Neiva,Ibague,Near Ibague,Colombia,4.444676,-75.242438,15,Helicopteros Nacionales de Colombia
+1999,Pokhara,Kathmandu,Near Kathmandu,Nepal,27.7172453,85.3239605,15,Necon Air
+1991,Kira,Kira,Guadalcanal Island,Solomon Islands,-9.5773284,160.1455805,15,Solomon Islands Airlines
+2005,Bamaga,Lockhart River,Lockhart River,Queensland,-12.7875117,143.3445613,15,Aero-Tropics
+1998,Lyon,Lorient,Near Quiberon,France,47.482133,-3.121053,15,Proteus Air / Private
+1994,Greensboro,Raleigh,Morrisville,North Carolina,35.823483,-78.8255621,15,American Eagle
+1995,Cape Chelyuskin,Sterligov Cope,Sterligov Cape,Russia,81.8308333,59.2263889,15,Norilsk Flight Company
+1997,Jakarta,Tanjung Pandan,Tanjung Pandan,Indonesia,-2.7363153,107.659741,15,Merpati Nusantara Airlines
+1996,Medellin,Bahia Solano,Medellin,Colombia,6.2530408,-75.5645737,14,ACES Colombia
+2009,"Oroville, CA","Butte, MT",Butte,Montana,46.0038232,-112.5347776,14,Eagle Cap Leasing
+1994,Cozumel,Chichen Itza,Off Cozumel,Mexico,20.4229839,-86.9223432,14,Transportes Aereos Pegaso
+2000,Santiago,Coihaique,Puerto Montt,Chile,-41.468917,-72.9411364,14,Military - Fuerza AÃ©rea de Chile
+2006,Nairobi,Eastleigh AFB,Marsabit,Kenya,2.3354966,37.9943453,14,Military - Kenya Air Force
+2005,"Talinn, Estonia","Helsinki, Finland",Off Talinn,Estonia,59.4369608,24.7535746,14,Copterline
+1991,Laredo,Houston,Near Eagle Lake,Texas,29.5896836,-96.3335769,14,Continental Express
+2000,Colombo,Kalmunai,Kumarapura,Sri Lanka,7.9333333,81.25,14,Military - Sri Lanka Air Force
+2001,Adar Yeil,Khartoum,Adar Yeil,Sudan,4.0906387,30.6749897,14,Military - Sudan Air Force
+2005,Boende,Kinshasa,Near Brazzaville,Congo,-4.2633597,15.2428853,14,Air Kasai
+1999,Luanda,Lucapa,Luanda,Angola,-8.8399876,13.2894368,14,Savannair
+1991,Bario,Marudi,Long Seridan,Malaysia,3.983162,115.067001,14,Airtech Rajawaldi Udara
+2000,Cagayancillo,Puerto Princesa,Off Cagayancillo,Philippines,9.634473,121.2397438,14,Military - Philippine Air Force
+1996,"Burlington, IA","Quincy, IA",Quincy,Illinois,39.9356016,-91.4098726,14,United Express / Private
+1995,Bima,Ruteng,Off Flores Island,Inodnesia,-8.6573819,121.0793705,14,Merpati Nusantara Airlines
+2003,Nairobi,Samburu National Park,Mount Kenya,Kenya,-0.1521384,37.3084079,14,Ryan Blake Air Charter
+1998,Huambo,Saurimo,Vila Nova,Angola,-12.64555,16.0400509,14,Transafrik
+2002,Moscow,St. Petersburgh,Moscow,Russia,55.755826,37.6173,14,Pulkovo Aviation Enterprise
+2002,Cairo,Tunis,Near Tunis,Tunisia,36.8064948,10.1815316,14,EgyptAir
+1992,Lanzhou,Xi'an,Near Dingxi,China,35.580663,104.626282,14,Wuhan Airlines
+2008,Bata,Annobon Island,Off Annobon Island,Equatorial Guinea,-1.4333333,5.6333333,13,Military - Government of Equatorial Guinea
+1989,Maraba,Belem,Near Sao Jose do Xingu,Brazil,-10.7986075,-52.7490515,13,Varig
+2001,Puerto Cabello,Caracas,Near Puerto Cabello,Venezuela,10.4697685,-68.0298654,13,Private - OverteCompany
+1993,Santa Elena,Guatemala City,Near Palencia,Guatemala,14.6672532,-90.3583606,13,Aerovias de Guatemala SA
+2008,"Luanda, Angola","Huambo, Angola",Near Huambo,Angola,-12.7739761,15.7468535,13,Gira Globo Charter
+1998,Hsinchu,Kao Hsiung,Off Hsinchu,Taiwan,24.806631,120.968632,13,Formosa Airlines
+2004,"St. Louis, MO","Kirkville, MO",Near Kirksville,Missouri,40.1947539,-92.5832496,13,Corporate Airlines (American Connection)
+1991,Sukhumi,Leningrad,Leningrad,USSR,59.852122,30.325527,13,Aeroflot
+2005,Lusaka,Livingstone,Mongu,Zambia,-15.2735504,23.1501117,13,Military - Zambia Air Force
+1991,Villavicencio,Miraflores Guaviarel,La Poyatta,Colombia,4.44448,-72.1491099,13,ADES Colombia
+1998,Krasnoyarsk,Mirny,Near Krasnoyarsk,Russia,56.0152834,92.8932476,13,Sakha Airlines
+2000,Villavicencio,Mitu,Villavicencio,Colombia,4.1513822,-73.6376905,13,CORAL Colombia
+1991,New Orleans,Mobile,Birmingham,Alabama,33.5206608,-86.80249,13,L'Express Airlines
+1994,Volgograd,Nalchik,Nalchik,Russia,43.4949918,43.6045132,13,North Western Air Transport
+1995,Poliny,Nikolayevsk,Herputchi,Russia,61.52401,105.318756,13,Aeroflot
+1992,Petropavlovsk,Novosobrisk,Chita,Russia,52.0515032,113.4711906,13,Aeroflot
+2006,Abuja,Obudu,Vandeikya,Nigeria,7.719487,8.5327203,13,Military - Nigerian Air Force
+2007,Iquitos,Pucallpa,Near Pampa Hermosa,Peru,-7.447914,-76.560744,13,Military - Peruvian Air Force
+1990,Ramstein AB,Rhein,Near Kaiserslautern,Germany,49.4400657,7.7491265,13,Military - U.S. Air Force
+1991,Ambon,Ternate,Sulawesi,Indonesia,-1.8479,120.5279,13,Merpati Nusantara Airlines
+2009,Mechuka for Jorhat,,State of Arunachal Pradesh,India,27.4871822,96.2048292,13,Military - Indian Air Force
+1995,Leeds,Aberdeen,Near Leeds,England,53.8007554,-1.5490774,12,Knight Air
+1989,Kaohsiung,Chi,Kaohsiung,Taiwan,22.6272784,120.3014353,12,Formosa Airlines
+1992,Salvador,Guanambi,Caetite,Brazil,-14.0648657,-42.4858867,12,Nordeste Linhas AÃ©reas
+2006,Mulia,Ilaga,Puncak Jaya,Indonesia,-4.0845964,137.1866072,12,Trigana Air Service
+2006,Gizel,Khankala,Vladikavkaz,Russia,43.0252344,44.6659759,12,Military - Russian Army
+1994,Tanzania,"Kigali, Rwanda",Kigali,Rwanda,-1.9705786,30.1044288,12,Rwanda Government
+1999,Serener Airstrip,Kilimanjaro IAP,Mount Meru,Tanzania,-3.2166667,36.6666667,12,Northern Air (Tanzania)
+1991,Kavanayen,Luepa,Aponguao Falls,Venezuela,5.9700919,-62.5362029,12,EDELCA
+1996,Belgrade,Malta,Belgrade,Yugosalvia,44.7891785,20.4418579,12,Spair Air Transport
+1995,Poliny Osipenko,Nikolayevsk,Volgograd,Russia,48.708048,44.5133034,12,Volga Air
+1994,Balikpapan,Palu,Mt. Kalora,Indonesia,-0.9082431,119.8655045,12,Merpati Nusantara Airlines
+1997,San Felipe,Puerto Inirida,Puerto Inirida,Venezuela,3.868297,-67.923917,12,SATENA
+1990,Fernando de Noronha,Recife,Off Fernando de Noronha,Brazil,-3.8546145,-32.4243853,12,SUDENE
+1995,Isfahan,Tehran,Isfahan,Iran,32.6546275,51.6679826,12,Military - Iranian Air Force
+1993,Beijing,Urumqi,Urumqi,China,43.825592,87.616848,12,China Northern Airlines
+1994,Mexico City,Washington D.C.,Chantilly,Virginia,38.8942786,-77.4310992,12,TAESA
+1992,Local Flight,,Hinckley,Illinois,41.7689183,-88.640913,12,EXA Inc.
+2002,Military exercises,,Vasco,India,15.3860329,73.8440398,12,Military - Indian Navy
+1989,Cucuta,Arauca,Near Cucuta,Colombia,7.8890971,-72.4966896,11,SATENA
+1996,Port,au,Port-au-Prince,Hati,18.594395,-72.3074326,11,Hati Express
+2008,Tocumen,Colon,Panama City,Panama,9.1011785,-79.4028639,11,Military - Servicio Aereo Nacional
+2007,Mogadishu,Djibouti,Mogadishu,Somalia,2.0469343,45.3181623,11,Transaviaexport Airlines
+2002,Gas platform Clipper,drilling rig Golbal Sante Fe Monach,Off Cromer,Norfork,36.2095132,-92.284323,11,Bristow Helicopters
+2008,Guatemala City,El Estor,Near CabaÃ±as,Guatemala,15.783471,-90.230759,11,AÃ©reo Ruta Maya
+1999,Dallas,Fort Worth,Little Rock,Arkansas,34.7464809,-92.2895948,11,American Airlines
+1989,Pune,Hyderabad,Ujani Dam,India,18.1364287,75.0961549,11,Vayudoot
+1990,Kokand,Kabul,Kabul,Afghanistan,34.5553494,69.207486,11,Aeroflot
+1989,"Hilo, HI","Kahului, HI",Waipio Valley,Hawaii,20.1114625,-155.5950498,11,SceniAir Tours
+1999,Hoskins,Kandrian,Hoskins,Papua New Guinea,-5.4817061,150.3935521,11,Airlink
+1990,Proserpine,Mareeba,Near Mt. Emerald,Qld,-17.2079882,145.4076682,11,Air North Queensland
+1992,Villavicencio,Mitu,Bogota,Colombia,4.7109886,-74.072092,11,Avesca Colombia
+2009,"Entebbe, Uganda","Mogadishu, Somalia",Lake Victoria,Uganda,-0.7557754,33.438353,11,Aerolift
+2009,Ilaga,Mulia,Mount Gergaji,Indonesia,-1.0655556,119.5777778,11,Mimika Air
+1994,Pontianak,Nanga Pinoh,Nanga Pinoh,Indonesia,-0.3656789,111.7376178,11,Dirgantara Air Services
+1991,Hiva Ou,Nuku Hiva,Off Nuka Hiva,French Polynesia,-8.8604808,-140.1420882,11,Air Tahiti
+2006,Tehran,Orumiyeh,Near Orumiyeh,Iran,37.5498061,45.0786282,11,Military - Iranian Revolutionary Guard Corps Air Force
+2000,"Lakehurst, NY","Patuxent River, MD",Burlington Township,New Jersey,40.0561471,-74.8458822,11,Patuxent Airways / Private
+1998,Montreal,Peterborough,Montreal,Canada,45.5016889,-73.567256,11,Propair
+1998,Plaa Grande,Quetzaltenango,Near Quetzaltenango,Guatemala,14.8520705,-91.5305465,11,Living Water Teaching Ministries Charter
+1998,St. Maarten,Roseau,Roseau,Dominica,15.3091676,-61.3793554,11,Air Anguilla
+1990,Camaguey,Santiago de Cuba,Santiago de Cuba,Cuba,20.01693,-75.8301537,11,Cubana de Aviacion
+2008,Bosnia,"Skopje, Macedonia",Blace,Macedonia,42.1526524,21.3318248,11,Military - Macedonian Air Force
+1989,Exercise,,Fairbanks,Alaska,64.8377778,-147.7163889,11,Military - Canadian Army
+1991,San Diego,"Amarillo, TX",San Diego,CA,32.715738,-117.1610838,10,Duncan Aircraft Sales
+1998,"Bourgas, Bulgaria","Asmara, Eritrea",Asmara,Eritrea,15.3228767,38.9250517,10,Ukraine Aviation Transport Company
+2005,Bagdad,Balad,Near Al Taji,Iraq,33.5372272,44.2621399,10,Military - Royal Air Force
+2002,Roosevelt Roads NS,Borinquen NGB,Caguas,Puerto Rico,18.2387995,-66.035249,10,Military - U.S. Air Force
+1995,Neiva,Cali,Nevada del Huila,Colombia,2.9241666,-76.0291666,10,AIRES Colombia
+2005,"Balmaceda, Argentina","Chile Chiro, Chile",El Portezulo,Argentina,-28.4700004,-65.6355522,10,Transportes Aereos Don Carlos - Charter
+2000,ZÃ¼rich,Dresden,Niederhasli,Switzerland,47.4788154,8.4871839,10,Crossair
+2001,San Fernando,El Calafate,Near Roque Perez,Argentina,-35.4006236,-59.3348143,10,Private - Techint group
+1995,Atlanta,Gulfport,Near Carrollton,GA,33.5801103,-85.0766113,10,AtlantiSoutheast Airlines
+2001,Paramaribo,Jakobkondre,Jakobkondre,Suriname,3.919305,-56.027783,10,Gum Air Charter
+1999,Simara,Kathmandu,Near Simara,Nepal,26.8133537,85.4839604,10,Skyline Airways
+2001,Dillingham,King Salmon,Dillingham,Alaska,59.0397222,-158.4575,10,PenAir
+2002,Tarakan,Krayan,Near Long Barai,Indonesia,-6.1835777,106.9543486,10,Sabang Merauke Raya Air Charter
+2000,San Jose,La Fortuna,Near La Fortuna,Costa Rica,9.2563997,-83.5451452,10,SANSA
+2008,Puerto Montt,La Junta,Yeco,Chile,-33.316667,-71.6333329,10,Patagonia Airlines
+1995,Tual,Langgar,Near Kaimana,Indonesia,-3.288406,133.9436788,10,Bourag Indonesia Airlines
+1992,"Meadview, AZ","Las Vegas, NV",Meadview,Arizona,36.002155,-114.0684841,10,Adventure Airlines
+2002,Basilan,Mactan Island,Off Dumaguete,Philippines,9.3068402,123.3054467,10,Military - U.S. Army
+2004,"Concord, NC","Martinsville, VA",Martinsville,Virginia,36.6915262,-79.8725386,10,Private - Hendrick Motorsports Inc.
+1989,Wanaka,Milford Sound,Near Midford Sound,New Zealand,-45.7246329,166.5065212,10,Aspring Air
+1997,Bandar Seri Begawan,Miri,Near Miri,Malaysia,4.399493,113.9913832,10,Borneo Airways
+1994,Villavicencio,Mitu,Mitu,Colombia,1.2521739,-70.233618,10,SELVA
+2001,Moscow,Norilsk,Near Moscow,Russia,55.755826,37.6173,10,Russ Air Transport Company
+1992,Igarka,Omsk,Norlisk,Russia,69.35579,88.1892938,10,Krasnoyarskavia
+1994,Kissimmee,Opa,Okeechobee,Florida,27.2439349,-80.8297828,10,Kimura International
+2001,Barcelona,"Oran, Algeria",Off Valencia,Spain,39.4699075,-0.3762881,10,Flightline
+1996,"San Diego, CA","Portland, OR",Off Cape Mendocino,CA,36.778261,-119.4179324,10,Military - U.S. Air Force
+2000,Panama City,Puerto Obaldia,Near Kuna Yala,Panama,9.2344395,-78.192625,10,Aeroperlas
+1997,Panama City,Rio Sidra,Rio Sidra,Panama,8.537981,-80.782127,10,Parsa
+1995,Paris,Romania,Le Bourget,France,48.936752,2.425377,10,Leadair - Charter
+1996,Berlin,Salzburg,Salzburg,Austria,47.80949,13.05501,10,Private Wings
+1992,La Paz,Santa Ana de Yacuma,Colorado,Bolivia,-13.5,-62.133333,10,Servicios Aereos Santa Ana
+1989,"Las Vegas, NV","Santa Ana, CA",Corona,California,33.8752935,-117.5664384,10,Air Taxi - Las Vegas Flyers Inc.
+1997,Villamontes,Santa Cruz,La Veriente,Bolivia,-21.2921199,-63.2982417,10,STAP
+2007,"Star, ID","Shelton, WA",White Pass,Washington,46.5059054,-121.7235139,10,Kapowsin Air Sports
+2001,"Broomfield, CO","Stillwater, OK",Byers,Colorado,39.7102023,-104.2233886,10,North Bay Charter
+1992,Chekurdakh,Tiksi,Near Yakutia,Russia,66.7613451,124.1237531,10,Aeroflot
+1991,Saint Petersburg,Voronezh,Gulf of Finland,Russia,59.9715788,28.6728787,10,Aeroflot
+2004,"Pelee Island, Ontario","Windsor, Ontario",Lake Erie,off Pelee Island,41.7744889,-82.6591465,10,Georgia Express
+2008,Betong,,Sunat Tanon,Thailand,6.7376355,101.4282369,10,Military - Royal Thai Air Force
+1989,Grand Canyon National Park,,Grand Canyon National Park Airport,Tusayan,35.9550497,-112.1431196,10,Grand Canyon Airlines
+1989,Observation flight out of Cape Schmidt,,Talourow Island,USSR,54.1478418,25.2991586,10,Aeroflot
+2009,"Istanbul, Turkey","Amsterdam, Netherlands",Amsterdam,Netherlands,52.3702157,4.8951679,9,Turkish Airlines
+1994,Lazaro,Cardenas,Near Uruapan,Mexico,19.4064492,-102.0430476,9,Aerolineas Cuahonte
+2007,El,Gora,Near El-Thamad,Egypt,29.668961,34.303909,9,Military - French Air Force
+1992,Uruapan,Guadalajara,Uruapan,Mexico,19.4064492,-102.0430476,9,Aero Sudpacifico
+1989,Los Angeles,Honolulu,Honolulu,Hawaii,21.3069444,-157.8583333,9,United Air Lines
+1991,"Rome, GA","Huntsville, AL",Rome,Georgia,34.257038,-85.1646726,9,Bruno Air
+2001,Timika,Jayapura,Near Silimo,Indonesia,-4.4906921,139.0009403,9,Military - Tentara Nasional Indonesia Navy
+2006,Surkhet,Jumla,Jumla,Napal,29.2787765,82.12784,9,Yeti Airlines
+1995,Jos,Kano,Kaduna,Nigeria,10.5104642,7.4165053,9,Nigeria Airways
+2000,Moscow,Kiev,Moscow,Russia,55.755826,37.6173,9,Vologodskiye Airlines
+1994,Newcastle,Lord Howe Island,Off Lord Howe Island,NWSW,-31.5553263,159.0821211,9,Seaview Aviation
+1999,Huambo,Luanda,Near Huambo,Angola,-12.7739761,15.7468535,9,Transafrik - United Nations Charter
+1991,Nogougou,Luganville,Espiritu Santos,Vanuatu,-15.3003549,166.9182097,9,Vanair
+2008,Puerto Montt,Melinka Island,Puerto Montt,Chile,-41.468917,-72.9411364,9,Aerocord
+2001,Abaco,Miami,Marsh Harbour,Bahamas,26.5241653,-77.0909809,9,Blackhawk Int. Airways - Private charter
+2004,Skopje,Mostar,Bitonja,Bosnia-Herzegovina,43.9691254,17.9012987,9,Military - Government of Macedonia
+1996,"Jackson Hole, WY","New York, NY",Near Jackson Hole,Wyoming,43.4799291,-110.7624282,9,Military - U.S. Air Force
+1999,"Johannesburg, South Africa","Oranjemund, Namibia",Johannesburg,South Africa,-26.2041028,28.0473051,9,Charter - Flightline Charter Services
+1995,Petropavlovsk,Ossora,Ossora,Russia,59.233082,163.067535,9,Aeroflot
+1997,"Montrose, CO","Page, AZ",Near Montrose,Colorado,38.4783198,-107.8761738,9,SceniAirlines
+2008,Chelyabinsk,Perm,Near Chelyabinsk,Russia,55.1644419,61.4368431,9,Moskovia Airlines
+1995,Saltillo,Piedras Negras,Near Piedras Negras,Mexico,28.6916182,-100.5408622,9,TACSA
+1993,Glentanner,Queenstown,Franz Josef Glacier,New Zealand,-43.3873293,170.1832884,9,Hibiscus Air
+2001,Guatemala City,"San Pedro Sula, Honduras",Guatemala City,Guatemala,14.6349149,-90.5068824,9,AtlantiAirlines
+1996,Brasilia,Sao Paulo,Sao Paulo,Brazil,-23.5505199,-46.6333094,9,Madrid Taxi AÃ©reo - Charter
+1996,Delhi,Shimla,Near Kanda,India,29.1898901,76.2218394,9,Archana Airlines
+1994,"Taku Lodge, AK","Taku Lodge, AK",Jeneau,Alaska,58.3019444,-134.4197222,9,Air Taxi - Sun Western Flyers Inc.
+1991,Bucharest,Timisoara,Near Uricani,Romania,45.340086,23.1533879,9,Tarom
+2005,Vanavara,Tura,Tura,Siberia,64.2738514,100.2187928,9,Tura Air Enterprise
+1995,Mitu,Villavicencio,Cerro San Jeronimo,Colombia,6.4522222,-75.7033333,9,ADES Colombia
+2008,Ferrying fire fighters,,Near Junction City,California,40.733199,-123.0536402,9,Junction City Fire Department
+1992,Local sightseeing,,Mt. Haleakala,Hawaii,20.709722,-156.253333,9,SceniAir Tours
